@@ -1,0 +1,218 @@
+.clear {
+    clear: both;
+}
+
+nav.navbar {
+    background-color: #4371A7;
+    color: white;
+    padding: 0;
+    padding-bottom: 20px;
+    border-radius: 0;
+}
+
+nav a {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    margin-right: 23px;
+    padding-top: 20px;
+    color: white !important;
+}
+
+nav a:hover {
+    color: white;
+}
+
+#tabzilla {
+    position:relative;
+    float:right
+}
+#tabzilla a {
+    position:relative;
+    display:block;
+    width:147px;
+    height:37px;
+    text-indent:120%;
+    white-space:nowrap;
+    overflow:hidden;
+    background-image:url(https://www.mozilla.org/media/img/tabzilla/tabzilla-static.png);
+    background-repeat:no-repeat;
+    z-index:2
+}
+@media(-webkit-min-device-pixel-ratio:1.5),(min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(min-resolution:1.5dppx) {
+    #tabzilla a {
+        background-image:url(https://www.mozilla.org/media/img/tabzilla/tabzilla-static-high-res.png);
+        -webkit-background-size:147px 37px;
+        background-size:147px 37px
+    }
+}
+#tabzilla:before {
+    position:absolute;
+    display:block;
+    left:28px;
+    top:0;
+    width:88px;
+    height:26px;
+    content:'';
+    background-color:transparent;
+    z-index:1
+}
+
+.jumbotron {
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('../img/photo_top.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    border-radius: 0;
+}
+
+.jumbotron .lead {
+    color: white;
+}
+
+.float-left {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+.action {
+    text-align: center;
+}
+
+@media screen and (max-width:992px;) {
+    .action {
+        margin-top: 30px;
+    }
+}
+
+.action > span {
+    font-weight: bold;
+    font-size: 1.3em;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.action > a.btn {
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.home .area {
+    width: 280px;
+    text-align: center;
+    float: left;
+    margin-right: 1em;
+    font-weight: bold;
+}
+
+.home h1,
+.home h3,
+.home h4 {
+    text-align: center;
+}
+
+.home .text {
+    text-align: center;
+}
+
+.site-footer {
+    color: white;
+    padding: 40px 0;
+    background-color: #4D4F53;
+    width: 100%;
+    margin: 1em 0 0;
+}
+
+.site-footer p,
+.site-footer li {
+    font-size: .75rem;
+    font-size: .75rem;
+    line-height: 1.3;
+    margin: 0;
+}
+
+.footer-col-1 {
+    width: -webkit-calc(35% - (30px / 2));
+    width: calc(35% - (30px / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(25% - (30px / 2));
+    width: calc(25% - (30px / 2));
+}
+
+.footer-col-3 {
+    width: -webkit-calc(40% - (30px / 2));
+    width: calc(40% - (30px / 2));
+}
+
+.site-footer .logo {
+    margin-top: 0;
+}
+
+.site-footer .logo a {
+    text-indent: 120%;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    background-image: url(https://www.mozilla.org/media/img/sandstone/footer-mozilla.png);
+    width: 93px;
+    height: 24px;
+}
+
+.site-footer a {
+    color: #ccc;
+}
+
+.footer-heading {
+    font-size: 18px;
+    margin-bottom: $spacing-unit / 2;
+}
+
+.footer-col ul.links-join li.wrap:before,
+.footer-col ul.links-legal li.wrap:before {
+    content: "\00B7\00A0";
+    margin-left: 3px;
+}
+
+.footer-col {
+    float: left;
+    margin-bottom: 15px;
+    padding-left: 15px;
+}
+
+.footer-col ul.links-join, .footer-col ul.links-legal {
+    margin: 5px 0;
+    overflow: hidden;
+}
+
+.footer-col ul.links-join li, .footer-col ul.links-legal li {
+    float: left;
+    margin: 0;
+    list-style-type: none;
+}
+
+ul {
+    margin-left: 30px;
+}
+
+@media screen and (max-width: 800px;) {
+    .footer-col-1,
+    .footer-col-2 {
+        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+        width:         calc(50% - (#{$spacing-unit} / 2));
+    }
+
+    .footer-col-3 {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+
+@media screen and (max-width: 600px;) {
+    .footer-col {
+        float: none;
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
