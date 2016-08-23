@@ -97,6 +97,18 @@ nav a:hover {
     margin-top: 5px;
 }
 
+.img-responsive {
+    display: block;
+    max-width: 100%;
+}
+
+img.text-center {
+    display: block;
+    margin: 10px;
+    max-width: 600px;
+    margin: auto;
+}
+
 .home .area {
     width: 280px;
     text-align: center;

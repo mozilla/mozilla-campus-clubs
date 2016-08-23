@@ -10,3 +10,5 @@ github_username:  mozilla
 
 # Build settings
 markdown: kramdown
+
+include: ['_pages']
