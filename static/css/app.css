@@ -75,6 +75,18 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+p.ul {
+    margin-bottom: 0;
+}
+
+ul > li {
+    margin: 0;
+}
+
+b > a:link {
+    font-weight: bold;
+}
+
 .action {
     text-align: center;
 }
