@@ -6,7 +6,7 @@ nav.navbar {
     background-color: #4371A7;
     color: white;
     padding: 0;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     border-radius: 0;
 }
 
@@ -20,6 +20,12 @@ nav a {
 
 nav a:hover {
     color: white;
+}
+
+.navbar-brand > img {
+    max-width: 90px;
+    padding-top: 10px;
+    margin-right: 10px;
 }
 
 #tabzilla {
