@@ -81,6 +81,11 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+.muted {
+    font-size: 0.8em;
+    color: #444;
+}
+
 p.ul {
     margin-bottom: 0;
 }

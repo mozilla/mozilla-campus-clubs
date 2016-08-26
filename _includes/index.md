@@ -6,7 +6,9 @@
 
 Mozilla’s mission is to ensure the Internet is a global public resource, open and accessible to all.
 A Mozilla University & College Club is a group of students who meet regularly to advance this mission by leading and participating in activities that teach, build, and protect the web in an inclusive, engaging way.
-Not based on a University or College Campus but want to start a club? [Check out the Mozilla Clubs page](https://learning.mozilla.org/clubs)!
+
+{: .muted}
+Not based on a University or College Campus but want to start a club? [Check out the Mozilla Clubs page](https://learning.mozilla.org/clubs).
 
 {: .clear .hidden-sm-down}
 &nbsp;
