@@ -3,19 +3,23 @@
 }
 
 nav.navbar {
-    background-color: #4371A7;
+    background-color: #3BBA99;
     color: white;
     padding: 0;
-    padding-bottom: 10px;
     border-radius: 0;
+    height: 70px;
 }
 
 nav a {
     font-size: 1.2em;
     text-transform: uppercase;
-    margin-right: 23px;
-    padding-top: 20px;
+    margin-right: 25px;
+    padding-top: 42px;
     color: white !important;
+}
+
+nav a:link {
+    font-weight: bold;
 }
 
 nav a:hover {
@@ -23,9 +27,8 @@ nav a:hover {
 }
 
 .navbar-brand > img {
-    max-width: 90px;
     padding-top: 10px;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 #tabzilla {
@@ -148,6 +151,33 @@ img.text-center {
 
 .home .text {
     text-align: center;
+}
+
+.resources {
+    margin: auto;
+    max-width: 500px;
+}
+
+.resources > img {
+    float: left;
+    margin-right: 15px;
+    margin-top: -30px;
+    padding-bottom: 30px;
+}
+
+.resources > a.head-link {
+    font-weight: bold;
+    display: block;
+    background-color: #FFD75E;
+    width: 300px;
+    margin-top: 40px;
+    padding: 7px;
+    margin-left: 20px;
+}
+
+.resources > span {
+    padding-top: 5px;
+    display: block;
 }
 
 .site-footer {

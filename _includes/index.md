@@ -1,5 +1,5 @@
 {: .float-left}
-![Mozilla Clubs]({{ site.baseurl }}/static/img/clubs.svg)
+![Mozilla Clubs]({{ site.baseurl }}/static/img/students.png)
 
 
 ## What is a Mozilla Campus Club?
