@@ -25,4 +25,4 @@ python3 -m http.server
 
 You will be able to access the site at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
-Clone this repo, create a issue first and then a pull request to submit changes.
+Clone this repo, create an issue first and then a pull request to submit changes.
