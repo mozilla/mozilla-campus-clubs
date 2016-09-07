@@ -31,6 +31,38 @@ nav a:hover {
     margin-right: 20px;
 }
 
+.navbar-toggler {
+    float: right;
+    margin-top: 20px;
+}
+
+@media all and (min-width: 768px) {
+    .navbar-toggleable-xs {
+        display: inline-block !important;
+    }
+}
+
+@media all and (max-width: 992px) {
+    .navbar > .container {
+        max-width: 100%;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .navbar .navbar-toggleable-sm {
+        padding-top: 70px;
+        z-index: 99;
+    }
+
+    nav a.nav-link {
+        display: block;
+        background-color: #3BBA99;
+        color: black !important;
+        padding: 10px;
+        max-width: 160px;
+    }
+}
+
 #tabzilla {
     position:relative;
     float:right

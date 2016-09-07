@@ -1,16 +1,22 @@
 <header class="site-header">
 
-  <nav class="navbar navbar-inline">
+  <nav class="navbar">
     <div class="container">
       <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/static/img/clubs.svg" alt="{{ site.title | escape }}"></a>
-      <a class="nav-link" href="{{ site.baseurl }}/about">About Clubs</a>
-      <a class="nav-link" href="#">FAQ</a>
-      <a class="nav-link" href="{{ site.baseurl }}/resources">Resources</a>
-      <a class="nav-link" href="{{ site.baseurl }}/activities">Activities</a>
-      <a class="nav-link" href="#">Connect</a>
-      <a class="nav-link" href="#">Report</a>
 
-      <div id="tabzilla">
+      <button class="navbar-toggler hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar" aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
+        &#9776;
+      </button>
+      <div class="collapse navbar-toggleable-sm" id="exCollapsingNavbar">
+        <a class="nav-link" href="{{ site.baseurl }}/about">About Clubs</a>
+        <a class="nav-link" href="#">FAQ</a>
+        <a class="nav-link" href="{{ site.baseurl }}/resources">Resources</a>
+        <a class="nav-link" href="{{ site.baseurl }}/activities">Activities</a>
+        <a class="nav-link" href="#">Connect</a>
+        <a class="nav-link" href="#">Report</a>
+      </div>
+
+      <div id="tabzilla" class="hidden-md-down">
         <a href="https://www.mozilla.org/" data-link-type="nav" data-link-name="tabzilla">Mozilla</a>
       </div>
     </div>
