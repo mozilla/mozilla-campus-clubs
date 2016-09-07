@@ -37,7 +37,7 @@ nav a:hover {
 }
 
 @media all and (min-width: 768px) {
-    .navbar-toggleable-xs {
+    .navbar-toggleable-sm {
         display: inline-block !important;
     }
 }
