@@ -158,7 +158,8 @@ img.text-center {
     max-width: 500px;
 }
 
-.resources > img {
+.resources > img,
+.activities > img {
     float: left;
     margin-right: 15px;
     margin-top: -30px;
@@ -175,9 +176,44 @@ img.text-center {
     margin-left: 20px;
 }
 
-.resources > span {
+.resources > span,
+.activities > span {
     padding-top: 5px;
     display: block;
+}
+
+.activities {
+    margin: auto;
+    margin-left: -50px;
+}
+
+@media all and (max-width: 800px) {
+    .activities {
+        margin-left: 0px;
+    }
+}
+
+.activities > p {
+    font-weight: bold;
+    display: block;
+    background-color: #FFD75E;
+    width: 300px;
+    margin-top: 40px;
+    padding: 7px;
+    margin-left: 20px;
+}
+
+.activities-table {
+    background-color: #DFF3EE;
+    padding: 5px;
+}
+
+.activities-table > div {
+    padding-top: 10px;
+}
+
+.activities-table > div:nth-child(2) {
+    background-color: white;
 }
 
 .site-footer {
