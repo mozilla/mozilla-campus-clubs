@@ -26,4 +26,4 @@ The Internet is more than computers and code. **The Internet is about people**. 
 
 Regional Coordinator are people with strong leadership skills and proven experience on mentoring people, especially on campuses. They work closely with the staff mentors to supporting Club Captains. A Regional Coordinator is responsible for making sure the campus program is successfully running in their local region.
 
-Read the full Roles & Responsibilities of a Regional Coordinator [here]().
+Read the full Roles & Responsibilities of a Regional Coordinator [here](https://drive.google.com/open?id=1GypBGnffjxfyX174g7fiLAcZF8tSKC5Xo7Qd4gpC5yM).
