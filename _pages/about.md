@@ -42,15 +42,9 @@ At the start of each year, Campus Clubs plan on the impact they want to make in 
 
 # Roles in Campus Clubs
 
-All leaders in Mozilla Clubs will...
+Passionate, dedicated leaders are key to the success of Campus Clubs. As they support and grow their communities they'll also grow their own knowledge and skills, learn more about open and become part of a network of leaders and doers who support and challenge them. 
 
-* Partake in onboarding, share event report outs, commit to running regular (at least monthly) events, participate in community calls, and contribute back resources and learning materials
-* Holding regular, in-person meetings
-* Comit to ensuring the internet is a global public resource, open and accessible to all
-* Gain skills that are helpful in their personal and professional lives
-* Be able to increase the knowledge and skills of their communities
-* Understand what open practices are and why they are important
-* Be part of a network of leaders and doers who support and challenge them 
+Ready to take the plunge? Find out more about the Campus Clubs roles below. 
 
 ## Regional Coordinators
 
