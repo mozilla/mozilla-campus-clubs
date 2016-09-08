@@ -79,7 +79,7 @@ A Club Executive is identified with one or more of the following titles:
 
 Read the full Roles & Responsibilities of the Executive Team [here](https://docs.google.com/document/d/1XW0jXnIDUsmCaeB9yqGFeet6XRfOvnmMWGbodAOXwHg/pub). 
 
-## Members 
+### Members 
 What’s a Club with no participants? Members are the heart of Campus Clubs, they attend meetings, run events, participate in activities and grow their skills and connect with others through the Campus Clubs framework. 
 
 Looking to join a club? Find it on the map (coming soon). 
