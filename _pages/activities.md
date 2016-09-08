@@ -32,7 +32,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
 <div class="row activities-table">
   <div class="col-md-4">
-    <p><b>Maker Party: <a href="https://docs.google.com/document/d/1SHxJlnDSJwWHRLk3BMfDZWOaRcFXwedPOWSyAmybMJs/" target="_blank">Contributing Photos to the Commons</a></b></p>
+    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity02-contribute-to-the-commons.html" target="_blank">Contributing Photos to the Commons</a></b></p>
 
     <p>Help people understand the commons’ value - content we can all use freely in our lives and work, by contributing to it.</p>
 
@@ -52,7 +52,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
   </div>
 
   <div class="col-md-4">
-    <p><b>Maker Party: <a href="https://docs.google.com/document/d/1bA_w9iFnZBHkXReadQ6mBqHwitn-czD2_YmfVpbJ484/edit#heading=h.vt5k89xbxu3y" target="_blank">Meme Around</a></b></p>
+    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity01-meme-around.html" target="_blank">Meme Around</a></b></p>
 
     <p>Use participants’ favorite memes to teach about copyright reform</p>
 
@@ -75,8 +75,8 @@ Before you jump right in: Look at your goals for the year, what do you want to a
     <p><b>Raise awareness of Tracking, Cyber Security & Government Surveillance</b></p>
 
     <p>
-      Activity 1 - Privacy Basics: Online tracking
-      Activity 2 - Privacy Basics: Passwords, Tracking, Data Retention
+      <li> Activity 1 - <a href="https://d157rqmxrxj6ey.cloudfront.net/mozstacy/21938/">Privacy Basics: Online tracking</a></li>
+      <li> Activity 2 - <a href="https://learning.mozilla.org/en-US/activities/privacy-basics/">Privacy Basics: Passwords, Tracking, Data Retention</a></li>
     </p>
 
     <p>Throw a workshop to help spread awareness of the threats to people’s privacy and security online.</p>
@@ -115,7 +115,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
 <div class="row activities-table">
   <div class="col-md-4">
-    <p><b>Maker Party:  <a href="https://docs.google.com/document/d/1sxwkdPO8mnP4q_JYQSHAK3fVJr-4Tlbznsj1DQ5BxhU/edit#heading=h.qu3a5tye3xlc" target="_blank">Don’t Break The Internet</a></b></p>
+    <p><b>Maker Party:  <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity04-dont-break-the-internet.html#overview" target="_blank">Don’t Break The Internet</a></b></p>
 
     <p>Get technologists to find ways to demonstrate the importance of free and open source software, project stewardship of open projects, and reasonable copyright laws by creating interactive experiences online.</p>
 
@@ -153,7 +153,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
   </div>
 
   <div class="col-md-4">
-    <p><b>Build for VR</b></p>
+    <p><b><a href="https://aframe.io/">Build for VR</a></b></p>
 
     <p>Help bring a new kind of open technology to the web by using markup to create virtual reality experiences that work across desktop, iOS, Android, the Oculus Rift, and the HTC Vive.</p>
 
@@ -190,7 +190,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
 <div class="row activities-table">
   <div class="col-md-4">
-    <p><b>Maker Party: <a href="https://docs.google.com/document/d/1NA75ay6O2yevGOCgoHcvsGlptt0PFHwH7YEgWBfkXjk/edit#heading=h.t9370uv5o7rn" target="_blank">Throw a Copyright Forum</a></b></p>
+    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity05-copyright-forum.html" target="_blank">Throw a Copyright Forum</a></b></p>
 
     <p>Challenge your audience to take up the fight for copyright reform</p>
 
@@ -215,7 +215,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
   </div>
 
   <div class="col-md-4">
-    <p><b>Tor on Campus</b></p>
+    <p><b><a href="https://www.eff.org/torchallenge/tor-on-campus.html">Tor on Campus</a></b></p>
 
     <p>Help anonymized internet connections travel faster so that people can use the Internet safely and more efficiently, by advocating for a Tor node on your university and college campuses.</p>
 
@@ -233,7 +233,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
   </div>
 
   <div class="col-md-4">
-    <p><b>Maker Party: Contributing Photos to the Commons</b></p>
+    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity02-contribute-to-the-commons.html">Contributing Photos to the Commons</a></b></p>
 
     <p>Help people understand the commons’ value - content we can all use freely in our lives and work, by contributing to it.</p>
 
