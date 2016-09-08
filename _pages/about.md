@@ -6,6 +6,7 @@ ref: about
 ---
 
 ## Why Mozilla
+https://www.flickr.com/photos/mozfest/22893189741/
 
 At Mozilla, we’re a global **community** of technologists, thinkers and builders **working together** to **keep the Internet alive and accessible**, so people worldwide can be informed contributors and creators of the Web.
 
@@ -27,7 +28,7 @@ There are different streams of Mozilla Clubs depending on whether they are on a 
 
 ## Campus Clubs Vision
 
-<img src="https://www.flickr.com/photos/christosbacharakis/26259610295/in/album-72157666705796281/">
+https://www.flickr.com/photos/christosbacharakis/23049938645/in/album-72157661293035665/
 
 Imagine the highest quality university student programs you’ve ever heard of. Programs that **incite invention, inspire innovation,** and **foster global change**.
 
