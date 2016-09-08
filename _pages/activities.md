@@ -7,11 +7,9 @@ ref: activities
 
 ### Recommended activities for having an impact in 2016.
 
-As you take a look at the activities below you may be tempted to grab your teammates and get started right away. However, you’ll find these activities more useful and more fulfilling if you use these activities as tools to achieve the Key Aspirations you set out in your Year Plan.
+As you take a look at the activities below you may be tempted to grab your team and get started right away. However, you’ll find these activities more useful and more fulfilling if you use these activities as tools to achieve the Key Aspirations you set out in your <a href="https://docs.google.com/document/d/16C7fTPFCkLsgm4p2sikxDxaFuRBgRG-Hx8jRbbkNW64/pub">Year Plan</a>.
 
-Before you jump right in:
-
-**Step 1.** Look at your goals for the year, what do you want to accomplish in each of the impact areas? Which of the following activities best map to those goal?
+Before you jump right in: Look at your goals for the year, what do you want to accomplish in each of the impact areas? Which of the following activities best map to those goal?
 
 
 {: .clear}
@@ -235,19 +233,19 @@ Before you jump right in:
   </div>
 
   <div class="col-md-4">
-    <p><b>Basics of Open Source  Workshop</b> - Coming Soon!</p>
+    <p><b>Maker Party: Contributing Photos to the Commons</b></p>
 
-    <p>Run a session on your campus to teach the basics of open source.</p>
+    <p>Help people understand the commons’ value - content we can all use freely in our lives and work, by contributing to it.</p>
 
     <p class="ul">Goals:</p>
     <ul>
-      <li>Open</li>
       <li>Awareness</li>
       <li>Participate</li>
     </ul>
 
     <p class="ul">Suggested Goals:</p>
     <ul>
+      <li># of photos added to the commons </li>
       <li># of events</li>
       <li># of attendees</li>
     </ul>
