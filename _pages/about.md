@@ -18,7 +18,7 @@ We believe that students are uniquely positioned to make a difference in the wor
 
 <img src="{{ site.baseurl }}/static/img/photo_clubs.jpg" alt="Mozilla Clubs" class="text-center">
 
-A Mozilla Club meets regularly in person to teach, protect and build the open web in an engaging and collaborative way. 
+A Mozilla Club meets regularly in person to **teach**, **protect** and **build** the open web in an engaging and collaborative way. 
 
 The Internet is more than computers and code. The Internet is about people. And this is what Mozilla Clubs are all about: interacting with others to share, learn, teach, protect and build upon platforms, to make things that matter. Our Clubs are human structures that make the web real.
 
