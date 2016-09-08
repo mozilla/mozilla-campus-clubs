@@ -49,8 +49,8 @@ ref: resources
   <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/pub" target="_blank" class="head-link">Year Planning Template</a>
   <span>
     Create your own Year Planning document by filling in one of these templates:
-    <li>For <b>Regional Coordinators</b> <a href="https://docs.google.com/document/d/10xe5M32Cr5o-JupwCq3Rn6WsBYuLNdAaWxonnCS0LSw/copy" target="_blank">Template</a></li>
-    <li>For <b>Club Captains</b> - <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy" target="_blank">Template</a></li> 
+      <li>For <b>Regional Coordinators</b> <a href="https://docs.google.com/document/d/10xe5M32Cr5o-JupwCq3Rn6WsBYuLNdAaWxonnCS0LSw/copy" target="_blank">Template</a></li>
+      <li>For <b>Club Captains</b> - <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy" target="_blank">Template</a></li> 
   </span>
 </div>
 
@@ -79,10 +79,10 @@ ref: resources
 
 <div class="resources">
   <img src="{{ site.baseurl }}/static/img/book.png" alt="">
-  <span>
   <a href="http://mozilla.github.io/learning-networks/clubs/events-women-girls-guide/" class="head-link">Designing Safe Inclusive Events for Women and Girls</a>
-  <span>Tips for designing safe and inclusive events for women and girls.
-</span>
+  <span>
+  Tips for designing safe and inclusive events for women and girls.
+  </span>
 </div>
 
 {: .clear}
