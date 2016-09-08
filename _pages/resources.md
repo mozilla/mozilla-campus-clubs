@@ -39,7 +39,7 @@ ref: resources
 <div class="resources">
   <img src="{{ site.baseurl }}/static/img/book.png" alt="">
   <a href="#" class="head-link">Register Your Club</a>
-  <span>Apply to start a club</span>
+  <span>Apply to start a club <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0JzGH3ivpOEH8GeUZTlDMHXhYbmXqs4Ejey-O2ZAw_TXV8Q/viewform">here</a></span>
 </div>
 
 {: .clear}
