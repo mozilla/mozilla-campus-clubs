@@ -36,8 +36,10 @@ Mozilla Campus Clubs have three impact areas: advocacy (defend), technology (bui
 
 At the start of each year, Campus Clubs plan on the impact they want to make in each area and use a combination of recommended activities and their own programs to make a difference in that area for their campuses and communities. 
 
-### Leaders in Mozilla Clubs 
+# Roles in Campus Clubs
+
 All leaders in Mozilla Clubs will...
+
 * Partake in onboarding, share event report outs, commit to running regular (at least monthly) events, participate in community calls, and contribute back resources and learning materials
 * Holding regular, in-person meetings
 * Comit to ensuring the internet is a global public resource, open and accessible to all
@@ -53,11 +55,15 @@ Regional Coordinator are people with strong leadership skills and proven experie
 Read the full Roles & Responsibilities of a Regional Coordinator [here](https://docs.google.com/document/d/1GypBGnffjxfyX174g7fiLAcZF8tSKC5Xo7Qd4gpC5yM/pub).
 
 ## Club Captains 
-Club Captains are people with passion, leadership skills and an entrepreneurial spirit. With their Executive Team the Club Captain launches, builds and runs their Campus’ Mozilla Club with the support of their Regional Coordinator.  The Club Captain is responsible for making sure their Club is running successfully on their Campus, and is operating as an official Club. 
+Club Captains are people with passion, leadership skills and an entrepreneurial spirit. With their Executive Team, a Captain launches, builds and runs their Campus’ Mozilla Club with the support of their Regional Coordinator.  The Club Captain is responsible for making sure their Club is running successfully on their Campus, and is operating as an **official Club**. 
 
-Officially recognized Campus Clubs will be **listed on the website**, **given an official Clubs logo**, have **access to special training and skills building opportunities**, and be **eligible for funding**. 
+**Officially recognized Campus Clubs** will be: 
+* listed on the website
+* given an official Clubs logo
+* have access to special training and skills building opportunities
+* be eligible for funding 
 
-In order for a Club to be recognized as an official Mozilla Campus Club  a Club must demonstrate three months of regular activity - by submitting reports, and meeting with a Regional Coordinator on a regular basis.
+In order for a Club to be recognized as an official Mozilla Campus Club a Club must demonstrate **three months of regular activity** - by submitting reports, have **submitted an approved year plan**, and **meet with their Regional Coordinator on a regular basis**.
 
 Read the full Roles & Responsibilities of a Club Captain [here](https://docs.google.com/document/d/1JE6966a8yc0CBh3Xa9Ce7McKZkxkHvdZg01o5mxUORU/pub). 
 
