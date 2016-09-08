@@ -54,7 +54,7 @@ Read the full Roles & Responsibilities of a Regional Coordinator [here](https://
 ## Club Captains 
 Club Captains are people with passion, leadership skills and an entrepreneurial spirit. With their Executive Team the Club Captain launches, builds and runs their Campus’ Mozilla Club with the support of their Regional Coordinator.  The Club Captain is responsible for making sure their Club is running successfully on their Campus, and is operating as an official Club. 
 
-Officially recognized Campus Clubs will be listed on the website, given an official Clubs logo, have access to special training and skills building opportunities, and be eligible for funding. 
+Officially recognized Campus Clubs will be **listed on the website**, **given an official Clubs logo**, have **access to special training and skills building opportunities**, and be **eligible for funding**. 
 
 In order for a Club to be recognized as an official Mozilla Campus Club  a Club must demonstrate three months of regular activity - by submitting reports, and meeting with a Regional Coordinator on a regular basis.
 
@@ -93,7 +93,7 @@ A lot has happened on Campuses since then:
 
 By 2016, Campuses were starting to look a little crowded… as George Roter wrote in [his blog](https://georgeroter.org/2016/05/17/reinventing-mozilla-on-campus/): 
 
- “The existing engagement on University campuses around the world is an assortment of largely disconnected programs and people. Firefox Student Ambassadors and Firefox Clubs. Mozilla Clubs. Code contribution by individual contributors. Maker Party. Mozilla Science Lab. Various professor and lab partnerships. Employee recruitment. Many of these are successful in their own right; there’s an opportunity learn from each of them, find connections, and imagine opportunity to scale their impact with a more coordinated approach.”
+ *“The existing engagement on University campuses around the world is an assortment of largely disconnected programs and people. Firefox Student Ambassadors and Firefox Clubs. Mozilla Clubs. Code contribution by individual contributors. Maker Party. Mozilla Science Lab. Various professor and lab partnerships. Employee recruitment. Many of these are successful in their own right; there’s an opportunity learn from each of them, find connections, and imagine opportunity to scale their impact with a more coordinated approach.”*
 
 And so we set about the process of [reinventing Mozilla on Campus](https://discourse.mozilla-community.org/t/reinventing-mozilla-on-campus/8730/9). Through several months of research, discussion, investigation, hard decisions, and careful consideration the Campus Clubs program was born as a way to finally create a **unified model for participation on campuses around the world**.
 
