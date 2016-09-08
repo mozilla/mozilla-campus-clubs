@@ -40,7 +40,7 @@ Mozilla Campus Clubs have three impact areas: advocacy (defend), technology (bui
 
 At the start of each year, Campus Clubs plan on the impact they want to make in each area and use a combination of recommended activities and their own programs to make a difference in that area for their campuses and communities. 
 
-# Roles in Campus Clubs
+## Roles in Campus Clubs
 
 Passionate, dedicated leaders are key to the success of Campus Clubs. As they support and grow their communities they'll also grow their own knowledge and skills, learn more about open and become part of a network of leaders and doers who support and challenge them. 
 
