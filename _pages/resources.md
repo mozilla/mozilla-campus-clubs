@@ -15,30 +15,8 @@ ref: resources
 &nbsp;
 
 <div class="resources">
-  <img src="{{ site.baseurl }}/static/img/clipboard.png" alt="">
-    <a href="https://docs.google.com/document/d/1BjlailZDW9WZSmsOtdQ9XYVVZoQPyqc8GrZNbJn_kiw/" target="_blank" class="head-link">Starting a Club 101</a>
-    <span>
-      A guide to successfully launching your Mozilla Campus Club
-    </span>
-</div>
-
-{: .clear}
-&nbsp;
-
-<div class="resources">
   <img src="{{ site.baseurl }}/static/img/book.png" alt="">
-  <a href="http://mozilla.teachable.com/courses/mozilla-club-training/" target="_blank" class="head-link">Onboarding Training</a>
-  <span>
-    A link to the training course you’ll go through with your Regional Coordinator.
-  </span>
-</div>
-
-{: .clear}
-&nbsp;
-
-<div class="resources">
-  <img src="{{ site.baseurl }}/static/img/book.png" alt="">
-  <a href="#" class="head-link">Register Your Club</a>
+  <a href="#" class="head-link">Register Your Club (Opens Sept 15th) </a>
   <span>Apply to start a club <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0JzGH3ivpOEH8GeUZTlDMHXhYbmXqs4Ejey-O2ZAw_TXV8Q/viewform">here</a></span>
 </div>
 
@@ -46,8 +24,20 @@ ref: resources
 &nbsp;
 
 <div class="resources">
+  <img src="{{ site.baseurl }}/static/img/book.png" alt="">
+  <a href="http://mozilla.teachable.com/courses/mozilla-club-training/" target="_blank" class="head-link">Clubs 101 - Orientation</a>
+  <span>
+   School is in! This is the training course you'll go through to get ready to start your club. Your Regional Coordinator will be your guide!
+  </span>
+</div>
+
+
+{: .clear}
+&nbsp;
+
+<div class="resources">
   <img src="{{ site.baseurl }}/static/img/pencil.png" alt="">
-  <a href="https://docs.google.com/document/d/16C7fTPFCkLsgm4p2sikxDxaFuRBgRG-Hx8jRbbkNW64/" target="_blank" class="head-link">Year Planning Guidance</a>
+  <a href="https://docs.google.com/document/d/16C7fTPFCkLsgm4p2sikxDxaFuRBgRG-Hx8jRbbkNW64/pub" target="_blank" class="head-link">Year Planning Guidance</a>
   <span>A guide to creating a successful year plan.</span>
 </div>
 
@@ -56,12 +46,39 @@ ref: resources
 
 <div class="resources">
   <img src="{{ site.baseurl }}/static/img/calendar.png" alt="">
-  <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/" target="_blank" class="head-link">Year Planning Template</a>
+  <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/pub" target="_blank" class="head-link">Year Planning Template</a>
   <span>
-    Fill in this template to create your Year Planning document.
-    Create a plan in a <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy" target="_blank">Google Doc</a> or <a href="https://github.com/mozilla/Campus-Club-Year-Plans" target="_blank">GitHub Issue</a>
+    Create your own Year Planning document by filling in one of these templates:
+    * For **Regional Coordinators** <a href="https://docs.google.com/document/d/10xe5M32Cr5o-JupwCq3Rn6WsBYuLNdAaWxonnCS0LSw/copy" target="_blank">Template</a>
+    * For **Club Captains** - <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy" target="_blank">Template</a> 
   </span>
 </div>
 
 {: .clear}
 &nbsp;
+
+<div class="resources">
+  <img src="{{ site.baseurl }}/static/img/calendar.png" alt="">
+  <a class="head-link">University/College Letter of Support (Coming Soon) </a>
+  <span>
+  </span>
+</div>
+
+{: .clear}
+&nbsp;
+
+{: .action}
+### Running Your Club
+
+{: .action}
+##### Some helpful tools and guides for running impactful, inclusive, fun Club activities and meetings!
+
+{: .clear}
+&nbsp;
+
+<div class="resources">
+  <img src="{{ site.baseurl }}/static/img/book.png" alt="">
+  <a href="http://mozilla.github.io/learning-networks/clubs/events-women-girls-guide/" class="head-link">Designing Safe Inclusive Events for Women and Girls</a>
+  <span>Tips for designing safe and inclusive events for women and girls.
+</span>
+</div>
