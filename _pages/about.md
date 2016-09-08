@@ -36,7 +36,8 @@ Mozilla Campus Clubs have three impact areas: advocacy (defend), technology (bui
 
 At the start of each year, Campus Clubs plan on the impact they want to make in each area and use a combination of recommended activities and their own programs to make a difference in that area for their campuses and communities. 
 
-## Leaders in Mozilla Clubs will: 
+### Leaders in Mozilla Clubs 
+All leaders in Mozilla Clubs will...
 * Partake in onboarding, share event report outs, commit to running regular (at least monthly) events, participate in community calls, and contribute back resources and learning materials
 * Holding regular, in-person meetings
 * Comit to ensuring the internet is a global public resource, open and accessible to all
