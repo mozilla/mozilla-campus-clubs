@@ -36,13 +36,13 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
     <p>Help people understand the commons’ value - content we can all use freely in our lives and work, by contributing to it.</p>
 
-    <p class="ul">Goals:</p>
+    <p class="ul">Tags:</p>
     <ul>
       <li>Participate</li>
       <li>Awareness</li>
     </ul>
 
-    <p class="ul">Objectives:</p>
+    <p class="ul">Suggested Goals:</p>
     <ul>
       <li># of photos contributed to the Commons</li>
       <li>of events</li>
@@ -81,7 +81,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
     <p>Throw a workshop to help spread awareness of the threats to people’s privacy and security online.</p>
 
-    <p class="ul">Goals:</p>
+    <p class="ul">Tags:</p>
     <ul>
       <li>Awareness</li>
       <li>Safe</li>
@@ -119,13 +119,13 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
     <p>Get technologists to find ways to demonstrate the importance of free and open source software, project stewardship of open projects, and reasonable copyright laws by creating interactive experiences online.</p>
 
-    <p class="ul">Goals:</p>
+    <p class="ul">Tags:</p>
     <ul>
       <li>Open</li>
       <li>Awareness</li>
     </ul>
 
-    <p class="ul">Objectives:</p>
+    <p class="ul">Suggested Goals:</p>
     <ul>
       <li># of prototypes created</li>
       <li># of events</li>
@@ -138,7 +138,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
     <p>The Rust programming language will be important to the future of the web, making it safe and great. Having more developers understand, use and evangelize this language will advance make the web better and more secure.</p>
 
-    <p class="ul">Goals:</p>
+    <p class="ul">Tags:</p>
     <ul>
       <li>Open</li>
       <li>Write</li>
@@ -157,7 +157,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
     <p>Help bring a new kind of open technology to the web by using markup to create virtual reality experiences that work across desktop, iOS, Android, the Oculus Rift, and the HTC Vive.</p>
 
-    <p class="ul">Goals:</p>
+    <p class="ul">Tags:</p>
     <ul>
       <li>Open</li>
       <li>Participate</li>
@@ -194,7 +194,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
     <p>Challenge your audience to take up the fight for copyright reform</p>
 
-    <p class="ul">Goals:</p>
+    <p class="ul">Tags:</p>
       <ul>
       <li>Awareness</li>
       <li>Action</li>
@@ -219,7 +219,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
     <p>Help anonymized internet connections travel faster so that people can use the Internet safely and more efficiently, by advocating for a Tor node on your university and college campuses.</p>
 
-    <p class="ul">Goals:</p>
+    <p class="ul">Tags:</p>
     <ul>
       <li>Accessible</li>
       <li>Safe</li>
@@ -237,7 +237,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
     <p>Help people understand the commons’ value - content we can all use freely in our lives and work, by contributing to it.</p>
 
-    <p class="ul">Goals:</p>
+    <p class="ul">Tags:</p>
     <ul>
       <li>Awareness</li>
       <li>Participate</li>
