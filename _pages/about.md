@@ -26,6 +26,9 @@ There are different streams of Mozilla Clubs depending on whether they are on a 
 * **Mozilla Campus Clubs**: These clubs take advantage of the unique learning environments of Universities and Colleges to bring groups of students together to teach, build and protect the open web. All clubs operating on University and College campuses are part of Campus Clubs, even if they focus on web literacy. 
 
 ## Campus Clubs Vision
+
+<img src="https://www.flickr.com/photos/christosbacharakis/26259610295/in/album-72157666705796281/">
+
 Imagine the highest quality university student programs you’ve ever heard of. Programs that **incite invention, inspire innovation,** and **foster global change**.
 
 Now imagine a Mozilla program that engaged students all over the world, building campus groups that each have hundreds of passionate volunteers contributing to Mozilla as advocates, technologists/innovators and teachers. Now imagine that these groups were on thousands of University campuses in hundreds of countries.  
