@@ -46,13 +46,14 @@ Passionate, dedicated leaders are key to the success of Campus Clubs. As they su
 
 Ready to take the plunge? Find out more about the Campus Clubs roles below. 
 
-## Regional Coordinators
+### Regional Coordinators
 
 Regional Coordinator are people with strong leadership skills and proven experience on mentoring people, especially on campuses. They work closely with the staff mentors to supporting Club Captains. A Regional Coordinator is responsible for making sure the campus program is successfully running in their local region.
 
 Read the full Roles & Responsibilities of a Regional Coordinator [here](https://docs.google.com/document/d/1GypBGnffjxfyX174g7fiLAcZF8tSKC5Xo7Qd4gpC5yM/pub).
 
-## Club Captains 
+### Club Captains 
+
 Club Captains are people with passion, leadership skills and an entrepreneurial spirit. With their Executive Team, a Captain launches, builds and runs their Campus’ Mozilla Club with the support of their Regional Coordinator.  The Club Captain is responsible for making sure their Club is running successfully on their Campus, and is operating as an **official Club**. 
 
 **Officially recognized Campus Clubs** will be: 
@@ -65,15 +66,15 @@ In order for a Club to be recognized as an official Mozilla Campus Club a Club m
 
 Read the full Roles & Responsibilities of a Club Captain [here](https://docs.google.com/document/d/1JE6966a8yc0CBh3Xa9Ce7McKZkxkHvdZg01o5mxUORU/pub). 
 
-## Executive Teams
+### Executive Teams
 Club Executive Members are people with excellent leadership and executional skills. They are responsible for ensuring that there is a constant program of engaging, meaningful, activities for Club Members to participate in and support around each of the focus areas of the program (Teaching the Web, Building The Web, Protecting The Web).
 
 A Club Executive is identified with one or more of the following titles: 
-Teaching Lead - Has a passion for web literacy. This Executive Members works to achieve the “Teach The Web” outcomes defined in the year plan by guiding members towards engaging actions, workshops, skill-shares, and activities related to teaching the web. 
+* **Teaching Lead** - Has a passion for web literacy. This Executive Members works to achieve the “Teach The Web” outcomes defined in the year plan by guiding members towards engaging actions, workshops, skill-shares, and activities related to teaching the web. 
 
-Technology Lead  - Has a passion and knowledge of web technologies. This Executive Member works to achieve the “Build the Web” outcomes defined in the year plan by  guiding members towards projects, hackathons, activities, contests, and programs related to building the web. 
+* **Technology Lead**  - Has a passion and knowledge of web technologies. This Executive Member works to achieve the “Build the Web” outcomes defined in the year plan by  guiding members towards projects, hackathons, activities, contests, and programs related to building the web. 
 
-Protect Lead - Has a passion for understanding the issues that most affect the web. This Executive Member works to achieve the “Protect the web” outcomes defined in the year plan by guiding members towards actions, forums, events, and petitions related to protecting the web. 
+* **Protect Lead** - Has a passion for understanding the issues that most affect the web. This Executive Member works to achieve the “Protect the web” outcomes defined in the year plan by guiding members towards actions, forums, events, and petitions related to protecting the web. 
 
 Read the full Roles & Responsibilities of the Executive Team [here](https://docs.google.com/document/d/1XW0jXnIDUsmCaeB9yqGFeet6XRfOvnmMWGbodAOXwHg/pub). 
 
