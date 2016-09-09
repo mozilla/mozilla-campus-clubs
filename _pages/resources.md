@@ -27,7 +27,7 @@ ref: resources
   <img src="{{ site.baseurl }}/static/img/book.png" alt="">
   <div class="head-link">Clubs 101 - Orientation</div>
   <span>
-  <b>School is in!</b> This is the <a href="http://mozilla.teachable.com/courses/mozilla-club-training/" target="_blank">orientation course</a> you're Regional Coordinator will guide you through to learn you'll need to start an awesome club.
+  <b>School is in!</b> This is the <a href="http://mozilla.teachable.com/courses/mozilla-club-training/" target="_blank">orientation course</a> your Regional Coordinator will guide you through, about how to start an awesome club.
   </span>
 </div>
 
@@ -49,8 +49,8 @@ ref: resources
   <div class="head-link">Year Planning Template</div>
   <span>
     Create your own Year Planning document by filling in one of these templates:<br>
-    # For <b>Regional Coordinators</b> <a href="https://docs.google.com/document/d/10xe5M32Cr5o-JupwCq3Rn6WsBYuLNdAaWxonnCS0LSw/copy" target="_blank">Template</a><br>
-    # For <b>Club Captains</b> - <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy" target="_blank">Template</a>
+     For <b>Regional Coordinators</b> <a href="https://docs.google.com/document/d/10xe5M32Cr5o-JupwCq3Rn6WsBYuLNdAaWxonnCS0LSw/copy" target="_blank">Template</a><br>
+     For <b>Club Captains</b> - <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy" target="_blank">Template</a>
   </span>
 </div>
 
@@ -81,7 +81,7 @@ ref: resources
   <img src="{{ site.baseurl }}/static/img/book.png" alt="">
   <div class="head-link">Designing Safe Inclusive Events for Women and Girls</div>
   <span>
-  <a href="http://mozilla.github.io/learning-networks/clubs/events-women-girls-guide/">Tips</a> for designing safe and inclusive events for women and girls.
+  <a href="http://mozilla.github.io/learning-networks/clubs/events-women-girls-guide/">A guide</a> to designing safe and inclusive events for women and girls.
   </span>
 </div>
 
