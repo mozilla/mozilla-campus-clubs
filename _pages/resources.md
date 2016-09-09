@@ -27,7 +27,7 @@ ref: resources
   <img src="{{ site.baseurl }}/static/img/book.png" alt="">
   <a href="http://mozilla.teachable.com/courses/mozilla-club-training/" target="_blank" class="head-link">Clubs 101 - Orientation</a>
   <span>
-  <b>School is in!</b> This is the orientation course you're Regional Coordinator will guide you through to learn you'll need to start an awesome club. 
+  <b>School is in!</b> This is the orientation course you're Regional Coordinator will guide you through to learn you'll need to start an awesome club.
   </span>
 </div>
 
@@ -48,9 +48,9 @@ ref: resources
   <img src="{{ site.baseurl }}/static/img/calendar.png" alt="">
   <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/pub" target="_blank" class="head-link">Year Planning Template</a>
   <span>
-    Create your own Year Planning document by filling in one of these templates:
-      <li>For <b>Regional Coordinators</b> <a href="https://docs.google.com/document/d/10xe5M32Cr5o-JupwCq3Rn6WsBYuLNdAaWxonnCS0LSw/copy" target="_blank">Template</a></li>
-      <li>For <b>Club Captains</b> - <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy" target="_blank">Template</a></li> 
+    Create your own Year Planning document by filling in one of these templates:<br>
+    # For <b>Regional Coordinators</b> <a href="https://docs.google.com/document/d/10xe5M32Cr5o-JupwCq3Rn6WsBYuLNdAaWxonnCS0LSw/copy" target="_blank">Template</a><br>
+    # For <b>Club Captains</b> - <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy" target="_blank">Template</a>
   </span>
 </div>
 
