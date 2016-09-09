@@ -5,6 +5,7 @@
 a,
 a:link {
     color: #3BBA99;
+    font-weight: bold;
 }
 
 a.btn-primary {
@@ -220,7 +221,7 @@ img.text-center {
     padding-bottom: 60px;
 }
 
-.resources > a.head-link {
+.resources > .head-link {
     font-weight: bold;
     display: block;
     background-color: #FFD75E;
