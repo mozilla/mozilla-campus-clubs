@@ -3,8 +3,8 @@ title: Mozilla Campus Clubs
 email: participation@mozilla.com
 description: >
     Get involved with the Campus initiatives at Mozilla
-baseurl: "/mozilla-campus-clubs"
-url: "https://mozilla.github.io"
+baseurl: ""
+url: "https://campus.mozilla.community"
 twitter_username: mozparticipate
 github_username:  mozilla
 
