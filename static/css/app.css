@@ -3,7 +3,8 @@
 }
 
 a,
-a:link {
+a:link,
+a:visited {
     color: #3BBA99;
     font-weight: bold;
 }
@@ -15,6 +16,10 @@ a.btn-primary {
 a.btn-primary:hover {
     background-color: #3BBA99;
     color: white;
+}
+
+ul {
+    margin-left: 30px;
 }
 
 nav.navbar {
@@ -272,7 +277,7 @@ img.text-center {
 
 .site-footer {
     color: white;
-    padding: 40px 0;
+    padding: 20px 0;
     background-color: #4D4F53;
     width: 100%;
     margin: 1em 0 0;
@@ -286,19 +291,8 @@ img.text-center {
     margin: 0;
 }
 
-.footer-col-1 {
-    width: -webkit-calc(35% - (30px / 2));
-    width: calc(35% - (30px / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(25% - (30px / 2));
-    width: calc(25% - (30px / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(40% - (30px / 2));
-    width: calc(40% - (30px / 2));
+.site-footer a {
+    font-weight: normal;
 }
 
 .site-footer .logo {
@@ -315,10 +309,6 @@ img.text-center {
     height: 24px;
 }
 
-.site-footer a {
-    color: #ccc;
-}
-
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
@@ -333,7 +323,31 @@ img.text-center {
 .footer-col {
     float: left;
     margin-bottom: 15px;
-    padding-left: 15px;
+    padding: 15px;
+    width: 33%;
+}
+
+.footer-col .links-social ul {
+    line-height: inherit;
+}
+
+.footer-col .links-social li li,
+.footer-col .links-social li ul {
+    display: inline;
+    margin-left: 0;
+}
+
+.footer-col .links-social li li::before {
+    content: "\00B7\00A0";
+}
+
+.footer-col .links-social li li:first-child::before {
+    content: "";
+}
+
+.footer-col ul.links-social {
+    overflow: hidden;
+    list-style: none;
 }
 
 .footer-col ul.links-join, .footer-col ul.links-legal {
@@ -347,27 +361,13 @@ img.text-center {
     list-style-type: none;
 }
 
-ul {
-    margin-left: 30px;
-}
-
-@media screen and (max-width: 800px;) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-@media screen and (max-width: 600px;) {
+@media all and (max-width: 800px) {
     .footer-col {
         float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        width: 100%;
+    }
+
+    .links-social {
+        margin: 0;
     }
 }
