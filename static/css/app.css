@@ -201,6 +201,13 @@ img.text-center {
     margin: auto;
 }
 
+.img-left {
+    float: left;
+    max-width: 350px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
 .home .area {
     width: 280px;
     text-align: center;
