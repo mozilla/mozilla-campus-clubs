@@ -75,8 +75,14 @@ nav a:hover {
 
 @media all and (max-width: 768px) {
     .navbar .navbar-toggleable-sm {
-        padding-top: 70px;
         z-index: 99;
+        position: absolute;
+        right: 0;
+        top: 70px;
+        width: 180px;
+        margin: 0;
+        padding: 0;
+        background-color: #3BBA99;
     }
 
     nav a.nav-link {
