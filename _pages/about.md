@@ -143,7 +143,7 @@ Read the full Roles & Responsibilities of the Executive Team [here](https://docs
   <div class="col-md-9">
     <p>Long before Mozilla’s first formal student program, “Campus Reps”, opened it’s doors in 2008,  students have been playing a crucial role in the development of Mozilla and the web itself.</p>
 
-    <p>The student-built [Lynx](https://en.wikipedia.org/wiki/Lynx_%28web_browser%29) browser was one of the first and [Mosaic](https://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) (Firefox’s distant ancestor!), pioneered by students and staff, opened the graphical web to millions. Many of the original community members who worked on the first firefox in 2002 were students just like you.</p>
+    <p>The student-built <a href="https://en.wikipedia.org/wiki/Lynx_%28web_browser%29" target="_blank">Lynx</a> browser was one of the first and <a href="https://en.wikipedia.org/wiki/Mosaic_%28web_browser%29" target="_blank">Mosaic</a> (Firefox’s distant ancestor!), pioneered by students and staff, opened the graphical web to millions. Many of the original community members who worked on the first firefox in 2002 were students just like you.</p>
 
     <p>A lot has happened on Campuses since then:</p>
 
