@@ -27,7 +27,7 @@ ref: resources
   <img src="{{ site.baseurl }}/static/img/book.png" alt="">
   <div class="head-link">Clubs 101 - Orientation</div>
   <span>
-  <b>School is in!</b> This is the <a href="hhttps://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a> your Regional Coordinator will guide you through, about how to start an awesome club.
+  <b>School is in!</b> This is the <a href="https://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a> your Regional Coordinator will guide you through, about how to start an awesome club.
   </span>
 </div>
 
