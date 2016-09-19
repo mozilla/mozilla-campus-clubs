@@ -17,7 +17,7 @@ ref: resources
 <div class="resources">
   <img src="{{ site.baseurl }}/static/img/book.png" alt="">
   <div class="head-link">Register Your Club</div>
-  <span>Registration opens September 15th but share your email <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0JzGH3ivpOEH8GeUZTlDMHXhYbmXqs4Ejey-O2ZAw_TXV8Q/viewform">here</a> to get a reminder when it's time to apply.</span>
+  <span>Apply to start a Mozilla Campus Club <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBlMnvOVn6xUMrvBgYWJaEg4npDLUFkhbusLorfZ4BqSJgJQ/viewform">here</a>.</span>
 </div>
 
 {: .clear}
@@ -27,7 +27,7 @@ ref: resources
   <img src="{{ site.baseurl }}/static/img/book.png" alt="">
   <div class="head-link">Clubs 101 - Orientation</div>
   <span>
-  <b>School is in!</b> This is the <a href="hhttps://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a> your Regional Coordinator will guide you through, about how to start an awesome club.
+  <b>School is in!</b> This is the <a href="https://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a> your Regional Coordinator will guide you through, about how to start an awesome club.
   </span>
 </div>
 
