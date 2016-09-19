@@ -17,7 +17,7 @@ ref: resources
 <div class="resources">
   <img src="{{ site.baseurl }}/static/img/book.png" alt="">
   <div class="head-link">Register Your Club</div>
-  <span>Apply to start a Mozilla Campus Club <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0JzGH3ivpOEH8GeUZTlDMHXhYbmXqs4Ejey-O2ZAw_TXV8Q/viewform">here</a>.</span>
+  <span>Apply to start a Mozilla Campus Club <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBlMnvOVn6xUMrvBgYWJaEg4npDLUFkhbusLorfZ4BqSJgJQ/viewform">here</a>.</span>
 </div>
 
 {: .clear}
