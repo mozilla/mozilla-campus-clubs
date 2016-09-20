@@ -85,6 +85,7 @@ ref: about
       <li>have access to special training and skills building opportunities</li>
       <li>be eligible for funding</li>
     </ul>
+    <p>Read the full Roles & Responsibilities of a Club Captain <a href="https://drive.google.com/open?id=1JE6966a8yc0CBh3Xa9Ce7McKZkxkHvdZg01o5mxUORU">here</a>.</p>
   </div>
 
   <div class="col-md-4">
