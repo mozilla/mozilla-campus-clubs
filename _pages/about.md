@@ -100,7 +100,7 @@ ref: about
 {: .clear}
 &nbsp;
 
-<p>Executive Teams<br>
+<p><b>Executive Teams</b><br>
 Club Executive Members are people with excellent leadership and executional skills. They are responsible for ensuring that there is a constant program of engaging, meaningful, activities for Club Members to participate in and support around each of the focus areas of the program (Teaching the Web, Building The Web, Protecting The Web).</p>
 
 {: .clear}
