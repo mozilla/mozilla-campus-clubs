@@ -33,12 +33,7 @@ ref: about
 
     <p>The Internet is more than computers and code. The Internet is about people. And this is what Mozilla Clubs are all about: interacting with others to share, learn, teach, protect and build upon platforms, to make things that matter. Our Clubs are human structures that make the web real.</p>
 
-    <p>There are different streams of Mozilla Clubs depending on whether they are on a University/College Campus or not:</p>
-
-    <ul>
-      <li><strong>Non-Campus Clubs</strong>: These clubs are local groups who meet regularly in-person to learn how to read, write and participate on the Web. These Clubs can operate as afterschool programs, community meet-ups, as part of library or classroom programs, or in many other ways. To learn more about non-campus Mozilla Clubs click <a href="https://teach.mozilla.org/clubs/">here</a>.</li>
-      <li><strong>Campus Clubs</strong>: These clubs take advantage of the unique learning environments of Universities and Colleges to bring groups of students together to teach, build and protect the open web. All clubs operating on University and College campuses are part of Campus Clubs.</li>
-    </ul>
+    <p>Mozilla Campus Clubs are Mozilla Clubs that take place at a University or College - These clubs take advantage of the unique learning environments of Universities and Colleges to bring groups of students together to teach, build and protect the open web. </p>
   </div>
 </div>
 
