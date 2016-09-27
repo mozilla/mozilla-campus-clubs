@@ -189,9 +189,12 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
 <div class="row activities-table">
   <div class="col-md-4">
-    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity05-copyright-forum.html" target="_blank">Throw a Copyright Forum</a></b></p>
+    <p><b>Maker Party: <a href="https://www.changecopyright.org/" target="_blank">Fight to Change Copyright</a></b></p>
 
-    <p>Challenge your audience to take up the fight for copyright reform</p>
+    <p>The power of the internet lies in its openness — the web is a level playing field where everyone can create, share, remix, and express themselves</p>
+    <p>But in the European Union, the current copyright legal framework undermines this trait. Help keep the web open by rallying your campus around the campaign for copyright reform.</p>
+
+    <p>By doing so, we can shift this debate and harness this once in a generation moment to make a real difference by enacting progressive, modern reform of copyright law in the EU.</p>
 
     <p class="ul">Tags:</p>
       <ul>
@@ -205,19 +208,13 @@ Before you jump right in: Look at your goals for the year, what do you want to a
       <li># of petitions signed</li>
     </ul>
 
-    <p class="ul">Objectives:</p>
-    <ul>
-      <li># of prototypes created</li>
-      <li># of events</li>
-      <li># of attendees</li>
-    </ul>
   </div>
 
 
   <div class="col-md-4">
-    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity02-contribute-to-the-commons.html">Contributing Photos to the Commons</a></b></p>
+    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/updated-eu-maker-party-content/activity01-postcrimes.html#overview">PostCrimes for Copyright</a></b></p>
 
-    <p>Help people understand the commons’ value - content we can all use freely in our lives and work, by contributing to it.</p>
+    <p>Help reform problematic copyright laws by making digital postcards and sending them to lawmakers. </p>
 
     <p class="ul">Tags:</p>
     <ul>
@@ -227,9 +224,29 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
     <p class="ul">Suggested Goals:</p>
     <ul>
-      <li># of photos added to the commons </li>
-      <li># of events</li>
-      <li># of attendees</li>
+      <li># of postcards made </li>
+      <li># of postcards delivered</li>
     </ul>
   </div>
+
+  <div class="col-md-4">
+    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/updated-eu-maker-party-content/activity03-contribute-to-the-commons.html#overview" target="_blank">Contributing Photos to the Commons</a></b></p>
+
+    <p>Help people understand the commons’ value - content we can all use freely in our lives and work, by contributing to it.</p>
+
+    <p class="ul">Tags:</p>
+    <ul>
+      <li>Participate</li>
+      <li>Awareness</li>
+    </ul>
+
+    <p class="ul">Suggested Goals:</p>
+    <ul>
+      <li># of photos contributed to the Commons</li>
+      <li>of events</li>
+      <li># of attendees</li>
+      <li># of petitions signed</li>
+    </ul>
+  </div>
+
 </div>
