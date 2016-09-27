@@ -211,6 +211,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
   </div>
 
 
+
   <div class="col-md-4">
     <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/updated-eu-maker-party-content/activity01-postcrimes.html#overview">PostCrimes for Copyright</a></b></p>
 
