@@ -32,7 +32,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 
 <div class="row activities-table">
   <div class="col-md-4">
-    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity02-contribute-to-the-commons.html" target="_blank">Contributing Photos to the Commons</a></b></p>
+    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/updated-eu-maker-party-content/activity03-contribute-to-the-commons.html#overview" target="_blank">Contributing Photos to the Commons</a></b></p>
 
     <p>Help people understand the commons’ value - content we can all use freely in our lives and work, by contributing to it.</p>
 
@@ -52,7 +52,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
   </div>
 
   <div class="col-md-4">
-    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity01-meme-around.html" target="_blank">Meme Around</a></b></p>
+    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/updated-eu-maker-party-content/activity02-meme-around.html#overview" target="_blank">Meme Around</a></b></p>
 
     <p>Use participants’ favorite memes to teach about copyright reform</p>
 
@@ -114,24 +114,23 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 * Develop or support technologies that keep people safe online **#safe**
 
 <div class="row activities-table">
-  <div class="col-md-4">
-    <p><b>Maker Party:  <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity04-dont-break-the-internet.html#overview" target="_blank">Don’t Break The Internet</a></b></p>
+<div class="col-md-4">
+  <p><b><a href="https://www.eff.org/torchallenge/tor-on-campus.html">Tor on Campus</a></b></p>
 
-    <p>Get technologists to find ways to demonstrate the importance of free and open source software, project stewardship of open projects, and reasonable copyright laws by creating interactive experiences online.</p>
+  <p>Help anonymized internet connections travel faster so that people can use the Internet safely and more efficiently, by advocating for a Tor node on your university and college campuses.</p>
 
-    <p class="ul">Tags:</p>
-    <ul>
-      <li>Open</li>
-      <li>Awareness</li>
-    </ul>
+  <p class="ul">Tags:</p>
+  <ul>
+    <li>Accessible</li>
+    <li>Safe</li>
+    <li>Action</li>
+  </ul>
 
-    <p class="ul">Suggested Goals:</p>
-    <ul>
-      <li># of prototypes created</li>
-      <li># of events</li>
-      <li># of attendees</li>
-    </ul>
-  </div>
+  <p class="ul">Suggested Goals:</p>
+  <ul>
+    <li># of Tor Nodes</li>
+  </ul>
+</div>
 
   <div class="col-md-4">
     <p><b><a href="https://activate.mozilla.community/developer-engagement/rust-hack" target="_blank">Throw a Rust Hack & Learn Event</a></b></p>
@@ -214,23 +213,6 @@ Before you jump right in: Look at your goals for the year, what do you want to a
     </ul>
   </div>
 
-  <div class="col-md-4">
-    <p><b><a href="https://www.eff.org/torchallenge/tor-on-campus.html">Tor on Campus</a></b></p>
-
-    <p>Help anonymized internet connections travel faster so that people can use the Internet safely and more efficiently, by advocating for a Tor node on your university and college campuses.</p>
-
-    <p class="ul">Tags:</p>
-    <ul>
-      <li>Accessible</li>
-      <li>Safe</li>
-      <li>Action</li>
-    </ul>
-
-    <p class="ul">Suggested Goals:</p>
-    <ul>
-      <li># of Tor Nodes</li>
-    </ul>
-  </div>
 
   <div class="col-md-4">
     <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/activity02-contribute-to-the-commons.html">Contributing Photos to the Commons</a></b></p>
