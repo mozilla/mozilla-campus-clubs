@@ -114,23 +114,23 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 * Develop or support technologies that keep people safe online **#safe**
 
 <div class="row activities-table">
-<div class="col-md-4">
-  <p><b><a href="https://www.eff.org/torchallenge/tor-on-campus.html">Tor on Campus</a></b></p>
+  <div class="col-md-4">
+    <p><b><a href="https://www.eff.org/torchallenge/tor-on-campus.html">Tor on Campus</a></b></p>
 
-  <p>Help anonymized internet connections travel faster so that people can use the Internet safely and more efficiently, by advocating for a Tor node on your university and college campuses.</p>
+    <p>Help anonymized internet connections travel faster so that people can use the Internet safely and more efficiently, by advocating for a Tor node on your university and college campuses.</p>
 
-  <p class="ul">Tags:</p>
-  <ul>
-    <li>Accessible</li>
-    <li>Safe</li>
-    <li>Action</li>
-  </ul>
+    <p class="ul">Tags:</p>
+    <ul>
+      <li>Accessible</li>
+      <li>Safe</li>
+      <li>Action</li>
+    </ul>
 
-  <p class="ul">Suggested Goals:</p>
-  <ul>
-    <li># of Tor Nodes</li>
-  </ul>
-</div>
+    <p class="ul">Suggested Goals:</p>
+    <ul>
+      <li># of Tor Nodes</li>
+    </ul>
+  </div>
 
   <div class="col-md-4">
     <p><b><a href="https://activate.mozilla.community/developer-engagement/rust-hack" target="_blank">Throw a Rust Hack & Learn Event</a></b></p>
