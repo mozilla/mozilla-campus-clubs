@@ -150,8 +150,11 @@ nav a:hover {
     border-radius: 0;
 }
 
-.jumbotron .lead {
+.jumbotron .lead:nth-child(2)  {
     color: white;
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 20px;
 }
 
 .float-left {
