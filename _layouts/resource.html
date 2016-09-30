@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  {% if page.parent %}
+    {% assign parent=site.pages | where:"ref", page.parent %}
+    <section class="breadcumbs">
+      <p><a href="{{ parent[0].permalink }}">{{ parent[0].title }}</a> - {{ page.title }}</p>
+    </section>
+  {% endif %}
+
+  <div class="post-content txleft">
+    {{ content }}
+  </div>
+
+</article>
