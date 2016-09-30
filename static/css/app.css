@@ -2,6 +2,20 @@
     clear: both;
 }
 
+    a {
+        color: #eee;
+    }
+}
+.txleft {
+  text-align: left;
+}
+.highlight td {
+  background-color: #FFD75E;
+}
+.border td {
+  border-style: solid;
+  border-color: #FFD75E;
+}
 a,
 a:link,
 a:visited {
@@ -158,7 +172,9 @@ nav a:hover {
 p.ul {
     margin-bottom: 0;
 }
-
+ol {
+  padding-left: 20px;
+}
 ul > li {
     margin: 0;
 }
