@@ -233,23 +233,21 @@ Before you jump right in: Look at your goals for the year, what do you want to a
     </ul>
   </div>
 
-  <div class="col-md-4">
-    <p><b>Maker Party: <a href="https://chadsansing.github.io/eu-maker-party-sample-activites/updated-eu-maker-party-content/activity03-contribute-to-the-commons.html#overview" target="_blank">Contributing Photos to the Commons</a></b></p>
+  <<div class="col-md-4">
+    <p><b><a href="https://www.eff.org/torchallenge/tor-on-campus.html">Tor on Campus</a></b></p>
 
-    <p>Help people understand the commons’ value - content we can all use freely in our lives and work, by contributing to it.</p>
+    <p>Help anonymized internet connections travel faster so that people can use the Internet safely and more efficiently, by advocating for a Tor node on your university and college campuses.</p>
 
     <p class="ul">Tags:</p>
     <ul>
-      <li>Participate</li>
-      <li>Awareness</li>
+      <li>Accessible</li>
+      <li>Safe</li>
+      <li>Action</li>
     </ul>
 
     <p class="ul">Suggested Goals:</p>
     <ul>
-      <li># of photos contributed to the Commons</li>
-      <li>of events</li>
-      <li># of attendees</li>
-      <li># of petitions signed</li>
+      <li># of Tor Nodes</li>
     </ul>
   </div>
 
