@@ -233,7 +233,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
     </ul>
   </div>
 
-  <<div class="col-md-4">
+  <div class="col-md-4">
     <p><b><a href="https://www.eff.org/torchallenge/tor-on-campus.html">Tor on Campus</a></b></p>
 
     <p>Help anonymized internet connections travel faster so that people can use the Internet safely and more efficiently, by advocating for a Tor node on your university and college campuses.</p>
