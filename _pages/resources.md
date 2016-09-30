@@ -38,7 +38,7 @@ ref: resources
 <div class="resources">
   <img src="{{ site.baseurl }}/static/img/pencil.png" alt="">
   <div class="head-link">Year Planning Guidance</div>
-  <span>A <a href="{{site.baseurl}}/yearplanning" target="_blank">guide</a> to creating a successful year plan.</span>
+  <span>A <a href="{{site.baseurl}}/yearplanning/" target="_blank">guide</a> to creating a successful year plan.</span>
 </div>
 
 {: .clear}
