@@ -20,7 +20,7 @@ ref: about
   <ul>
     <li>
       <div>
-      Apply to Start or Transition a Club.
+        Apply to Start or Transition a Club.
       </div>
     </li>
     <li>
