@@ -9,7 +9,7 @@ ref: about
 
 <div class="row">
   <div class="col-md-3">
-    <img src="{{ site.baseurl }}/static/img/photo_clubs1.jpg" alt="Mozilla Clubs" class="img-responsive">
+    <img src="/static/img/photo_clubs1.jpg" alt="Mozilla Clubs" class="img-responsive">
   </div>
 
   <div class="col-md-9">
@@ -25,7 +25,7 @@ ref: about
 
 <div class="row">
   <div class="col-md-3">
-    <img src="{{ site.baseurl }}/static/img/photo_clubs2.jpg" alt="Mozilla Clubs" class="img-responsive">
+    <img src="/static/img/photo_clubs2.jpg" alt="Mozilla Clubs" class="img-responsive">
   </div>
 
   <div class="col-md-9">
@@ -41,7 +41,7 @@ ref: about
 
 <div class="row">
   <div class="col-md-3">
-    <img src="{{ site.baseurl }}/static/img/photo_clubs3.jpg" alt="Mozilla Clubs" class="img-responsive">
+    <img src="/static/img/photo_clubs3.jpg" alt="Mozilla Clubs" class="img-responsive">
   </div>
 
   <div class="col-md-9">
@@ -133,7 +133,7 @@ Read the full Roles & Responsibilities of the Executive Team [here](https://docs
 
 <div class="row">
   <div class="col-md-3">
-    <img src="{{ site.baseurl }}/static/img/photo_clubs4.jpg" alt="Mozilla Clubs" class="img-responsive">
+    <img src="/static/img/photo_clubs4.jpg" alt="Mozilla Clubs" class="img-responsive">
   </div>
 
   <div class="col-md-9">

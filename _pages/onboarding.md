@@ -41,7 +41,7 @@ ref: about
     </li>
     <li>
       <div>
-        <time>Week 1-2: </time>Your Regional Coordinator will guide you through the <a href="https://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a>, about how to start or transition an awesome and healthy club. Then you will guide your Club's executives through the orientation course and together you will create a <a href="{{site.baseurl}}/yearplanning/">Year Plan</a> by setting your Clubs goals and activities for the rest of the school year.
+        <time>Week 1-2: </time>Your Regional Coordinator will guide you through the <a href="https://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a>, about how to start or transition an awesome and healthy club. Then you will guide your Club's executives through the orientation course and together you will create a <a href="/yearplanning/">Year Plan</a> by setting your Clubs goals and activities for the rest of the school year.
       </div>
     </li>
     <li>
@@ -66,7 +66,7 @@ ref: about
     </li>
     <li>
       <div>
-        <time>Week 5: </time> You begin to execute your Club's year plan by organizing your first <a href="{{site.baseurl}}/activities/">Activity.</a>
+        <time>Week 5: </time> You begin to execute your Club's year plan by organizing your first <a href="/activities/">Activity.</a>
       </div>
     </li>
     <li>

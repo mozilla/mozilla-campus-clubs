@@ -16,7 +16,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 &nbsp;
 
 <div class="activities">
-  <img src="{{ site.baseurl }}/static/img/books.png" alt="">
+  <img src="/static/img/books.png" alt="">
     <p>Teach the Web</p>
     <span>In order to use and build the web as a global public resource people must have the skills to read, write, and participate online.</span>
 </div>
@@ -99,7 +99,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 &nbsp;
 
 <div class="activities">
-  <img src="{{ site.baseurl }}/static/img/hammer.png" alt="">
+  <img src="/static/img/hammer.png" alt="">
     <p>Build The Web</p>
     <span>The web needs skilled communities of makers and innovators developing and supporting robust technologies that keep it open and accessible to all.</span>
 </div>
@@ -176,7 +176,7 @@ Before you jump right in: Look at your goals for the year, what do you want to a
 &nbsp;
 
 <div class="activities">
-  <img src="{{ site.baseurl }}/static/img/sword.png" alt="">
+  <img src="/static/img/sword.png" alt="">
     <p>Protect The Web</p>
     <span>In order for the web to stay open and accessible to all people need to feel safe online and know how to fight for and defend against the biggest challenges and opportunities that face the internet today.</span>
 </div>
