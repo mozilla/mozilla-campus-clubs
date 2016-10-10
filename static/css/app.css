@@ -71,8 +71,8 @@ nav a:hover {
     margin-top: 20px;
 }
 
-@media all and (min-width: 768px) {
-    .navbar-toggleable-sm {
+@media all and (min-width: 992px) {
+    .navbar-toggleable-md {
         display: inline-block !important;
     }
 }
@@ -83,8 +83,8 @@ nav a:hover {
     }
 }
 
-@media all and (max-width: 768px) {
-    .navbar .navbar-toggleable-sm {
+@media all and (max-width: 992px) {
+    .navbar .navbar-toggleable-md {
         z-index: 99;
         position: absolute;
         right: 0;
