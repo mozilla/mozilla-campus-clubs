@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "On-Boarding"
-permalink: /onboarding/
+title:  "Get Started"
+permalink: /get-started/
 ref: about
 ---
 
@@ -20,78 +20,67 @@ ref: about
   <ul>
     <li>
       <div>
-        Apply to Start or Transition a Club.
+        <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfBlMnvOVn6xUMrvBgYWJaEg4npDLUFkhbusLorfZ4BqSJgJQ/viewform"> Apply</a> to Start or Transition a Club.
       </div>
     </li>
     <li>
       <div>
-        You will receive an email confirming that you have successfully registered your club and explaining you the next steps.
+        You will receive an email confirming that you have successfully registered your club and explaining the next steps.
       </div>
     </li>
     <li>
       <div>
-        We will be reviewing your application in the coming weeks when we will be assigning you a Regional Coordinator (RC) who will be guiding and helping through the process of setting up an awesome club!
-        Please take note that it may take a few weeks to be matched with a Regional Coordinator.
+        Your application will be reviewed and you will be matched to a local Regional Coordinator (RC) who will guide and help you through the process of setting up an awesome club! Please take note that it may take a few weeks to be matched with a Regional Coordinator.  
       </div>
     </li>
     <li>
       <div>
-        <time>Week 1: </time>You will be matched with a Regional Coordinator near you, who will help you set your club for success.
+        First meeting with your Regional Coordinator by phone, video, or in person to discusss orientation, training, and how they can best stupport you in setting up your club.  
       </div>
     </li>
     <li>
       <div>
-        <time>Week 1-2: </time>Your Regional Coordinator will guide you through the <a href="https://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a>, about how to start or transition an awesome and healthy club. Then you will guide your Club's executives through the orientation course and together you will create a <a href="/yearplanning/">Year Plan</a> by setting your Clubs goals and activities for the rest of the school year.
+      Enroll in the <a href="https://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a>, and learn how to start or transition an awesome and healthy club.
+      </div>
+     </li>
+     <li>
+      <div> 
+      Recruit your Club's executives, share the orientation course with them and together, start building your <a href="/yearplanning/">Year Plan</a>.
+       </div>
+    </li>
+    <li>
+      <div>
+        Check-in with your Regional Coordinator to discuss your progress on the the orientation course and the Year Planning document for your Club.
       </div>
     </li>
     <li>
       <div>
-        <time>Week 2: </time> Check-in meeting with your Regional Coordinator where you discuss your progress on the the Orientation course and the Year planning document for your Club.
+        Submit your first report! Two weeks after you start the orientation course, you will be prompted to submit a report to let us know how things are going with starting your Club and working with your Regional Coordinator. 
       </div>
     </li>
     <li>
       <div>
-        <time>Week 2:</time> You submit your first Report!
+       Complete the orientation course and submit your Club's finalized Year Plan to your Regional Coordinator. 
       </div>
     </li>
     <li>
       <div>
-        <time>Week 4:</time>  By week 4 you and your Club's executives have to be completed the orientation course and submitted the Club's year plan.
+        Start executing your Club's year plan by hosting your first meeting and running <a href="/activities/">activities.</a>
       </div>
     </li>
     <li>
       <div>
-        <time>Week 4:</time> Second meeting with your Regional Coordinator to review and discuss your Club's year plan.
+        Submit your first activity report.
       </div>
     </li>
     <li>
       <div>
-        <time>Week 5: </time> You begin to execute your Club's year plan by organizing your first <a href="/activities/">Activity.</a>
+        Monthly Check-in meeting with your Regional Coordinator.
       </div>
     </li>
     <li>
       <div>
-        <time>Week 6:</time> You report your first activity.
-      </div>
-    </li>
-    <li>
-      <div>
-        <time>Week 8:</time> Monthly Check-in meeting with your Regional Coordinator.
-      </div>
-    </li>
-    <li>
-      <div>
-        <time>Week 8:</time> You submit your Club's Monthly Report.
-      </div>
-    </li>
-    <li>
-      <div>
-        You continue executing your Club's year plan by organizing activities and reporting in a monthly base.
-      </div>
-    </li>
-    <li>
-      <div>
-        After three months (since you applied to start a club) with proven activity, you will be officially recognized as Mozilla Campus Club.
+        Submit your Club's first monthly report! Once you've completed the training, submitted your year plan, and run your first meeting/activity or event you are officially an active club. Congratulations!
       </div>
     </li>
   </ul>
