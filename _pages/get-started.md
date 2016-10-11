@@ -9,7 +9,7 @@ ref: about
 ### Setting up for success
 
 {: .action}
-##### Everything you need to know about your Campus Club On-Boarding process.
+##### Everything you need to know about your Campus Club set-up and orientation process.
 
 {: .clear}
 &nbsp;
