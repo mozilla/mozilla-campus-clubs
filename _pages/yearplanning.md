@@ -236,3 +236,7 @@ Resources</td>
 
 <br>
 In this section of the year plan you may feel as though you are picking timelines and resource estimates out of thin air – don’t worry about that. Just try to work backward from what you know to make estimates on what you don’t know.
+
+## Get Started
+
+Build your Club's Year Plan now using this <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy">Year Planning Template</a>. 
