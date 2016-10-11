@@ -80,7 +80,7 @@ ref: about
     </li>
     <li>
       <div>
-        Submit your Club's first monthly report! Once you've completed the training, submitted your year plan, and run your first meeting/activity or event you are officially an active club. Congratulations!
+        Submit your Club's first monthly report! Once you've completed the training, submitted your year plan, and run your first meeting/activity or event you are officially an active club. Congratulations you are now an official Campus Club!
       </div>
     </li>
   </ul>
