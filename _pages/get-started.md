@@ -55,11 +55,6 @@ ref: about
     </li>
     <li>
       <div>
-        Submit your first report! Two weeks after you start the orientation course, you will be prompted to submit a report to let us know how things are going with starting your Club and working with your Regional Coordinator. 
-      </div>
-    </li>
-    <li>
-      <div>
        Complete the orientation course and submit your Club's finalized Year Plan to your Regional Coordinator. 
       </div>
     </li>
@@ -70,7 +65,7 @@ ref: about
     </li>
     <li>
       <div>
-        Submit your first activity report.
+        Submit your <a href="https://campus.mozilla.community/report/#"> first activity report</a>.
       </div>
     </li>
     <li>
@@ -80,7 +75,7 @@ ref: about
     </li>
     <li>
       <div>
-        Submit your Club's first monthly report! Once you've completed the training, submitted your year plan, and run your first meeting/activity or event you are officially an active club. Congratulations you are now an official Campus Club!
+        Submit your Club's <a href="https://campus.mozilla.community/report/#"> first monthly report</a>! Once you've completed the training, submitted your year plan, and run your first meeting/activity or event you are officially an active club. Congratulations you are now an official Campus Club!
       </div>
     </li>
   </ul>
