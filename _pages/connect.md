@@ -5,7 +5,9 @@ permalink: /connect/
 ref: resources
 ---
 
-### Recommended activities for having an impact in 2016.
+### Find a Campus Clubs and a Regional Coordinator near you
+
+#### Campus Clubs are with the Red marker and Regional Coordinators with the blue.
 
 <div id="map">
 
