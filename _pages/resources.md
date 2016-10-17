@@ -68,6 +68,29 @@ ref: resources
 {: .clear}
 &nbsp;
 
+<div class="resources">
+  <img src="/static/img/pencil.png" alt="">
+  <a class="head-link">Logos and Posters </a>
+  <span>
+  <p>
+  All of the titles and information on the PDF posters are editable so you can easily customize the information. For those of you with a passion for design we've also included the Adobe Illustrator (AI) files so you can remix the entire thing.
+  </p>
+
+ <ul>
+  <li>Blue Poster:  <a href="/static/resources/poster-template-A-blue.pdf">Download the AI version of this poster.</a></li>
+
+  <li>Framed Poster: <a href="/static/resources/poster-template-B-framed.pdf"> Download the AI version of this poster.</a></li>
+
+  <li>Mozilla Grid: <a href="/static/resources/poster-template-C-grid1.pdf"> Download the AI version of this poster.</a></li>
+
+  <li>Non-Mozilla Grid:<a href="/static/resources/poster-template-C-grid2.pdf"> Download the AI version of this poster.</a></li>
+</ul>
+  </span>
+</div>
+
+{: .clear}
+&nbsp;
+
 {: .action}
 ### Running Your Club
 
