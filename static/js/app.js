@@ -2,7 +2,7 @@ var map;
 var code = "1MkdrvvnNmCePzw9zOBL7wefmtAOW7dEcFJlvXinqtlM"
 
 document.addEventListener('DOMContentLoaded',function(){
-  map = L.map('map').setView([49, 17], 2);
+  map = L.map('map').setView([49, 17], 3);
   L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
