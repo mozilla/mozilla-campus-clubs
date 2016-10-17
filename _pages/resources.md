@@ -75,19 +75,16 @@ ref: resources
   <p>
   All of the titles and information on the PDF posters are editable so you can easily customize the information. For those of you with a passion for design we've also included the Adobe Illustrator (AI) files so you can remix the entire thing.
   </p>
-  
- Blue Poster: <embed src="poster-template-A-blue.pdf" width="200px" height="200px"/>
-  <a href="https://drive.google.com/open?id=0B3DoAOpplvFcVkpnSzYwb0tZbHM">Download the AI version of this poster.</a>
-  
-  Framed Poster: <embed src="poster-template-B-framed.pdf" width="200px" height="200px"/>
-   <a href="https://drive.google.com/open?id=0B3DoAOpplvFcVkpnSzYwb0tZbHM"> Download the AI version of this poster.</a>
-  
- Mozilla Grid: <embed src="poster-template-C-grid1.pdf" width="200px" height="200px"/> 
-    <a href="https://drive.google.com/open?id=0B3DoAOpplvFcRVV2akRDZUtIOUk"> Download the AI version of this poster.</a>
 
- Non-Mozilla Grid: <embed src="poster-template-C-grid2.pdf" width="200px" height="200px"/>
-    <a href="https://drive.google.com/open?id=0B3DoAOpplvFcMWkzTzVWbEJWYWM"> Download the AI version of this poster.</a>
+ <ul>
+  <li>Blue Poster:  <a href="/static/resources/poster-template-A-blue.pdf">Download the AI version of this poster.</a></li>
 
+  <li>Framed Poster: <a href="/static/resources/poster-template-B-framed.pdf"> Download the AI version of this poster.</a></li>
+
+  <li>Mozilla Grid: <a href="/static/resources/poster-template-C-grid1.pdf"> Download the AI version of this poster.</a></li>
+
+  <li>Non-Mozilla Grid:<a href="/static/resources/poster-template-C-grid2.pdf"> Download the AI version of this poster.</a></li>
+</ul>
   </span>
 </div>
 
