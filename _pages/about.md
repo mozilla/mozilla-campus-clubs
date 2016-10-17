@@ -144,7 +144,7 @@ Read the full Roles & Responsibilities of the Executive Team [here](https://docs
     <p>A lot has happened on Campuses since then:</p>
 
     <ul>
-      <li>In 2012 the <a href="https://wiki.mozilla.org/StudentAmbassadors)" target="_blank">Firefox Student Ambassador Program</a> opened it’s doors to bring together individuals with a passion for Mozilla who wanted to raise awareness about the many benefits of Firefox & other Mozilla products.</li>
+      <li>In 2012 the <a href="https://wiki.mozilla.org/StudentAmbassadors" target="_blank">Firefox Student Ambassador Program</a> opened it’s doors to bring together individuals with a passion for Mozilla who wanted to raise awareness about the many benefits of Firefox & other Mozilla products.</li>
       <li>In 2013 the first <a href="https://www.youtube.com/watch?v=oko6TzPQE6Y" target="_blank">Maker Party</a> moved students all around the world to come together to teach the web.</li>
       <li>In 2015 the <a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs" target="_blank">Clubs</a> program started with a mandate to engage people around the world in ongoing web literacy programs</li>
       <li>In 2015 Mozilla Science started offering <a href="https://science.mozilla.org/blog/introducing-mozilla-science-study-groups" target="_blank">Study Groups</a> for graduate students, researchers, and scientists looking to learn together.</li>
