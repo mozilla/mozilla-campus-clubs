@@ -1,3 +1,8 @@
+#map{
+  width: 1150px;
+  height: 800px;
+  z-index:99;
+}
 .clear {
     clear: both;
 }
