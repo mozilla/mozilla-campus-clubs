@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title:  "Connect"
 permalink: /connect/
 ref: resources
