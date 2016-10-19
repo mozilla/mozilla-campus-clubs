@@ -12,7 +12,6 @@ Tabletop.init({
     callback: function(sheet, tabletop){
       for (var i in sheet){
         var place = sheet[i];
-        console.log(i);
         L.marker([place.geolatitude, place.geolongitude])
           .bindPopup("<a href=\""+place.mozillian+"\">"+place.fullname+"</a> <br>"+place.city+", "+place.region+", "+place.country+"<br>Status: "+place.status+"<br>Last report: "+place.lastreport)
           .addTo(map)
@@ -26,7 +25,6 @@ Tabletop.init({
     callback: function(sheet, tabletop){
       for (var i in sheet){
         var place = sheet[i];
-        console.log(i);
         L.marker([place.geolatitude, place.geolongitude],{icon: L.spriteIcon('red')})
           .bindPopup("<a href=\""+place.website+"\">"+place.universityname+"</a> <br>"+place.address+"<br>"+place.city+", "+place.region+", "+place.country+"<br>Club Captain: "+"<a href=\""+place.mozillian+"\">"+place.clubcaptain+"</a><br>Status: "+place.status+"<br>Last report: "+place.lastreport)
           .addTo(map)
