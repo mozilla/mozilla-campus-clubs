@@ -137,7 +137,7 @@ Read the full Roles & Responsibilities of the Executive Team [here](https://docs
   </div>
 
   <div class="col-md-9">
-    <p>Long before Mozilla’s first formal student program, “Campus Reps”, opened it’s doors in 2008,  students have been playing a crucial role in the development of Mozilla and the web itself.</p>
+    <p>Long before Mozilla’s first formal student program, “Campus Reps”, opened its doors in 2008,  students have been playing a crucial role in the development of Mozilla and the web itself.</p>
 
     <p>The student-built <a href="https://en.wikipedia.org/wiki/Lynx_%28web_browser%29" target="_blank">Lynx</a> browser was one of the first and <a href="https://en.wikipedia.org/wiki/Mosaic_%28web_browser%29" target="_blank">Mosaic</a> (Firefox’s distant ancestor!), pioneered by students and staff, opened the graphical web to millions. Many of the original community members who worked on the first firefox in 2002 were students just like you.</p>
 
@@ -146,7 +146,7 @@ Read the full Roles & Responsibilities of the Executive Team [here](https://docs
     <ul>
       <li>In 2012 the <a href="https://wiki.mozilla.org/StudentAmbassadors" target="_blank">Firefox Student Ambassador Program</a> opened it’s doors to bring together individuals with a passion for Mozilla who wanted to raise awareness about the many benefits of Firefox & other Mozilla products.</li>
       <li>In 2013 the first <a href="https://www.youtube.com/watch?v=oko6TzPQE6Y" target="_blank">Maker Party</a> moved students all around the world to come together to teach the web.</li>
-      <li>In 2015 the <a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs" target="_blank">Clubs</a> program started with a mandate to engage people around the world in ongoing web literacy programs</li>
+      <li>In 2015 the <a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs" target="_blank">Clubs</a> program started with a mandate to engage people around the world in ongoing web literacy programs.</li>
       <li>In 2015 Mozilla Science started offering <a href="https://science.mozilla.org/blog/introducing-mozilla-science-study-groups" target="_blank">Study Groups</a> for graduate students, researchers, and scientists looking to learn together.</li>
       <li>In 2016 hundreds of students around the world led the <a href="https://takebacktheweb.mozilla.community/2016/07/11/seven-weeks-take-back-web/" target="_blank">Take Back the Web Campaign</a> on their campuses to shift attitudes and change behavior around privacy and security online.</li>
     </ul>
