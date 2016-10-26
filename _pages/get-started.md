@@ -50,7 +50,7 @@ ref: about
     </li>
     <li>
       <div>
-        Check-in with your Regional Coordinator to discuss your progress on the the orientation course and the Year Planning document for your Club.
+        Check-in with your Regional Coordinator to discuss your progress on the orientation course and the Year Planning document for your Club.
       </div>
     </li>
     <li>
