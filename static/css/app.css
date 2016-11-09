@@ -1,22 +1,26 @@
 #map{
-  width: 1150px;
-  height: 800px;
-  z-index:99;
+    width: 1150px;
+    height: 800px;
+    z-index:99;
 }
+
 .clear {
     clear: both;
 }
 
 .txleft {
-  text-align: left;
+    text-align: left;
 }
+
 .highlight td {
-  background-color: #FFD75E;
+    background-color: #FFD75E;
 }
+
 .border td {
-  border-style: solid;
-  border-color: #FFD75E;
+    border-style: solid;
+    border-color: #FFD75E;
 }
+
 a,
 a:link,
 a:visited {
@@ -279,6 +283,18 @@ img.text-center {
     margin-left: -50px;
 }
 
+#activities {
+    color: #3BBA99;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.activity-tag {
+    display: inline-block;
+    padding: 5px;
+    font-style: italic;
+}
+
 @media all and (max-width: 800px) {
     .activities {
         margin-left: 0px;
@@ -306,6 +322,26 @@ img.text-center {
 
 .activities-table > div:nth-child(2) {
     background-color: white;
+}
+
+ul.nav-tabs {
+    margin-left: 0;
+}
+
+.tab-content {
+    background-color: #eee;
+    padding: 20px 20px 0 20px;
+}
+
+.tab-pane {
+    margin: 10px 10px 0 10px;
+    padding: 10px;
+}
+
+.activity {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 20px 10px;
 }
 
 .site-footer {
