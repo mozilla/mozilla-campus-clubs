@@ -59,9 +59,10 @@ ref: resources
 
 <div class="resources">
   <img src="/static/img/calendar.png" alt="">
-  <a class="head-link">For University/College Administration Letter of Support </a>
+  <a class="head-link">University/College Administration Support </a>
   <span>
-  Request a Customized Letter of Support - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJgBMdYRM0d4rJSpksXv-RWdYr6adFKeRT7SIfefzzFnAD2w/viewform">here</a><br> 
+  Request a Customized Letter of Support - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJgBMdYRM0d4rJSpksXv-RWdYr6adFKeRT7SIfefzzFnAD2w/viewform">here</a>
+  <br> 
   Information for University/College Administrators - <a href="https://docs.google.com/document/d/1ybN-jGqncUuvHTYgto-4LiJXoiJTMe0_--a6K_ryoog/pub">here</a><br>
   </span>
 </div>
