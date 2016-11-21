@@ -49,8 +49,8 @@ ref: resources
   <div class="head-link">Year Planning Template</div>
   <span>
     Create your own Year Planning document by filling in one of these templates:<br>
-     For <b>Regional Coordinators</b> <a href="https://docs.google.com/document/d/10xe5M32Cr5o-JupwCq3Rn6WsBYuLNdAaWxonnCS0LSw/copy" target="_blank">Template</a><br>
-     For <b>Club Captains</b> - <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy" target="_blank">Template</a>
+     For <b>Regional Coordinators</b> <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdeZBUq8wJMIbTn3uvwb0VTF9ZHdFEwA1dxwGlFBHc5v5JNrg/viewform" target="_blank">Template</a><br>
+     For <b>Club Captains</b> - <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdKutKTmBhzOlNj-5NFC8noj3RisPsH50fvHKjTFZL3aDtAmQ/viewform" target="_blank">Template</a>
   </span>
 </div>
 
@@ -62,7 +62,7 @@ ref: resources
   <a class="head-link">University/College Administration Support </a>
   <span>
   Request a Customized Letter of Support - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJgBMdYRM0d4rJSpksXv-RWdYr6adFKeRT7SIfefzzFnAD2w/viewform">here</a>
-  <br> 
+  <br>
   Information for University/College Administrators - <a href="https://docs.google.com/document/d/1ybN-jGqncUuvHTYgto-4LiJXoiJTMe0_--a6K_ryoog/pub">here</a><br>
   </span>
 </div>

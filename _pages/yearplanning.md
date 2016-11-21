@@ -239,4 +239,4 @@ In this section of the year plan you may feel as though you are picking timeline
 
 ## Get Started
 
-Build your Club's Year Plan now using this <a href="https://docs.google.com/document/d/1DKQd0decBLoAMep6weXINDP4zrURFbhHl7061SO5UYA/copy">Year Planning Template</a>. 
+Build your Club's Year Plan now using this <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdKutKTmBhzOlNj-5NFC8noj3RisPsH50fvHKjTFZL3aDtAmQ/viewform">Year Planning Template</a>. 
