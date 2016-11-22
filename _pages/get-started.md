@@ -25,57 +25,32 @@ ref: about
     </li>
     <li>
       <div>
-        You will receive an email confirming that you have successfully registered your club and explaining the next steps.
+        You will receive an email confirming that you have successfully registered your club and inviting you to enroll in the <a href="https://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a>.
       </div>
     </li>
     <li>
       <div>
-        Your application will be reviewed and you will be matched to a local Regional Coordinator (RC) who will guide and help you through the process of setting up an awesome club! Please take note that it may take a few weeks to be matched with a Regional Coordinator.  
+Complete the online <a href="https://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a>.      
       </div>
     </li>
     <li>
       <div>
-        First meeting with your Regional Coordinator by phone, video, or in person to discusss orientation, training, and how they can best stupport you in setting up your club.  
+      Recruit your Club Team and share the orientation course with them and together, start building your <a href="/yearplanning/">Year Plan</a>.
       </div>
     </li>
     <li>
-      <div>
-      Enroll in the <a href="https://mozilla.teachable.com/courses/mozilla-campus-club-training/" target="_blank">orientation course</a>, and learn how to start or transition an awesome and healthy club.
-      </div>
-     </li>
-     <li>
-      <div> 
-      Recruit your Club's executives, share the orientation course with them and together, start building your <a href="/yearplanning/">Year Plan</a>.
+    <div>
+        Your year plan will be reviewed and you will be matched to a local Regional Coordinator (RC) if one is available in <a href="/connect/">your area</a>. 
        </div>
     </li>
     <li>
       <div>
-        Check-in with your Regional Coordinator to discuss your progress on the orientation course and the Year Planning document for your Club.
+        Call the first meeting of your Club, choose from one of the awesome open web <a href="/activities/">activities</a> and get start building the open web!
       </div>
     </li>
     <li>
       <div>
-       Complete the orientation course and submit your Club's finalized Year Plan to your Regional Coordinator. 
-      </div>
-    </li>
-    <li>
-      <div>
-        Start executing your Club's year plan by hosting your first meeting and running <a href="/activities/">activities.</a>
-      </div>
-    </li>
-    <li>
-      <div>
-        Submit your <a href="https://campus.mozilla.community/report/#"> first activity report</a>.
-      </div>
-    </li>
-    <li>
-      <div>
-        Monthly Check-in meeting with your Regional Coordinator.
-      </div>
-    </li>
-    <li>
-      <div>
-        Submit your Club's <a href="https://campus.mozilla.community/report/#"> first monthly report</a>! Once you've completed the training, submitted your year plan, and run your first meeting/activity or event you are officially an active club. Congratulations you are now an official Campus Club!
+        Submit your Club's <a href="https://campus.mozilla.community/report/#"> first monthly report</a> so that we can celebrate your great work!
       </div>
     </li>
   </ul>
