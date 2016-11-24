@@ -191,6 +191,16 @@ b > a:link {
     font-weight: bold;
 }
 
+.home-about {
+    background-color: #f1f1f1;
+    padding: 30px 0;
+    margin-top: 50px;
+}
+
+.home-about img {
+    margin-top: 20px;
+}
+
 .action {
     text-align: center;
 }
