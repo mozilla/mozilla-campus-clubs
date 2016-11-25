@@ -9,7 +9,7 @@
         Get your club together to build your own Virtual Reality experience with A-frame in less than one hour.
       </p>
       <p>
-        <a href="/activities/">Find out how your Club can start building for open source VR</a>
+        <a href="/activities/">Find out how your Club can start building for open source VR=></a>
       </p>
     </div>
   </div>
@@ -24,7 +24,7 @@
       <div class="col-md-9">
         <h2 id="what-is-a-mozilla-campus-club">What is a Mozilla Campus Club?</h2>
         <p>
-          Mozilla’s mission is to ensure the Internet is a global public resource, open and accessible to all. A Mozilla University &amp; College Club is a group of students who meet regularly to advance this mission by leading and participating in activities that teach, build, and protect the web in an inclusive, engaging way.
+          Mozilla’s mission is to ensure the Internet is a global public resource, open and accessible to all. A Mozilla University & College Club is a group of students with a passion for technology who meet regularly to advance this mission by building and innovating on open source projects that keep the web open.
         </p>
         <p class="about muted">Not based on a University or College Campus but want to start a club? <a href="https://learning.mozilla.org/clubs">Check out the Mozilla Clubs page</a>.</p>
       </div>
