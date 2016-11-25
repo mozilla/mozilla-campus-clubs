@@ -4,12 +4,12 @@
       <img src="/static/img/vr.gif" alt="VR" class="img-responsive">
     </div>
     <div class="col-md-8">
-      <h2 id="kings-college-london">Build a VR Version of your Reality</h2>
+      <h2 id="kings-college-london">Build a virtual version of your reality</h2>
       <p>
-        Get your club together to build your own Virtual Reality experience with A-frame in less than one hour.
+        Get your club together to build your own Virtual Reality experience with A-frame, in less than an hour.
       </p>
       <p>
-        <a href="/activities/">Find out how your Club can start building for open source VR=></a>
+        <a href="/activities#vr-activity">Find out how your club can start building the open source VR on the web</a>
       </p>
     </div>
   </div>
