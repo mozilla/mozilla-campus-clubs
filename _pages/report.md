@@ -16,9 +16,10 @@ ref: resources
   <img src="/static/img/calendar.png" alt="">
   <div class="head-link">Submit Your Monthly Report</div>
   <span>
-  The Club Captain should complete a report at the end of each month detailing what their Club did and accomplished. This allows Mozilla to celebrate your successes, connect you with opportunities, and improve our program. It also let's us know that you're Club is still active so that we keep it listed as an official Mozilla Club!
-  </br>
-  <i>Missed a report? No problem! You can go back and fill in a report at any time, just remember that if you forget to report for 3 months in a row, during the academic year, your Club will be considered inactive.<i>
+  The Club Captain should complete a report at the end of each month detailing what their Club did and accomplished. This allows Mozilla to celebrate your successes, connect you with opportunities, and improve our program. It also let's us know that you're Club is still active so that we keep it listed as an official Mozilla Club!  </span>
+<span>
+  <i>Missed a report? No problem! You can go back and fill in a report at any time, just remember that if you forget to report for 3 months in a row, during the academic year, your Club will be considered inactive.</i> </span>
+  <span>
   <ul>
   <li> <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfPkMDBxu72xqBtO3ooKThNdn7o7diioMUOnjjBKenuVN3K6w/viewform">October Reporting Form</a></li>
   <li> November Reporting Form (Live December 1st)</li>
