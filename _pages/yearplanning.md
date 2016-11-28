@@ -85,4 +85,4 @@ Goals are directional in nature and help guide the writing of specific objective
 
 ## Get Started
 
-Build your Club's Year Plan now using this <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdKutKTmBhzOlNj-5NFC8noj3RisPsH50fvHKjTFZL3aDtAmQ/viewform"> Club Captains Year Planning Template</a> or <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdeZBUq8wJMIbTn3uvwb0VTF9ZHdFEwA1dxwGlFBHc5v5JNrg/viewform">this</a>.
+Build your Club's Year Plan now using this <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdKutKTmBhzOlNj-5NFC8noj3RisPsH50fvHKjTFZL3aDtAmQ/viewform"> Club Captains Year Planning Template</a> or this <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdeZBUq8wJMIbTn3uvwb0VTF9ZHdFEwA1dxwGlFBHc5v5JNrg/viewform">Regional Coordinator Year Planning Template</a>.
