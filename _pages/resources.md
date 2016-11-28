@@ -75,17 +75,17 @@ ref: resources
   <a class="head-link">Logos and Posters </a>
   <span>
   <p>
-  All of the titles and information on the PDF posters are editable so you can easily customize the information. For those of you with a passion for design we've also included the Adobe Illustrator (AI) files so you can remix the entire thing.
+  All of the titles and information on the PDF posters are editable so you can easily customize the information.
   </p>
 
- <ul>
-  <li>Blue Poster:  <a href="/static/resources/poster-template-A-blue.pdf">Download the AI version of this poster.</a></li>
+ <ul class="posters">
+  <li><img src="/static/img/blue_poster.jpg" alt="Blue Poster" class="img-responsive">Blue Poster [<a href="/static/resources/poster-template-A-blue.pdf">Download</a>]</li>
 
-  <li>Framed Poster: <a href="/static/resources/poster-template-B-framed.pdf"> Download the AI version of this poster.</a></li>
+  <li><img src="/static/img/framed_poster.jpg" alt="Framed Poster" class="img-responsive">Framed Poster [<a href="/static/resources/poster-template-B-framed.pdf"> Download</a>]</li>
 
-  <li>Mozilla Grid: <a href="/static/resources/poster-template-C-grid1.pdf"> Download the AI version of this poster.</a></li>
+  <li><img src="/static/img/mozilla_grid.jpg" alt="Mozilla Grid" class="img-responsive">Mozilla Grid [<a href="/static/resources/poster-template-C-grid1.pdf"> Download</a>]</li>
 
-  <li>Non-Mozilla Grid:<a href="/static/resources/poster-template-C-grid2.pdf"> Download the AI version of this poster.</a></li>
+  <li><img src="/static/img/non_mozilla_grid.jpg" alt="Non-Mozilla Grid" class="img-responsive">Non-Mozilla Grid [<a href="/static/resources/poster-template-C-grid2.pdf">Download</a>]</li>
 </ul>
   </span>
 </div>

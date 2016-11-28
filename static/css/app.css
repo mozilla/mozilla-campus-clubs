@@ -288,6 +288,20 @@ img.text-center {
     display: block;
 }
 
+ul.posters {
+    margin-left: 115px;
+}
+
+ul.posters > li {
+    margin: 0;
+    list-style-type: none;
+    text-align: center;
+    max-width: 230px;
+    display: inline-block;
+    font-size: .9em;
+    padding: 5px;
+}
+
 .activities {
     margin: auto;
     margin-left: -50px;
