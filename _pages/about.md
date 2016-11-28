@@ -29,11 +29,11 @@ ref: about
   </div>
 
   <div class="col-md-9">
-    <p>A Mozilla Club brings people together locally to <strong>teach</strong>, <strong>protect</strong> and <strong>build</strong> the open web in an engaging and collaborative way.</p>
+    <p>A Mozilla Club brings people together locally to build the open web on University and College campuses worldwide.</p>
 
     <p>The Internet is more than computers and code. The Internet is about people. And this is what Mozilla Clubs are all about: interacting with others to share, learn, teach, protect and build upon platforms, to make things that matter. Our Clubs are human structures that make the web real.</p>
 
-    <p><b>Mozilla Campus Clubs</b> are <b>Mozilla Clubs</b> that take place at a University or College - These clubs take advantage of the unique learning environments of Universities and Colleges to bring groups of students together to teach, build and protect the open web. </p>
+    <p><b>Mozilla Campus Clubs</b> are <b>Mozilla Clubs</b> that take place at a University or College - These clubs take advantage of the unique learning environments of Universities and Colleges to bring stuents with a passion for technology together to build and innovate on open source projects that build the open web. </p>
   </div>
 </div>
 
@@ -47,13 +47,12 @@ ref: about
   <div class="col-md-9">
     <p>Imagine the highest quality university student programs you’ve ever heard of. Programs that <strong>incite invention, inspire innovation,</strong> and <strong>foster global change</strong>.</p>
 
-    <p>Now imagine a Mozilla program that engaged students all over the world, building campus groups that each have hundreds of passionate volunteers contributing to Mozilla as advocates, technologists/innovators and teachers. Now imagine that these groups were on thousands of University campuses in hundreds of countries.</p>
+    <p>Now imagine a Mozilla program that engaged students all over the world, building campus groups that each have hundreds of passionate volunteers contributing to Mozilla as advocates, technologists, and innovators. Now imagine that these groups were on thousands of University campuses in hundreds of countries.</p>
 
-    <p>That is the vision for Campus Clubs. To spark a movement -- a loud voice, a breeding ground for new ideas, a massive force, a deep talent pool -- that powers Mozilla’s mission to new heights.</p>
+    <p>That is the vision for Campus Clubs. To spark a movement -- a loud voice, a breeding ground for new ideas, a massive force, a deep talent pool -- that powers the open web to new heights.</p>
 
-    <p>Mozilla Campus Clubs have three impact areas: advocacy (defend), technology (build), and web literacy (teach).</p>
-
-    <p>At the start of each year, Campus Clubs plan on the impact they want to make in each area and use a combination of recommended activities and their own programs to make a difference in that area for their campuses and communities.</p>
+    <p>At the start of each year, Campus Clubs plan the impact they want to have for the open web and then hack and build on a combination of recommended activities and their own open source projects to make a difference for the web, their campuses and communities. 
+</p>
   </div>
 </div>
 
@@ -63,32 +62,33 @@ ref: about
   <div class="col-md-4">
     <p><b>Regional Coordinators</b></p>
 
-    <p>Regional Coordinator are people with strong leadership skills and proven experience on mentoring people, especially on campuses. They work closely with the staff mentors to supporting Club Captains. A Regional Coordinator is responsible for making sure the campus program is successfully running in their local region.</p>
+    <p>Regional Coordinator are people with strong leadership skills and proven experience with mentoring, especially on campuses. They work closely with staff to mentor and support Club Captains. A Regional Coordinator is responsible for making sure the campus program is successfully running in their local region.</p>
 
-    <p>Read the full Roles & Responsibilities of a Regional Coordinator <a href="https://docs.google.com/document/d/1GypBGnffjxfyX174g7fiLAcZF8tSKC5Xo7Qd4gpC5yM/pub" target="_blank">here</a>.</p>
+    <p>Think you have what it takes?  Read the full Roles & Responsibilities of a Regional Coordinator <a href="https://docs.google.com/document/d/1GypBGnffjxfyX174g7fiLAcZF8tSKC5Xo7Qd4gpC5yM/pub">here</a>. Apply to become an RC <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSeTTDC4ozjGXIOW1sbXqsxw-5kuTtjqNDzj2RTe3yBBuwDVIA/viewform">here.</a></p>
   </div>
 
   <div class="col-md-4">
     <p><b>Club Captains</b></p>
 
-    <p>Club Captains are people with passion, leadership skills and an entrepreneurial spirit. With their Executive Team, a Captain launches, builds and runs their Campus’ Mozilla Club with the support of their Regional Coordinator.  The Club Captain is responsible for making sure their Club is running successfully on their Campus, and is operating as an official Club.</p>
+    <p>Club Captains are people with a passion for technology, leadership skills and an entrepreneurial spirit. With their team the Club Captain launches, builds and runs their Campus’ Mozilla Club.  The Club Captain is responsible for making sure their Club is running successfully on their Campus, and is operating as an official Mozilla Club. </p>
 
     <p class="ul">Officially recognized Campus Clubs will be:</p>
     <ul>
       <li>listed on the website</li>
       <li>given an official Clubs logo</li>
       <li>have access to special training and skills building opportunities</li>
-      <li>be eligible for funding</li>
     </ul>
-    <p>Read the full Roles & Responsibilities of a Club Captain <a href="https://docs.google.com/document/d/1JE6966a8yc0CBh3Xa9Ce7McKZkxkHvdZg01o5mxUORU/pub">here</a>.</p>
+    <p>In order for a Club to be recognized as an official Mozilla Campus Club <strong>a Club must show consistent activity during the academic year </strong>- by participating in activities, submitting reports, and meeting with their Regional Coordinator. If a Club is inactive for 3 they will be considered inactive. </p>
+   <p> 
+Read the full Roles & Responsibilities of a Club Captain <a href="https://docs.google.com/document/d/1JE6966a8yc0CBh3Xa9Ce7McKZkxkHvdZg01o5mxUORU/pub">here</a>.</p>
   </div>
 
   <div class="col-md-4">
     <p><b>Members</b></p>
 
-    <p>What’s a Club with no participants? Members are the heart of Campus Clubs, they attend meetings, run events, participate in activities and grow their skills and connect with others through the Campus Clubs framework.</p>
+    <p>What’s a Club with no participants? Members are the heart of Campus Clubs, they attend meetings, participate in activities and grow their skills and connect with others through the Campus Clubs framework.</p>
 
-    <p>Looking to join a club? Find it on the map (coming soon).</p>
+    <p>Looking to join a club? Find your campus on the map <a href="https://campus.mozilla.community/connect/">here</a>.</p>
   </div>
 </div>
 
@@ -96,33 +96,8 @@ ref: about
 &nbsp;
 
 <p><b>Executive Teams</b><br>
-Club Executive Members are people with excellent leadership and executional skills. They are responsible for ensuring that there is a constant program of engaging, meaningful, activities for Club Members to participate in and support around each of the focus areas of the program (Teaching the Web, Building The Web, Protecting The Web).</p>
-
-{: .clear}
-&nbsp;
-
-<div class="row activities-table">
-  <div class="col-md-4">
-    <p><b>Teaching Lead</b></p>
-
-    <p>Has a passion for web literacy. This Executive Members works to achieve the “Teach The Web” outcomes defined in the year plan by guiding members towards engaging actions, workshops, skill-shares, and activities related to teaching the web.</p>
-  </div>
-
-  <div class="col-md-4">
-    <p><b>Technology Lead</b></p>
-
-    <p>Has a passion and knowledge of web technologies. This Executive Member works to achieve the “Build the Web” outcomes defined in the year plan by  guiding members towards projects, hackathons, activities, contests, and programs related to building the web.</p>
-  </div>
-
-  <div class="col-md-4">
-    <p><b>Protect Lead</b></p>
-
-    <p>Has a passion for understanding the issues that most affect the web. This Executive Member works to achieve the “Protect the web” outcomes defined in the year plan by guiding members towards actions, forums, events, and petitions related to protecting the web.</p>
-  </div>
-</div>
-
-{: .clear}
-&nbsp;
+Executive Teams are not a required part of Campus Clubs, but may be useful structure in larger Clubs. Club Executive Members are people with excellent leadership and executional skills. They support Club Captains by ensuring that there is a constant program of engaging, meaningful, activities for Club Members to participate in.
+</p>
 
 Read the full Roles & Responsibilities of the Executive Team [here](https://docs.google.com/document/d/1XW0jXnIDUsmCaeB9yqGFeet6XRfOvnmMWGbodAOXwHg/pub).
 
