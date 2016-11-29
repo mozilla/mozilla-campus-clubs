@@ -33,7 +33,7 @@ ref: about
 
     <p>The Internet is more than computers and code. The Internet is about people. And this is what Mozilla Clubs are all about: interacting with others to share, learn, teach, protect and build upon platforms, to make things that matter. Our Clubs are human structures that make the web real.</p>
 
-    <p><b>Mozilla Campus Clubs</b> are <b>Mozilla Clubs</b> that take place at a University or College - These clubs take advantage of the unique learning environments of Universities and Colleges to bring stuents with a passion for technology together to build and innovate on open source projects that build the open web. </p>
+    <p><b>Mozilla Campus Clubs</b> are <b>Mozilla Clubs</b> that take place at a University or College - These clubs take advantage of the unique learning environments of Universities and Colleges to bring students with a passion for technology together to build and innovate on open source projects that build the open web. </p>
   </div>
 </div>
 
