@@ -9,7 +9,7 @@
         Get your club together to build your own Virtual Reality experience with A-frame, in less than an hour.
       </p>
       <p>
-        <a href="/activities#vr-activity">Find out how your club can start building open source VR on the web -></a>
+        <a href="/activities/#vr-activity">Find out how your club can start building open source VR on the web -></a>
       </p>
     </div>
   </div>
