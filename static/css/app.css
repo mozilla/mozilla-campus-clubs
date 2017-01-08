@@ -32,6 +32,17 @@ a.btn-primary {
     color: #3BBA99;
 }
 
+a.btn-primary-activities {
+    background-color: #3BBA99;
+    color: white;
+    margin : 10px;
+}
+
+a.btn-primary-activities:hover {
+    background-color: white;
+    color: #3BBA99;
+}
+
 a.btn-primary:hover {
     background-color: #3BBA99;
     color: white;
@@ -365,6 +376,13 @@ ul.nav-tabs {
 .activity {
     background-color: white;
     margin-bottom: 20px;
+    padding: 20px 10px;
+}
+
+.activity-button {
+    background-color: white;
+    margin-bottom: 20px;
+    margin-top: -50px;
     padding: 20px 10px;
 }
 
