@@ -124,12 +124,7 @@ Read the full Roles & Responsibilities of the Executive Team [here](https://docs
       <li>In 2015 the <a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs" target="_blank">Clubs</a> program started with a mandate to engage people around the world in ongoing web literacy programs.</li>
       <li>In 2015 Mozilla Science started offering <a href="https://science.mozilla.org/blog/introducing-mozilla-science-study-groups" target="_blank">Study Groups</a> for graduate students, researchers, and scientists looking to learn together.</li>
       <li>In 2016 hundreds of students around the world led the <a href="https://takebacktheweb.mozilla.community/2016/07/11/seven-weeks-take-back-web/" target="_blank">Take Back the Web Campaign</a> on their campuses to shift attitudes and change behavior around privacy and security online.</li>
+      <li>In late 2016 Campus Clubs was created to carry the work of the Take Back The Web campaign forward but now with an even stronger focus on open source and engaging students in building open web technologies.</li>
     </ul>
-
-    <p>By 2016, Campuses were starting to look a little crowded… as George Roter wrote in <a href="https://georgeroter.org/2016/05/17/reinventing-mozilla-on-campus/" target="_blank">his blog</a>:</p>
-
-    <p><i>“The existing engagement on University campuses around the world is an assortment of largely disconnected programs and people. Firefox Student Ambassadors and Firefox Clubs. Mozilla Clubs. Code contribution by individual contributors. Maker Party. Mozilla Science Lab. Various professor and lab partnerships. Employee recruitment. Many of these are successful in their own right; there’s an opportunity learn from each of them, find connections, and imagine opportunity to scale their impact with a more coordinated approach.”</i></p>
-
-    <p>And so we set about the process of <a href="https://discourse.mozilla-community.org/t/reinventing-mozilla-on-campus/8730/9" target="_blank">reinventing Mozilla</a> on Campus. Through several months of research, discussion, investigation, hard decisions, and careful consideration the Campus Clubs program was born as a way to finally create a <strong>unified model for participation on campuses around the world</strong>.</p>
   </div>
 </div>
