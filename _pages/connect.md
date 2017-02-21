@@ -9,8 +9,8 @@ ref: resources
 <ul>
 <li>Regional Coordinators are marked with a Yellow Star</li>
 <li>Active Campus Clubs are marked with Red</li>
-<li>Campus Clubs in Trainined are marked with Blue</li>
-<li>Campus Clubs which have applied but haven't enrolled to the training yet are marked with Gray</li>
+<li>Campus Clubs in Training are marked with Blue</li>
+<li>Campus Clubs who have applied but haven't enrolled to the training yet are marked with Gray</li>
 </ul>
 You can also search your University or Regional Coordinator by name if you click on the full screen icon on the top right corner of the map.
 
