@@ -27,7 +27,10 @@ a:visited {
     color: #3BBA99;
     font-weight: bold;
 }
-
+a.btn-primary-activities:hover {
+    background-color: white;
+    color: #3BBA99;
+}
 a.btn-primary {
     color: #3BBA99;
 }
@@ -523,4 +526,11 @@ ul.nav-tabs {
     right: -15px;
     border-width: 8px 0 8px 16px;
     border-color: transparent transparent transparent #FFD75E;
+}
+
+a.btn-primary-activities {
+    background-color: #3BBA99;
+    color: white;
+    margin : auto;
+    display: table;
 }
