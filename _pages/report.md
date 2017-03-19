@@ -37,7 +37,6 @@ ref: resources
 ### Regional Coordinators
 
 {: .action}
-##### reporting form will be published soon
 
 <div class="resources">
   <img src="/static/img/calendar.png" alt="">
