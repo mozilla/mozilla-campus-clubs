@@ -13,7 +13,7 @@ We'd love your help in making this program a success and have put together some 
 
 ### How can I support the program?
 
-Help us find diverse student leaders who can help us build and shape the program for the US, read the description and nominate students using the link below.
+Help us find diverse student leaders who can help us build and shape the program for the US, read <a href="https://docs.google.com/document/d/1cZOP4DNMIUrMxKMEZTdR3IgAP4eJKnAPZ5pcVkicwzU/pub">the description</a> and nominate a student, or pair of students, using the link below.
 
 **The nomination form is now open: <a href="http://mzl.la/2oq69FW">mzl.la/2oq69FW</a>**
 
