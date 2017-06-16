@@ -51,7 +51,7 @@ ref: about
 
     <p>That is the vision for Campus Clubs. To spark a movement -- a loud voice, a breeding ground for new ideas, a massive force, a deep talent pool -- that powers the open web to new heights.</p>
 
-    <p>At the start of each year, Campus Clubs plan the impact they want to have for the open web and then hack and build on a combination of recommended activities and their own open source projects to make a difference for the web, their campuses and communities. 
+    <p>At the start of each year, Campus Clubs plan the impact they want to have for the open web and then hack and build on a combination of recommended activities and their own open source projects to make a difference for the web, their campuses and communities.
 </p>
   </div>
 </div>
@@ -79,7 +79,7 @@ ref: about
       <li>have access to special training and skills building opportunities</li>
     </ul>
     <p>In order for a Club to be recognized as an official Mozilla Campus Club <strong>a Club must show consistent activity during the academic year </strong>- by participating in activities, submitting reports, and meeting with their Regional Coordinator. If a Club is inactive for 3 they will be considered inactive. </p>
-   <p> 
+   <p>
 Read the full Roles & Responsibilities of a Club Captain <a href="https://docs.google.com/document/d/1JE6966a8yc0CBh3Xa9Ce7McKZkxkHvdZg01o5mxUORU/pub">here</a>.</p>
   </div>
 
@@ -95,14 +95,6 @@ Read the full Roles & Responsibilities of a Club Captain <a href="https://docs.g
 {: .clear}
 &nbsp;
 
-<p><b>Executive Teams</b><br>
-Executive Teams are not a required part of Campus Clubs, but may be useful structure in larger Clubs. Club Executive Members are people with excellent leadership and executional skills. They support Club Captains by ensuring that there is a constant program of engaging, meaningful, activities for Club Members to participate in.
-</p>
-
-Read the full Roles & Responsibilities of the Executive Team [here](https://docs.google.com/document/d/1XW0jXnIDUsmCaeB9yqGFeet6XRfOvnmMWGbodAOXwHg/pub).
-
-{: .clear}
-&nbsp;
 
 ## History of Mozilla on Campus
 
