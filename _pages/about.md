@@ -5,6 +5,26 @@ permalink: /about/
 ref: about
 ---
 
+
+## Campus Clubs Vision
+
+<div class="row">
+  <div class="col-md-3">
+    <img src="/static/img/photo_clubs3.jpg" alt="Mozilla Clubs" class="img-responsive">
+  </div>
+
+  <div class="col-md-9">
+    <p>Imagine the highest quality university student programs you’ve ever heard of. Programs that <strong>incite invention, inspire innovation,</strong> and <strong>foster global change</strong>.</p>
+
+    <p>Now imagine a Mozilla program that engaged students all over the world, building campus groups that each have hundreds of passionate volunteers contributing to Mozilla as advocates, technologists, and innovators. Now imagine that these groups were on thousands of University campuses in hundreds of countries.</p>
+
+    <p>That is the vision for Campus Clubs. To spark a movement -- a loud voice, a breeding ground for new ideas, a massive force, a deep talent pool -- that powers the open web to new heights.</p>
+
+    <p>At the start of each year, Campus Clubs plan the impact they want to have for the open web and then hack and build on a combination of recommended activities and their own open source projects to make a difference for the web, their campuses and communities.
+</p>
+  </div>
+</div>
+
 ## Why Mozilla
 
 <div class="row">
@@ -37,24 +57,6 @@ ref: about
   </div>
 </div>
 
-## Campus Clubs Vision
-
-<div class="row">
-  <div class="col-md-3">
-    <img src="/static/img/photo_clubs3.jpg" alt="Mozilla Clubs" class="img-responsive">
-  </div>
-
-  <div class="col-md-9">
-    <p>Imagine the highest quality university student programs you’ve ever heard of. Programs that <strong>incite invention, inspire innovation,</strong> and <strong>foster global change</strong>.</p>
-
-    <p>Now imagine a Mozilla program that engaged students all over the world, building campus groups that each have hundreds of passionate volunteers contributing to Mozilla as advocates, technologists, and innovators. Now imagine that these groups were on thousands of University campuses in hundreds of countries.</p>
-
-    <p>That is the vision for Campus Clubs. To spark a movement -- a loud voice, a breeding ground for new ideas, a massive force, a deep talent pool -- that powers the open web to new heights.</p>
-
-    <p>At the start of each year, Campus Clubs plan the impact they want to have for the open web and then hack and build on a combination of recommended activities and their own open source projects to make a difference for the web, their campuses and communities.
-</p>
-  </div>
-</div>
 
 ## Roles in Campus Clubs
 
