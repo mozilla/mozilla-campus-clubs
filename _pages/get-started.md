@@ -20,7 +20,7 @@ ref: about
   <ul>
     <li>
       <div>
-        <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfBlMnvOVn6xUMrvBgYWJaEg4npDLUFkhbusLorfZ4BqSJgJQ/viewform"> Apply</a> to Start or Transition a Club.
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAaztaLbz3FgQv4_Gi4HE1XHJSX8XTK4l9Qkq3gq4o64RxJw/viewform"> Apply</a> to Start or Register a Campus Club.
       </div>
     </li>
     <li>
@@ -40,7 +40,7 @@ Complete the online <a href="https://mozilla.teachable.com/courses/mozilla-campu
     </li>
     <li>
     <div>
-        Your year plan will be reviewed and you will be matched to a local Regional Coordinator (RC) if one is available in <a href="/connect/">your area</a>. 
+        Your year plan will be reviewed and you will be matched to a local Regional Coordinator (RC) if one is available in <a href="/connect/">your area</a>.
        </div>
     </li>
     <li>
