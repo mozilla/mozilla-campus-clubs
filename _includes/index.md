@@ -38,12 +38,12 @@
 <div class="container">
   <div class="action">
     <h2>How Can I Get Involved?</h2>
-    <p>To get involved, simply apply to be a part of your existing Campus Club or start a new Club at your school!</p>
+    <p>To get involved, simply apply to register your existing Open Source/Tech Campus Club or start a new Club at your school!</p>
     <p>
       <a href="/connect/">Check to see if your school has a Campus Club.</a>
     </p>
     <p>
-      <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfBlMnvOVn6xUMrvBgYWJaEg4npDLUFkhbusLorfZ4BqSJgJQ/viewform" role="button">Start a Club</a>
+      <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSeAaztaLbz3FgQv4_Gi4HE1XHJSX8XTK4l9Qkq3gq4o64RxJw/viewform" role="button">Register a Club</a>
     </p>
   </div>
 </div>
