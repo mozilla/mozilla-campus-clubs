@@ -1,10 +1,10 @@
 <div class="container">
   <div class="row">
     <div class="col-md-4">
-      <img src="/static/img/vr.gif" alt="VR" class="img-responsive">
+      <a href="/activities/#vr-activity"><img src="/static/img/vr.gif" alt="VR" class="img-responsive"></a>
     </div>
     <div class="col-md-8">
-      <h2 id="kings-college-london">Build a virtual version of your reality</h2>
+      <h2 id="kings-college-london">What a Club can do: Build a virtual version of your reality</h2>
       <p>
         Get your club together to build your own Virtual Reality experience with A-frame, in less than an hour.
       </p>
