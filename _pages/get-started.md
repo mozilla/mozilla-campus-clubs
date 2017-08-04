@@ -20,7 +20,7 @@ ref: about
   <ul>
     <li>
       <div>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAaztaLbz3FgQv4_Gi4HE1XHJSX8XTK4l9Qkq3gq4o64RxJw/viewform"> Apply</a> to Start or Register a Campus Club.
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdKYZV3xeaIkdHyeZaZNiddF0kpRMBb-Mjb70y0HShaTXc4cg/viewform"> Apply</a> to Start or Register a Campus Club.
       </div>
     </li>
     <li>
