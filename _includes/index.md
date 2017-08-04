@@ -43,7 +43,7 @@
       <a href="/connect/">Check to see if your school has a Campus Club.</a>
     </p>
     <p>
-      <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSeAaztaLbz3FgQv4_Gi4HE1XHJSX8XTK4l9Qkq3gq4o64RxJw/viewform" role="button">Register a Club</a>
+      <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSdKYZV3xeaIkdHyeZaZNiddF0kpRMBb-Mjb70y0HShaTXc4cg/viewform" role="button">Apply to register a Club</a>
     </p>
   </div>
 </div>
