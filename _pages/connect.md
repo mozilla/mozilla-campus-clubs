@@ -16,4 +16,4 @@ You can also search your University or Regional Coordinator by name if you click
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1EIAJlq6o94i3o-OQ9jc_OHBf5ZQ" width="100%" height="768"></iframe>
 
-##### The map is updated in a bi-weekly base. Last update was at: May 23th 2017
+##### The map is updated in a monthly base
