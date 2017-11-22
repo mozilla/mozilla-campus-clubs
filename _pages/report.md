@@ -18,25 +18,11 @@ ref: resources
   <span>
   The Club Captain should complete a report at the end of each month detailing what the Club did and accomplished. This allows Mozilla to celebrate your successes, connect you with opportunities, and know your Club is still active!
   <br>
+  <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSdUWu7a5k2IaiKIvq4VlESkw2sWBLkSxrjsNv9dlsgC-_KWSg/viewform"> October Reporting Form</a>
   <br>
-
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhpfmUDTuvMZPwfVG2BhOO9ft_bScVuQQz3x0j2eM3o3w7BA/viewform"> September Reporting Form</a>
   <br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeFcYjov5WuYSJ5qrSzQ_47Zso5kCijtby9OyvQV4yAnw-w-A/viewform"> Summer Reporting Form (May, June, July, August)</a>
-  <br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeFcYjov5WuYSJ5qrSzQ_47Zso5kCijtby9OyvQV4yAnw-w-A/viewform">Reporting Form for April</a>
-  <br>
-  <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSc9pP1ZAZiQE9xuLPsB9FDxhbpNl_sIuqfTxct3i2rtYWC7NA/viewform">Reporting Form for March</a>
-  <br>
-  <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfgfYBPIUyw2XMbfSeWG02cIwapaLK5Ac4iuKka1g5riY0RdQ/viewform">Reporting Form for February</a>
-  <br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZkPo4KCG0SZnkC4EUUYaSiKxWD28ezGAPW0TlvCyN_LoT5g/viewform">Reporting Form for January</a>
-  <br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScLjH958SXZLJtHikT-_a0-3SJRQxp3Xc3dx5pLQzow-zHEuw/viewform">Reporting Form for December</a>
-  <br>
-  <a href="https://docs.google.com/a/bacharakis.com/forms/d/e/1FAIpQLSd2kGZEQvXHoz0HlLEaokbeFy4-phjp0f8zWZA-6LlDMP6y4Q/viewform">Reporting Form for November</a>
-  <br>
-  <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSfPkMDBxu72xqBtO3ooKThNdn7o7diioMUOnjjBKenuVN3K6w/viewform">Reporting Form for October</a>
   <br>
   </span>
 </div>
