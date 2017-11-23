@@ -400,9 +400,10 @@ ul.nav-tabs {
     white-space: nowrap;
     overflow: hidden;
     display: inline-block;
-    background-image: url(https://www.mozilla.org/media/img/sandstone/footer-mozilla.png);
+    background-image: url(https://www.mozilla.org/media/img/pebbles/moz-wordmark-dark-reverse.2cbc28bb9895.svg);
     width: 93px;
     height: 24px;
+    background-repeat: no-repeat;
 }
 
 .footer-heading {
