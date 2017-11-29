@@ -471,13 +471,13 @@ ul.nav-tabs {
 
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.timeline ul li {
-    list-style-type: none;
-    position: relative;
-    width: 6px;
-    margin: 0 auto;
-    padding-top: 50px;
-    background: #3BBA99;
+.timeline ul li div::before {
+    content: '';
+    position: absolute;
+    bottom: 7px;
+    width: 0;
+    height: 0;
+    border-style: solid;
 }
 
 .timeline ul li::after {
@@ -492,41 +492,76 @@ ul.nav-tabs {
     background: inherit;
 }
 
-.timeline ul li div {
-    position: relative;
-    bottom: 0;
-    width: 400px;
-    padding: 15px;
-    background: #FFD75E;
+@media only screen and (max-width: 900px) {
+
+    .timeline ul li {
+        list-style-type: none;
+        position: relative;
+        width: 6px;
+        float: left
+        margin: 0 auto;
+        padding-top: 50px;
+        background: #3BBA99;
+    }
+
+    .timeline ul li div {
+        position: relative;
+        bottom: 0;
+        width: 60vw;
+        padding: 15px;
+        background: #FFD75E;
+    }
+
+    .timeline ul li div {
+        left: 45px;
+    }
+
+    .timeline ul li div::before {
+        left: -15px;
+        border-width: 8px 16px 8px 0;
+        border-color: transparent #FFD75E transparent transparent;
+    }
 }
 
-.timeline ul li div::before {
-    content: '';
-    position: absolute;
-    bottom: 7px;
-    width: 0;
-    height: 0;
-    border-style: solid;
-}
+@media only screen and (min-width: 900px) {
 
-.timeline ul li:nth-child(odd) div {
-    left: 45px;
-}
+    .timeline ul li {
+        list-style-type: none;
+        position: relative;
+        width: 6px;
+        margin: 0 auto;
+        padding-top: 50px;
+        background: #3BBA99;
+    }
 
-.timeline ul li:nth-child(odd) div::before {
-    left: -15px;
-    border-width: 8px 16px 8px 0;
-    border-color: transparent #FFD75E transparent transparent;
-}
+    .timeline ul li div {
+        position: relative;
+        bottom: 0;
+        width: 400px;
+        padding: 15px;
+        background: #FFD75E;
+    }
 
-.timeline ul li:nth-child(even) div {
-    left: -439px;
-}
+    .timeline ul li:nth-child(odd) div {
+        left: 45px;
+    }
 
-.timeline ul li:nth-child(even) div::before {
-    right: -15px;
-    border-width: 8px 0 8px 16px;
-    border-color: transparent transparent transparent #FFD75E;
+    .timeline ul li:nth-child(odd) div::before {
+        left: -15px;
+        border-width: 8px 16px 8px 0;
+        border-color: transparent #FFD75E transparent transparent;
+    }
+
+    .timeline ul li:nth-child(even) div {
+        left: -439px;
+    }
+
+    .timeline ul li:nth-child(even) div::before {
+        right: -15px;
+        border-width: 8px 0 8px 16px;
+        border-color: transparent transparent transparent #FFD75E;
+    }
+
 }
 
 a.btn-primary-activities {
