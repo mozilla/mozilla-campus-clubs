@@ -1,8 +1,15 @@
-#map{
-    width: 1150px;
-    height: 800px;
-    z-index:99;
-}
+
+.sheetsee  h3 {padding-top: 18px;}
+.sheetsee  h1 {font-size: 36px;}
+
+.sheetsee  table {border-spacing: 0;}
+.sheetsee  tbody tr:nth-child(odd) {background-color: #f3f3f3;}
+.sheetsee  thead {text-align: left; font-family: Source Sans Pro, Arial, sans-serif;}
+.sheetsee  td {min-width: 140px; vertical-align: top; padding: 8px;}
+.sheetsee  td a {line-height: 24px;}
+.sheetsee  tr {height: 50px;}
+.sheetsee  ul, ol {text-indent: 0; margin: 0; padding-left: 20px;}
+.sheetsee  ul li {padding-bottom: 6px; line-height: 22px;}
 
 .clear {
     clear: both;
