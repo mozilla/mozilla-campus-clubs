@@ -1,19 +1,65 @@
 ---
 layout: map
-title:  "Connect"
+title: Connect
 permalink: /connect/
 ref: resources
 ---
+<script src="{{ "/static/js/sheetsee.js" | prepend: site.url }}"></script>
 
-### Find a Campus Clubs and a Regional Coordinator near you
-<ul>
-<li>Regional Coordinators are marked with a Yellow Star</li>
-<li>Active Campus Clubs are marked with Red</li>
-<li>Campus Clubs in Training are marked with Blue</li>
-<li>Campus Clubs who have applied but haven't enrolled to the training yet are marked with Gray</li>
-</ul>
-You can also search your University or Regional Coordinator by name if you click on the full screen icon on the top right corner of the map.
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1EIAJlq6o94i3o-OQ9jc_OHBf5ZQ" width="100%" height="768"></iframe>
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900,400italic|Source+Code+Pro:400" rel="stylesheet" type="text/css">
 
-##### The map is updated in a monthly base
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js">
+</script>
+
+# Find a Campus Club near you
+
+<input id="fullTableFilter" type="text" placeholder="filter by.."> <a class="clear">Clear</a>
+
+<div id="fullTable" class="sheetsee">Loading...</div>
+
+<script id="fullTable_template" type="text/html">
+    <table  class="sheetsee">
+    <tr>
+    <th class="tHeader">Club name:</th>
+    <th class="tHeader">Club's Description:</th>
+    <th class="tHeader">Club URL:</th>
+    <th class="tHeader">University/College name:</th>
+    <th class="tHeader">University/College website:</th>
+    <th class="tHeader">Club Captain</th>
+    <th class="tHeader">Country/City:</th>
+    </tr>
+      [[#rows]]
+        <tr>
+        <td>[[clubname]]</td>
+        <td>[[clubDescription]]</td>
+        <td><a href="[[cluburl]]" target="_blank">[[cluburl]]</a></td>
+        <td>[[uniname]]</td>
+        <td><a href="[[website]]" target="_blank">[[website]]</a></td>
+        <td>[[captain]]</td>
+        <td>[[country]], [[city]]</td>
+        </tr>
+      [[/rows]]
+  </table>
+</script>
+
+
+
+<script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', function() {
+        var URL = "https://docs.google.com/spreadsheets/d/1iUpqXnh0g2EPRzQC5BVcCRVMJwg8Tu2_aGsgJHVw1Ns/edit?usp=sharing"
+        Tabletop.init({key: URL, callback: showInfo, simpleSheet: true})
+      })
+
+      function showInfo (data) {
+              var tableOptions = {
+                "data": data,
+                pagination: 10,
+                "tableDiv": "#fullTable",
+                "filterDiv": "#fullTableFilter",
+                "templateID": "fullTable_template"
+              }
+          Sheetsee.makeTable(tableOptions)
+        Sheetsee.initiateTableFilter(tableOptions)
+      }
+</script>
