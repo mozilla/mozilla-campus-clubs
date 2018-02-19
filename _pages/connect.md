@@ -20,13 +20,24 @@ ref: resources
 
 <script id="fullTable_template" type="text/html">
     <table  class="sheetsee">
-    <tr><th class="tHeader">Club name:</th><th class="tHeader">Club's Description:</th><th class="tHeader">University/College name:</th><th class="tHeader">University/College website:</th></tr>
+    <tr>
+    <th class="tHeader">Club name:</th>
+    <th class="tHeader">Club's Description:</th>
+    <th class="tHeader">Club URL:</th>
+    <th class="tHeader">University/College name:</th>
+    <th class="tHeader">University/College website:</th>
+    <th class="tHeader">Club Captain</th>
+    <th class="tHeader">Country/City:</th>
+    </tr>
       [[#rows]]
         <tr>
-        <td>[[Clubname]]</td>
-        <td>[[ClubDescription]]</td>
-        <td>[[Uniname]]</td>
-        <td>[[website]]</td>
+        <td>[[clubname]]</td>
+        <td>[[clubDescription]]</td>
+        <td><a href="[[cluburl]]" target="_blank">[[cluburl]]</a></td>
+        <td>[[uniname]]</td>
+        <td><a href="[[website]]" target="_blank">[[website]]</a></td>
+        <td>[[captain]]</td>
+        <td>[[country]], [[city]]</td>
         </tr>
       [[/rows]]
   </table>
