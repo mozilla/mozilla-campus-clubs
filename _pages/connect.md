@@ -14,9 +14,7 @@ ref: resources
 
 # Find a Campus Club near you
 
-<input id="fullTableFilter" class="sheetsee" type="text" placeholder="filter by..">
-
- [Clear]()
+<input id="fullTableFilter" type="text" placeholder="filter by.."> <a class="clear">Clear</a>
 
 <div id="fullTable" class="sheetsee">Loading...</div>
 
