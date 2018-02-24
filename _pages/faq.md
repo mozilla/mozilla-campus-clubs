@@ -178,7 +178,7 @@ ref: faq
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen">What is the relation between the Campus Advisory Committee (CAC) and Regional Coordinators?</a>
                     </h4>
                 </div>
-                <div id="collapseTen class="panel-collapse collapse">
+                <div id="collapseTen" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
                         CAC members will support Regional Coordinators of their region on transitioning old Firefox Clubs to Campus Clubs, onboarding new Clubs and supporting them.
