@@ -11,6 +11,7 @@ ref: about
 {: .clear}
 &nbsp;
 
+Starting 2018, we will implement a seasonal application in the months February, June-July, September-October. Outside these months, applications will be closed.
 
 <ul class="nav nav-tabs" role="tablist">
   <li class="nav-item"><a class="nav-link active" href="#existing" aria-controls="build" role="tab" data-toggle="tab">Register an Existing Club</a></li>
@@ -121,7 +122,7 @@ Complete the online <a href="https://mozilla.teachable.com/courses/mozilla-campu
     </li>
     <li>
       <div>
-        Invite your Club members to join our online community for connecting with Clubs from around the world.
+        Invite your Club members to join our <a href="https://discourse.mozilla.org/c/campus-clubs">online community</a> for connecting with Clubs from around the world.
       </div>
     </li>
     <li>
