@@ -84,16 +84,16 @@ ref: faq
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">How can I connect with a Regional Coordinator?</a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">How can I connect with a Community Expert?</a>
                     </h4>
                 </div>
                 <div id="collapseFour" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        Your Regional Coordinator will help you establish an awesome club by providing you guidance, support and help you set your Club’s goals for the rest of the year.
+                        A Community Expert will help you establish an awesome club by providing you guidance, support and help you set your Club’s goals for the rest of the year.
                         In the Resources page in the website you can find all the relevant information on how to setup and successfully run your club.
-                        Going through the available Resources will help you have a faster, meaningful, productive and more fun on-boarding process with your future Regional Coordinator.
-                        After you successfully complete the onboarding process you will receive an email with instructions on how to connect with an available Regional Coordinator.
+                        Going through the available Resources will help you have a faster, meaningful, productive and more fun on-boarding process.
+                        After you successfully complete the onboarding process you will receive an email with instructions on how to connect with the Community Experts.
                         </p>
                     </div>
                 </div>
@@ -175,13 +175,13 @@ ref: faq
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen">What is the relation between the Campus Advisory Committee (CAC) and Regional Coordinators?</a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen">What is the relation between the Campus Advisory Committee (CAC) and Community Experts?</a>
                     </h4>
                 </div>
                 <div id="collapseTen" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        CAC members will support Regional Coordinators of their region on transitioning old Firefox Clubs to Campus Clubs, onboarding new Clubs and supporting them.
+                        CAC members are supporting and enabling Community Experts for better supporting Campus Clubs in their regions.
                         </p>
                     </div>
                 </div>
