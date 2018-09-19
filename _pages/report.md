@@ -19,13 +19,7 @@ ref: resources
   The Club Captain should complete a report at the end of each month detailing what the Club did and accomplished. This allows Mozilla to celebrate your successes, connect you with opportunities, and know your Club is still active!
   <br>
   <br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSd873CAwZ1451-4MTs_cALq3hJvx7ei6CkHILf3SN_vGHqWwQ/viewform"> January Reporting Form</a>
-  <br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScZBbmM9oMrN4bMrPev3KBUSBoGTbMOxMu6m0BTkIp5L1dzrw/viewform"> February Reporting Form</a>
-  <br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScmN1diGG7VtiopfPSIJ_9PC6BdNDTWw4eWRxOnWfQm1nrQHg/viewform"> March Reporting Form</a>
-  <br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmwmWGJek9HxBoWVcUIV3_tYsj_h2tb_Dy11sxdqp-E9OBJA/viewform"> April Reporting Form</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScy93FDH_-VBE-kQJwEwvA_Q2VnYgD6JknEqJvy-JPMmOSgLQ/viewform"> August Reporting Form</a>
   <br>
 
   </span>
