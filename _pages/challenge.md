@@ -22,8 +22,16 @@ The top 5 students from the whole program, with the most meaningful contribution
   <li>A recommendation on LinkedIn or on a relevant platform of your choice</li>
 </ul>
 
-### Requirements
+### Requirements & Criteria
+All University students who are curios, love solving complex issues, and are familiar with HTML, CSS, JavaScript and Object Oriented Programming.
 
+The project maintainer of the project you are going to contribute to, and the Campus Clubs Program manager are going to review every contribution against the following criteria:
+<ul>
+  <li>The quality of the code (clear syntax, comments, meets the project styleguide)</li>
+  <li>Whether the code/pull request is solving an existing a bug</li>
+  <li>Whether the code/pull request is implementing a future request</li>
+  <li>The number of issues closed</li>
+</ul>
 
 ### Timeline
 
