@@ -43,10 +43,6 @@ The project maintainer of the project you are going to contribute to, and the Ca
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane active" id="timeline">
 
-
-  <p>Register to the challenge until the 28th of September.</p>
-
-
   <section class="timeline">
     <ul>
       <li>
@@ -62,9 +58,8 @@ The project maintainer of the project you are going to contribute to, and the Ca
       <li>
         <div>
           In case that you are not already familiar with git, GitHub and the GitHub flow, you should go through the following materials:
-          <ul>
-            <li><a href="https://try.github.io/">All about git</a></li>
-            <li><a href="https://help.github.com/articles/github-flow/">The GitHub flow</a></li>
+          <p><a href="https://try.github.io/">All about git</a></p>
+          <p><a href="https://help.github.com/articles/github-flow/">The GitHub flow</a></p>
           </ul>
         </div>
       </li>
@@ -94,6 +89,8 @@ The project maintainer of the project you are going to contribute to, and the Ca
     </ul>
   </section>
   </div>
+</div>
+
 
 ### FAQ
 #### As a Club Captain, can I participate on this challenge?
@@ -110,5 +107,3 @@ The project maintainer of the project you are going to contribute to, and the Ca
   <li>Whether the code/pull request is implementing a future request</li>
   <li>The number of issues closed</li>
 </ul>
-
-</div>
