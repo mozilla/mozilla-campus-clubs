@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Challenge"
-permalink: /challenge/
+permalink: /challenge
 ref: about
 ---
 
