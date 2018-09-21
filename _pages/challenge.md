@@ -19,15 +19,15 @@ The top 5 students from the whole program, with the most meaningful contribution
   <li>A swag pack</li>
   <li>The opportunity to work closely with Mozilla engineers on important issues </li>
   <li>A certificate of excellence</li>
-  <li>A recommendation on LinkedIn or on a relevant platform of your choice</li>
+  <li>A recommendation on LinkedIn or a relevant platform of your choice</li>
 </ul>
 
 ### Requirements & Criteria
-All University students who are curios, love solving complex issues, and are familiar with HTML, CSS, JavaScript and Object Oriented Programming.
+All University students who are curious, love solving complex issues, and are familiar with HTML, CSS, JavaScript and Object Oriented Programming.
 
 The project maintainer of the project you are going to contribute to, and the Campus Clubs Program manager are going to review every contribution against the following criteria:
 <ul>
-  <li>The quality of the code (clear syntax, comments, meets the project styleguide)</li>
+  <li>The quality of the code (clear syntax, comments, meets the project style guide)</li>
   <li>Whether the code/pull request is solving an existing a bug</li>
   <li>Whether the code/pull request is implementing a future request</li>
   <li>The number of issues closed</li>
@@ -57,10 +57,9 @@ The project maintainer of the project you are going to contribute to, and the Ca
       </li>
       <li>
         <div>
-          In case that you are not already familiar with git, GitHub and the GitHub flow, you should go through the following materials:
-          <p><a href="https://try.github.io/">All about git</a></p>
-          <p><a href="https://help.github.com/articles/github-flow/">The GitHub flow</a></p>
-          </ul>
+          In case that you are not already familiar with git, GitHub, and the GitHub flow, you should go through the following materials:
+          <p><a href="https://try.github.io/">- All about git</a></p>
+          <p><a href="https://help.github.com/articles/github-flow/">- The GitHub flow</a></p>
         </div>
       </li>
 
@@ -72,7 +71,7 @@ The project maintainer of the project you are going to contribute to, and the Ca
 
       <li>
         <div>
-          <b>October the 5th</b>: People who successfully completed the first task will receive further information for the final assignment.
+          <b>October the 5th</b>: People who completed the first task will receive further information for the final assignment.
         </div>
       </li>
       <li>
@@ -93,7 +92,7 @@ The project maintainer of the project you are going to contribute to, and the Ca
 
 
 ### FAQ
-#### As a Club Captain, can I participate on this challenge?
+#### As a Club Captain, can I participate in this challenge?
 Yes of course! You can also organize a Club event where all your Club members can meet and work on the issue collectively. However, all the participants need to register individually.
 
 #### I am not part of a Mozilla Campus Clubs, can I participate?
@@ -102,7 +101,7 @@ Yes! The challenge is open to all University students around the world.
 #### Who is going to review our contributions and decide the top 5 students?
 The project maintainer of the project you are going to contribute to, and the Campus Clubs Program manager are going to review every contribution against the following criteria:
 <ul>
-  <li>The quality of the code (clear syntax, comments, meets the project styleguide)</li>
+  <li>The quality of the code (clear syntax, comments, meets the project style guide)</li>
   <li>Whether the code/pull request is solving an existing a bug</li>
   <li>Whether the code/pull request is implementing a future request</li>
   <li>The number of issues closed</li>
