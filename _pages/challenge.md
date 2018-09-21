@@ -43,12 +43,12 @@ The top 5 students from the whole program, with the most meaningful contribution
     <ul>
       <li>
         <div>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdKYZV3xeaIkdHyeZaZNiddF0kpRMBb-Mjb70y0HShaTXc4cg/viewform"> Register to the challenge</a> until the 28th of September.
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfuMniAnPyMzEEUpcY3QvOP0__5A2XF1kkpcfJP9pRCpO1-AA/viewform"> Register to the challenge</a> before the 28th of September.
         </div>
       </li>
       <li>
         <div>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdKYZV3xeaIkdHyeZaZNiddF0kpRMBb-Mjb70y0HShaTXc4cg/viewform"> Join our GitHub organization.</a>
+          <a href="https://mozilla-campus-clubs.herokuapp.com/">Join our GitHub organization.</a>
         </div>
       </li>
       <li>
