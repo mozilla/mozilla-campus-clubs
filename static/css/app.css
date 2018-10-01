@@ -638,3 +638,14 @@ a.btn-primary-activities {
 .headersleft h3 {
   text-align: left;
 }
+
+/* Navbar dropdown css */
+#exCollapsingNavbar .dropdown-menu {
+    background-color: #3bba99;
+    padding: 0px;
+    border-radius: 0px;
+}
+
+#exCollapsingNavbar .dropdown-menu a:hover {
+    background-color: #0c906e;
+}
