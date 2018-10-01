@@ -47,7 +47,7 @@ The project maintainer of the project you are going to contribute to, and the Ca
     <ul>
       <li>
         <div>
-          Register to the challenge</a> before the 28th of September.
+          Register to the challenge before the 28th of September.
         </div>
       </li>
       <li>
