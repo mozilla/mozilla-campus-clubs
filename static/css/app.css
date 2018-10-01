@@ -138,6 +138,15 @@ nav a:hover {
     color: white;
 }
 
+/* Nav bar club-drop-down-menu */
+.club-menu {
+    display: inline-block;
+}
+.club-menu .dropdown-menu a {
+    text-decoration: none;
+    color: #3BBA99 !important;
+}
+
 .navbar-brand > img {
     padding-top: 10px;
     margin-right: 20px;
