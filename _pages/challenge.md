@@ -47,7 +47,7 @@ The project maintainer of the project you are going to contribute to, and the Ca
     <ul>
       <li>
         <div>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfuMniAnPyMzEEUpcY3QvOP0__5A2XF1kkpcfJP9pRCpO1-AA/viewform"> Register to the challenge</a> before the 28th of September.
+          Register to the challenge</a> before the 28th of September.
         </div>
       </li>
       <li>
