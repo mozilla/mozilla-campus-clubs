@@ -1,0 +1,16 @@
+current directory: /media/crystalcbuddy/BEE27246E27202C7/EducationalStuff/Programming/Mozilla/mozilla-campus-clubs/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.5 -r ./siteconf20181002-10397-9etaec.rb extconf.rb
+creating Makefile
+
+current directory: /media/crystalcbuddy/BEE27246E27202C7/EducationalStuff/Programming/Mozilla/mozilla-campus-clubs/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /media/crystalcbuddy/BEE27246E27202C7/EducationalStuff/Programming/Mozilla/mozilla-campus-clubs/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /media/crystalcbuddy/BEE27246E27202C7/EducationalStuff/Programming/Mozilla/mozilla-campus-clubs/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20181002-10397-1t8ncye
