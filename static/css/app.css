@@ -638,3 +638,10 @@ a.btn-primary-activities {
 .headersleft h3 {
   text-align: left;
 }
+
+.dropdown-menu {
+    background-color: #3BBA99;
+}
+.dropdown-menu a:hover {
+    color: #3BBA99;
+} 

@@ -1,0 +1,16 @@
+current directory: /home/nathaniel/projects/mozilla-campus-clubs/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.5 -r ./siteconf20181002-5128-122jhz4.rb extconf.rb
+creating Makefile
+
+current directory: /home/nathaniel/projects/mozilla-campus-clubs/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/nathaniel/projects/mozilla-campus-clubs/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/nathaniel/projects/mozilla-campus-clubs/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20181002-5128-1h6kdrg
