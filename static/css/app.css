@@ -109,7 +109,7 @@ ul {
     margin-left: 30px;
 }
 
-nav.navbar {
+nav.navbar{
     background-color: #3BBA99;
     color: white;
     padding: 0;
@@ -125,6 +125,30 @@ nav a {
     color: white !important;
 }
 
+nav .submenu{
+    display: none;
+    position: absolute;
+}
+
+nav .drop_div:hover .submenu{
+    display: block;
+}
+.submenu a{
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    background-color: #3BBA99;
+    color: white;
+}
+
+.submenu a:hover{
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    background-color: #3BBA99;
+    color: black !important;
+}
+
 nav a:link {
     font-weight: bold;
 }
@@ -136,6 +160,7 @@ nav a.inactive {
 
 nav a:hover {
     color: white;
+    text-decoration: none;
 }
 
 .navbar-brand > img {
@@ -179,6 +204,7 @@ nav a:hover {
         padding: 10px;
         max-width: 160px;
     }
+
 }
 
 #tabzilla {
