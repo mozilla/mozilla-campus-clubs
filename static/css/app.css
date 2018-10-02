@@ -109,6 +109,18 @@ ul {
     margin-left: 30px;
 }
 
+nav li{
+    text-decoration: none;
+    display: inline-block;
+}
+.dropdown-menu {
+    background-color: #3bba99;
+}
+.dropdown-item:hover{
+    background-color: #3bba99;
+}
+
+
 nav.navbar {
     background-color: #3BBA99;
     color: white;
