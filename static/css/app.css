@@ -148,6 +148,38 @@ nav a:hover {
     margin-top: 20px;
 }
 
+#nav-content{
+    position: absolute;
+    top: 70px;
+    overflow: hidden;
+    background-color: #3BBA99;
+    max-height: 0;
+}
+#nav-sub ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: block;
+}
+#nav-sub ul li{
+    display: block;
+    line-height: 50px;
+    padding: 0 20px;
+    height: 50px;
+    font-size: 11pt;
+    text-transform: none;
+}
+#nav-sub ul li a{
+    display: inline-block;
+    padding:0;
+}
+#nav-sub ul li a:focus{
+    background-color: #444;
+}
+#dropdown-link:focus ~ #nav-content{
+    max-height: 400px;
+    transition: max-height 0.4s ease-in;
+}
 @media all and (min-width: 992px) {
     .navbar-toggleable-md {
         display: inline-block !important;
