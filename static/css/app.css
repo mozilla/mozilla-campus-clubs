@@ -147,6 +147,19 @@ nav a:hover {
     float: right;
     margin-top: 20px;
 }
+nav li{
+    text-decoration: none;
+    display: inline-block;
+}
+.dropdown-menu {
+    background-color:black;
+}
+.dropdown-item{
+  text-align: center;
+}
+.dropdown-item:hover{
+    background-color: #3bba99;
+}
 
 @media all and (min-width: 992px) {
     .navbar-toggleable-md {
