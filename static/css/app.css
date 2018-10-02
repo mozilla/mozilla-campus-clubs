@@ -11,8 +11,6 @@
 .sheetsee  ul, ol {text-indent: 0; margin: 0; padding-left: 20px;}
 .sheetsee  ul li {padding-bottom: 6px; line-height: 22px;}
 
-
-
 img[alt=sheetseeimg] {
   width: 400px;
 }
@@ -148,6 +146,7 @@ nav a:hover {
     margin-top: 20px;
 }
 
+
 @media all and (min-width: 992px) {
     .navbar-toggleable-md {
         display: inline-block !important;
@@ -175,10 +174,29 @@ nav a:hover {
     nav a.nav-link {
         display: block;
         background-color: #3BBA99;
-        color: black !important;
         padding: 10px;
         max-width: 160px;
     }
+}
+.dropdown-menu {
+    background-color: #3BBA99;
+    overflow: hidden;
+}
+.dropdown-menu a:hover {
+    color: #3BBA99;
+}
+.dropdown-item{
+    background-color: #000 !important;
+    color:#fff !important;
+}
+.dropdown-menu, .dropdown-item:hover {
+    background-color: #000 !important;
+    color:#3BBA99 !important;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
 }
 
 #tabzilla {
