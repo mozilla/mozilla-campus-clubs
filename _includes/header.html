@@ -1,34 +1,30 @@
 <header class="site-header">
 
     <nav class="navbar">
-    <div class="container">
+      <div class="container">
         <a class="navbar-brand" href="/"><img src="/static/img/clubs.svg" alt="{{ site.title | escape }}"></a>
-
+  
         <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar" aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
-        &#9776;
+          &#9776;
         </button>
         <div class="collapse navbar-toggleable-md" id="exCollapsingNavbar">
-        
-            <ul class = "nav navbar-nav">
-                <li><a class="nav-link" href="/activities/">Activities</a></li>
-                <li class="dropdown">
-                        <a class = "dropdown-toggle" data-toggle="dropdown" href = "#">Club Activities
-                        <span class = "caret"></span></span></a>
-                        <ul class = "dropdown-menu">
-                            <li><a class="dropdown-item" href="/resources/">Resources</a></li>
-                            <li><a class="dropdown-item" href="/get-started/">Get Started</a></li>
-                            <li><a class="dropdown-item" href="/connect/">Connect</a></li>
-                            <li><a class="dropdown-item" href="/faq/">FAQ</a></li>
-                        </ul>
-                </li>
-                <li><a class="nav-link" href="/about/">About</a></li>
-            </ul>
-        
-
-        <div id="tabzilla" class="hidden-lg-down">
-        <a href="https://www.mozilla.org/" data-link-type="nav" data-link-name="tabzilla">Mozilla</a>
+          <a class="nav-link" href="/activities/">Activities</a>
+          <div class="dropdown">
+            <a class="nav-link dropbtn dropdown-toggle">Club's Corner</a>
+            <div class="dropdown-content">
+                <a class="dropdown-item" href="/resources/">Resources</a>
+                <a class="dropdown-item" href="/get-started/">Get Started</a>
+                <a class="dropdown-item" href="/connect/">Connect</a>
+                <a class="dropdown-item" href="/faq/">FAQ</a>
+            </div>
+          </div>
+          <a class="nav-link" href="/about/">About</a>
         </div>
-    </div>
+  
+        <div id="tabzilla" class="hidden-lg-down">
+          <a href="https://www.mozilla.org/" data-link-type="nav" data-link-name="tabzilla">Mozilla</a>
+        </div>
+      </div>
     </nav>
-
-</header>
+  
+  </header>

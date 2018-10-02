@@ -3,7 +3,7 @@
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-.important-links {
+ .important-links {
   padding: 0;
   list-style-type: none;
   display: flex;
@@ -2422,54 +2422,79 @@ input[type="button"].btn-block {
   border-top: 0;
   border-bottom: 0.3em solid; }
 
+.dropbtn {
+  color: rgba(255, 255, 255, 0.822);
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+.dropdown {
+position: relative;
+display: inline-block;
+cursor: pointer;
+}
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: #3BBA99;
+top: 75%;
+min-width: 160px;
+z-index: 1;
+}
+.dropdown-content a {
+color: black;
+padding: 15px 20px;
+display: block;
+}
+.dropdown:hover .dropdown-content {display: block;}
+
 .dropdown-menu {
   position: absolute;
-  top: 100%;
-  left: 0;
-  z-index: 1000;
+  top: 95%;
+  left: auto;
+  right: auto;
+  z-index: 1;
   display: none;
-  float: left;
   min-width: 160px;
-  padding: 5px 0;
-  margin: 2px 0 0;
+  padding: 15px 0;
+  margin: 0;
   font-size: 1rem;
   color: #373a3c;
   text-align: left;
   list-style: none;
-  background-color: #fff;
+  background:none;
   background-clip: padding-box;
-  border: 1px solid rgba(0, 0, 0, 0.15);
-  border-radius: 0.25rem; }
+  border :none; }
 
 .dropdown-divider {
   height: 1px;
   margin: 0.5rem 0;
   overflow: hidden;
-  background-color: #e5e5e5; }
+  background-color: #e5e5e5cc; }
 
 .dropdown-item {
-  display: block;
+  display: absolute;
   width: 100%;
-  padding: 3px 20px;
+  padding: 3px 5px;
   clear: both;
   font-weight: normal;
-  line-height: 1.5;
+  line-height: 1;
   color: #373a3c;
   text-align: inherit;
   white-space: nowrap;
-  background: none;
+  background: #3BBA99;
   border: 0; }
   .dropdown-item:focus, .dropdown-item:hover {
-    color: #2b2d2f;
+    color: #f0f0f0 !important;
     text-decoration: none;
-    background-color: #f5f5f5; }
+    background-color:transparent; }
   .dropdown-item.active, .dropdown-item.active:focus, .dropdown-item.active:hover {
-    color: #fff;
+    color: #f0f0f0;
     text-decoration: none;
-    background-color: #0275d8;
+    background-color: transparent;
     outline: 0; }
   .dropdown-item.disabled, .dropdown-item.disabled:focus, .dropdown-item.disabled:hover {
-    color: #818a91; }
+    color: #f0f0f0; }
   .dropdown-item.disabled:focus, .dropdown-item.disabled:hover {
     text-decoration: none;
     cursor: not-allowed;
@@ -4895,3 +4920,5 @@ a.bg-danger:focus, a.bg-danger:hover {
 @media print {
   .hidden-print {
     display: none !important; } }
+
+    
