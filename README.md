@@ -1,4 +1,4 @@
-# Mozilla Campus Clubs
+# [Mozilla Campus Clubs](https://campus.mozilla.community/)
 
 ## Hack the site
 
