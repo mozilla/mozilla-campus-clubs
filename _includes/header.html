@@ -7,19 +7,35 @@
       <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar" aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
         &#9776;
       </button>
-      <div class="collapse navbar-toggleable-md" id="exCollapsingNavbar">
-        <a class="nav-link" href="/activities/">Activities</a>
-        <a class="nav-link" href="/about/">About Clubs</a>
-        <a class="nav-link" href="/get-started/">Get Started</a>
-        <a class="nav-link" href="/resources/">Resources</a>
-        <a class="nav-link" href="/connect/">Connect</a>
-        <a class="nav-link" href="/report/#">Report</a>
-        <a class="nav-link" href="/faq/">FAQ</a>
+      
+      <div class="collapse navbar-toggleable-md" id="exCollapsingNavbar">      
+        <!-- Activities link -->
+        <div class="nav-link">
+          <a class="nav-link" href="/activities/">Activities</a>
+        </div>
+        <!-- Clubs Corner Dropdown Menu -->
+        <div class="nav-link dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown">
+          Clubs Corner
+          </a>
+          <div class="dropdown-menu dropdown">
+            <a class="dropdown-item nav-link" href="/get-started/">Get Started</a>
+            <a class="dropdown-item nav-link" href="/resources/">Resources</a>
+            <a class="dropdown-item nav-link" href="/connect/">Connect</a>
+            <a class="dropdown-item nav-link" href="/report/#">Report</a>
+            <a class="dropdown-item nav-link" href="/faq/">FAQ</a>
+          </div>
+        </div>
+        <!-- About link -->
+        <div class="nav-link">
+            <a class="nav-link" href="/about/">About</a>
+        </div>      
       </div>
 
       <div id="tabzilla" class="hidden-lg-down">
         <a href="https://www.mozilla.org/" data-link-type="nav" data-link-name="tabzilla">Mozilla</a>
       </div>
+
     </div>
   </nav>
 
