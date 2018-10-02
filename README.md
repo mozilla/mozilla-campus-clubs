@@ -7,7 +7,7 @@ Official website of Mozilla Campus Clubs.
 Thank you for contributing! Just follow these simple steps to setup the project.
 
 #### Step 1
-Make sure you have ruby and Jekyll installed in your System.
+Make sure you have [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [Jekyll]() installed in your System.
 
 #### Step 2
 Clone the repo
