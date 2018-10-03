@@ -181,13 +181,6 @@ nav a:hover {
     }
 }
 
-.dropdown-menu {
-    background-color: #3BBA99;
-}
-.dropdown-menu .dropdown-item:hover {
-    background-color: #000000;
-}
-
 #tabzilla {
     position:relative;
     float:right
