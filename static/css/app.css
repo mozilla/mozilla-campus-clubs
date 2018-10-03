@@ -180,7 +180,13 @@ nav a:hover {
         max-width: 160px;
     }
 }
-
+.open > .dropdown-menu {
+    display: block;
+    background: #3BBA99;
+}
+a.dropdown-item.nav-link:hover {
+    background: black;
+}
 #tabzilla {
     position:relative;
     float:right
