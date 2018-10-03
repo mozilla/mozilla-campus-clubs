@@ -172,13 +172,14 @@ nav a:hover {
         background-color: #3BBA99;
     }
 
-    nav a.nav-link {
+    nav a.nav-link{
         display: block;
         background-color: #3BBA99;
         color: black !important;
         padding: 10px;
         max-width: 160px;
     }
+
 }
 
 #tabzilla {
@@ -637,4 +638,14 @@ a.btn-primary-activities {
 }
 .headersleft h3 {
   text-align: left;
+}
+
+
+a.nav-link.dropdown-item:hover {
+    background: black
+}
+
+.open > .dropdown-menu{
+    background: #50ba99;
+    display: block
 }
