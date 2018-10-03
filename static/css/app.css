@@ -11,7 +11,12 @@
 .sheetsee  ul, ol {text-indent: 0; margin: 0; padding-left: 20px;}
 .sheetsee  ul li {padding-bottom: 6px; line-height: 22px;}
 
-
+.dropdown-menu {
+    background-color: #3BBA99;
+}
+.dropdown-menu .dropdown-item:hover {
+    background-color: #000000;
+}
 
 img[alt=sheetseeimg] {
   width: 400px;
