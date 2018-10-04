@@ -118,7 +118,6 @@ nav.navbar {
 }
 
 nav a {
-    font-size: 1.2em;
     text-transform: uppercase;
     margin-right: 25px;
     padding-top: 42px;
@@ -146,6 +145,24 @@ nav a:hover {
 .navbar-toggler {
     float: right;
     margin-top: 20px;
+}
+
+.corner-menu {
+    width: 180px;
+    height: 170px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5px 0 5px 10px;
+    border-radius: 0px 5px 5px 5px;
+    background-color: #ffffff;
+    font-weight: bold;
+}
+
+.corner-menu > a {
+    padding: 0;
+    color: black !important;
 }
 
 @media all and (min-width: 992px) {
@@ -273,7 +290,7 @@ b > a:link {
     text-align: center;
 }
 
-@media screen and (max-width:992px;) {
+@media screen and (max-width:992px) {
     .action {
         margin-top: 30px;
     }
@@ -473,7 +490,7 @@ ul.nav-tabs {
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: spacing-unit / 2;
 }
 
 .footer-col ul.links-join li.wrap:before,
@@ -563,7 +580,7 @@ ul.nav-tabs {
         list-style-type: none;
         position: relative;
         width: 6px;
-        float: left
+        float: left;
         margin: 0 auto;
         padding-top: 50px;
         background: #3BBA99;
