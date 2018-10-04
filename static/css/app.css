@@ -638,3 +638,10 @@ a.btn-primary-activities {
 .headersleft h3 {
   text-align: left;
 }
+.nav-menu {
+    display: inline-block;
+}
+.nav-menu .dropdown-menu a {
+    text-decoration: none;
+    color: #3BBA99;
+}
