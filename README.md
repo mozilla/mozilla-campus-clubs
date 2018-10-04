@@ -6,6 +6,8 @@ Thank you for contributing! Just follow these simple steps
 
 Clone the repo
 
+Download and install Ruby
+
 ``$ git clone https://github.com/mozilla/mozilla-campus-clubs``
 
 To install the dependencies. First you need change your directory to mozilla-campus-clubs
@@ -17,7 +19,7 @@ Build the site using the following developer config
 
 ``$ bundle exec jekyll build --config ./_config-dev.yml``
 
-This builds the website under the `_site` folder. The simplest way to browse it is to use python's http server. For that. you can follow the following steps
+This builds the website under the `_site` folder. The simplest way to browse it is to use python's http server. For that. you can follow the following steps after installing Python
 
 ```
 cd _site
