@@ -1,4 +1,28 @@
+/*____________________________ code inserted During Challenge _________________________________*/
 
+nav li{
+	text-decoration: none;
+	display:inline-block;
+}
+
+.dropdown-menu {
+	background-color: rgba(59, 186, 153, 0.7);
+	border-radius: 5px;
+}
+
+/*For Hoverable Dropdown //This is not user friendly for touch displays */
+/*
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+*/
+.dropdown-item:hover{
+	background-color: #3BBA99;
+	border-radius: 10px;
+	box-shadow: 0.6px 0.6px 0.6px 0.6px black;
+}
+
+/*________________________________________________________________________________________________*/
 .sheetsee  h3 {padding-top: 18px;}
 .sheetsee  h1 {font-size: 36px;}
 
