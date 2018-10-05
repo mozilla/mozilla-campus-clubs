@@ -3,6 +3,10 @@
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+ 
+
+
 .important-links {
   padding: 0;
   list-style-type: none;
@@ -642,7 +646,8 @@ a:link {
   font-size: inherit;
   line-height: 1.6rem;
   font-weight: 300;
-  color: #4383bf; }
+  color: #44FFB4 }
+
 
 a.button {
   display: inline-block;
@@ -2431,7 +2436,7 @@ input[type="button"].btn-block {
   float: left;
   min-width: 160px;
   padding: 5px 0;
-  margin: 2px 0 0;
+  /* /margin: 2px 0 0; */
   font-size: 1rem;
   color: #373a3c;
   text-align: left;
@@ -2448,7 +2453,7 @@ input[type="button"].btn-block {
   background-color: #e5e5e5; }
 
 .dropdown-item {
-  /*display: block;
+  display: block;
   width: 100%;
   padding: 3px 20px;
   clear: both;
@@ -2457,18 +2462,12 @@ input[type="button"].btn-block {
   color: #373a3c;
   text-align: inherit;
   white-space: nowrap;
-  background: none;
-border: 0;*/
-color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-
- }
+  background-color:#000;
+  border: 0; }
   .dropdown-item:focus, .dropdown-item:hover {
     color: #2b2d2f;
     text-decoration: none;
-    background-color: #f5f5f5; }
+    background-color: #3BBA99; }
   .dropdown-item.active, .dropdown-item.active:focus, .dropdown-item.active:hover {
     color: #fff;
     text-decoration: none;
@@ -2919,7 +2918,7 @@ color: black;
     color: #818a91; }
     .nav-link.disabled, .nav-link.disabled:focus, .nav-link.disabled:hover {
       color: #818a91;
-      cursor: not-allowed;
+      cursor: pointer;
       background-color: transparent; }
 
 .nav-inline .nav-item {
@@ -3088,7 +3087,10 @@ color: black;
     display: block !important; } }
 
 .navbar-nav .nav-item {
-  float: left; }
+  float: left;
+  margin-top: 10px;
+  padding-top: .425rem;
+  padding-bottom: .425rem }
 
 .navbar-nav .nav-link {
   display: block;
