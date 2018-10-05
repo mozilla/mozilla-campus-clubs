@@ -638,3 +638,58 @@ a.btn-primary-activities {
 .headersleft h3 {
   text-align: left;
 }
+
+/* The dropdown container */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    color: white;
+    background-color: #3BBA99;
+  }
+  
+  /* Dropdown button */
+  .dropdown .dropbtn {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 25px;
+    padding-right: 25px;
+    display: inline-block;
+    color: white !important; 
+    border: none;
+    outline: none;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+  }
+  
+  /* Add a red background color to navbar links on hover
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  } */
+  
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    background-color: #3BBA99;
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown*/
+  .dropdown-content a {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+  }
+  
+  /* Add a grey background color to dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: rgb(71, 170, 165);
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
