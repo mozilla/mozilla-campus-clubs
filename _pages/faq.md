@@ -153,7 +153,7 @@ ref: faq
                 <div id="collapseEight" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        You can have only one Mozilla Campus Club per Campus. Having more than one Mozilla Campus Clubs in the same campus will lead to competition for members and resources. If there is such conflict in your campus, please report by sending an email to campusclubs [at] mozilla [dot] com.
+                        You can have only one Mozilla Campus Club per Campus. Having more than one Mozilla Campus Clubs in the same campus will lead to competition for members and resources. If there is such conflict in your campus, please report by sending an email to <a href="mailto:campusclubs@mozilla.com" target="_top">campusclubs@mozilla.com</a>.
                         </p>
                     </div>
                 </div>
