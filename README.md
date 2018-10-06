@@ -1,3 +1,7 @@
+```
+$i don't believe in you, I don't believe in you & I.
+~ \N1X\ was here.
+````
 # [Mozilla Campus Clubs](https://campus.mozilla.community/)
 
 ## Hack the site
