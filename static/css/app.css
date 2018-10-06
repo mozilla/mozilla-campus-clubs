@@ -148,14 +148,12 @@ nav a:hover {
 }
 
 .corner-menu {
+    display: none;
     width: 180px;
     height: 170px;
     position: absolute;
     margin-top: 3px;
     margin-left: 105px;
-    display: none;
-    flex-direction: column;
-    justify-content: space-between;
     cursor: pointer;
     padding: 5px 0 5px 10px;
     border-radius: 0px 5px 5px 5px;
