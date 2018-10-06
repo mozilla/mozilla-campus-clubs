@@ -1,4 +1,3 @@
-
 .sheetsee  h3 {padding-top: 18px;}
 .sheetsee  h1 {font-size: 36px;}
 
@@ -638,3 +637,20 @@ a.btn-primary-activities {
 .headersleft h3 {
   text-align: left;
 }
+
+/*____________________________ Style for dropdown-menu _________________________________*/
+nav li{
+	text-decoration: none;
+	display:inline-block;
+}
+.dropdown-menu {
+	background-color: rgba(59, 186, 153, 0.9);
+	border-radius: 5px;
+}
+.dropdown-item:hover{
+	background-color: #3BBA99;
+	border-radius: 5px;
+	box-shadow: 0.5px 0.5px 0.5px 0.5px black;
+	text-align:center;
+}
+ /*_________________________________________________________________________________________*/
