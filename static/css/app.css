@@ -1,3 +1,21 @@
+/*____________________________ Club Corner _________________________________*/
+ nav li{
+	text-decoration: none;
+	display:inline-block;
+}
+ .dropdown-menu {
+	background-color: rgba(59, 186, 153, 0.7);
+	border-radius: 5px;
+}
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+.dropdown-item:hover{
+	background-color: #3BBA99;
+	border-radius: 10px;
+	box-shadow: 0.6px 0.6px 0.6px 0.6px black;
+}
+ /*__________________________________________________________________________*/
 
 .sheetsee  h3 {padding-top: 18px;}
 .sheetsee  h1 {font-size: 36px;}
