@@ -151,13 +151,25 @@ nav a:hover {
     width: 180px;
     height: 170px;
     position: absolute;
-    display: flex;
+    margin-top: 3px;
+    margin-left: 105px;
+    display: none;
     flex-direction: column;
     justify-content: space-between;
+    cursor: pointer;
     padding: 5px 0 5px 10px;
     border-radius: 0px 5px 5px 5px;
     background-color: #ffffff;
     font-weight: bold;
+}
+
+.corner-menu > a {
+    display: block;
+    margin-top: 5px;
+}
+
+.corner-link {
+    cursor: pointer;
 }
 
 .corner-menu > a {
@@ -175,9 +187,7 @@ nav a:hover {
     .navbar > .container {
         max-width: 100%;
     }
-}
 
-@media all and (max-width: 992px) {
     .navbar .navbar-toggleable-md {
         z-index: 99;
         position: absolute;
@@ -195,6 +205,12 @@ nav a:hover {
         color: black !important;
         padding: 10px;
         max-width: 160px;
+    }
+
+    .corner-menu {
+        position: relative;
+        margin: 0;
+        border-radius: 0;
     }
 }
 
