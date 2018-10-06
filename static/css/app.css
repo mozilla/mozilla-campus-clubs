@@ -638,3 +638,34 @@ a.btn-primary-activities {
 .headersleft h3 {
   text-align: left;
 }
+
+
+.navbar-nav .nav-item {
+    font-size: inherit;
+    list-style: none;
+
+}
+
+.dropdown-menu {
+    background-color: #3bba99;
+    
+}
+
+.dropdown-menu a:hover {
+    background-color: #3bba99;
+    
+}
+
+
+.navbar-toggleable-md {
+    margin-top: 35px;
+}
+
+.navbar-nav .nav-item + .nav-item {
+    margin-left: 0;
+}
+
+.navbar-toggleable-md ul{
+    margin-left: 0px;
+}
+
