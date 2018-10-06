@@ -148,6 +148,14 @@ nav a:hover {
     margin-top: 20px;
 }
 
+.dropdown-item {
+    background-color: #3BBA99;
+}
+
+.dropdown-item:hover {
+    background-color: #47CCFC;
+}
+
 @media all and (min-width: 992px) {
     .navbar-toggleable-md {
         display: inline-block !important;
@@ -273,7 +281,7 @@ b > a:link {
     text-align: center;
 }
 
-@media screen and (max-width:992px;) {
+@media screen and (max-width:992px) {
     .action {
         margin-top: 30px;
     }
