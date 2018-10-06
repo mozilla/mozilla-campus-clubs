@@ -1,4 +1,3 @@
-
 .sheetsee  h3 {padding-top: 18px;}
 .sheetsee  h1 {font-size: 36px;}
 
@@ -148,6 +147,34 @@ nav a:hover {
     margin-top: 20px;
 }
 
+/* CSS for dropdown menu */
+.dropdown .dropdown-menu {
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+
+    max-height: 0;
+    display: block;
+    overflow: hidden;
+    opacity: 0;
+}
+
+.dropdown.open .dropdown-menu {
+    max-height: 200px;
+    opacity: 1;
+}
+
+nav .dropdown-menu {
+    background-color: #3BBA99 !important;
+}
+
+nav .dropdown-menu .dropdown-item:hover {
+    background-color: black !important;
+    color:white !important;
+}
+/* ---------End DropDown menus----------- */
 @media all and (min-width: 992px) {
     .navbar-toggleable-md {
         display: inline-block !important;
