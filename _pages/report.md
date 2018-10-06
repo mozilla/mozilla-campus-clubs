@@ -12,7 +12,7 @@ ref: resources
 &nbsp;
 
 
-<div class="resources">
+<div class="resources action clear">
   <img src="/static/img/calendar.png" alt="">
   <div class="head-link">Submit Your Monthly Report</div>
   <span>
@@ -33,7 +33,7 @@ ref: resources
 
 {: .action}
 
-<div class="resources">
+<div class="resources action clear">
   <img src="/static/img/calendar.png" alt="">
   <div class="head-link">Submit a Monthly Report</div>
   <span>A Regional Coordinator should send a report to Mozilla Campus staff in a monthly base updating us on your progress towards your goals. This ensures you will always have the necessary support and resources for supporting your Campus Clubs.
