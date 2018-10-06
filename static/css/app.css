@@ -638,3 +638,20 @@ a.btn-primary-activities {
 .headersleft h3 {
   text-align: left;
 }
+
+
+/* Re-desined Menu Bar */
+
+@media only screen and (min-width: 900px) {
+  #exCollapsingNavbar {
+    margin-top: 18px;
+  }
+}
+
+.nav-item {
+  margin-left: 0!important;
+}
+
+.dropdown-menu > a {
+  color : #3BBA99!important;
+}
