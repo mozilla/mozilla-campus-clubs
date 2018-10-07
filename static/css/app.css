@@ -179,6 +179,32 @@ nav a:hover {
         padding: 10px;
         max-width: 160px;
     }
+
+    .dropdownmenu a{
+        color: black !important;
+    }
+}
+
+.nav-dropdown {
+    display: inline-block;
+}
+ .nav-dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #3BBA99;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+ .nav-dropdown-menu a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+}
+ .nav-dropdown-menu a:hover {background-color: rgb(0, 255, 187)}
+ .nav-dropdown:hover .nav-dropdown-menu {
+    display: block;
 }
 
 #tabzilla {
