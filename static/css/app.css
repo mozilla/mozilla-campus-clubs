@@ -148,6 +148,35 @@ nav a:hover {
     margin-top: 20px;
 }
 
+/* Navbar dropdown */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    background-color: rgba(59, 186, 153, .9);
+	z-index: 1;
+    display: block;
+    min-width: 160px;
+    position: absolute;
+    border-radius: 5px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {
+    background-color: rgb(59, 186, 153);
+	box-shadow: 0.2px 0.2px 01px  black;
+    border-radius: 5px;
+	text-align:center;
+    display: block;  
+}
+/* dropdown code end */
+
 @media all and (min-width: 992px) {
     .navbar-toggleable-md {
         display: inline-block !important;
