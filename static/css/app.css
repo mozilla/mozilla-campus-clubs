@@ -21,6 +21,52 @@ img[alt=sheetseeimg] {
   text-align: center;
 }
 
+
+.navdpbtn {
+    background-color: #3BBA99;
+    color: white;
+
+
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #3BBA99;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #3BBA99;
+    padding: 12px 16px;
+    width: 100%;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: rgba(59, 186, 152, 0.856);
+    display: block;
+
+}
+
+.dropdown:hover .dropdown-content {
+    background-color: rgba(59, 186, 152, 0.774);
+    border-radius: 10px;
+    display: block;
+}
+
+.dropdown:hover .navdpbtn {
+    background-color: #3BBA99;
+}
+
+
 /* older css */
 
 .sheetsee body {font-family: 'Source Sans Pro'; background: #fff; color: #535353;  border: 10px #47CCFC solid; margin: 0px; padding: 20px 20px 100px 20px; overflow: auto; }
