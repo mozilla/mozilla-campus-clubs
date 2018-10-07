@@ -21,6 +21,48 @@ img[alt=sheetseeimg] {
   text-align: center;
 }
 
+/*new top website menu css*/
+.dropdown-content {
+    display: none;
+    top: 69px;
+    right: 0px;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 150px;
+    text-align: center;
+}
+ .dropdown-content a {
+    margin-right: 0px;
+    padding-top: 12px;
+    padding-bottom: 8px;
+    background-color: #3bba99;
+    text-decoration: none;
+    display: block;
+}
+ .dropdown {
+    position: relative;
+    display: inline-block;
+}
+ .dropdown:hover .dropdown-content {
+    display: block;
+}
+ .dropbtn {
+    background-color: #3bba99;
+    border: none;
+    cursor: pointer;
+    font-size: inherit;
+    font-weight: bold;
+    line-height: 1.6rem;
+    text-transform: uppercase;
+    margin-right: 25px;
+    padding: 0px;
+    padding-top: 42px;
+    padding-bottom: 3px;
+}
+ .dropdown:hover a:hover {
+    background-color: #37ae8f;
+}
+
 /* older css */
 
 .sheetsee body {font-family: 'Source Sans Pro'; background: #fff; color: #535353;  border: 10px #47CCFC solid; margin: 0px; padding: 20px 20px 100px 20px; overflow: auto; }
