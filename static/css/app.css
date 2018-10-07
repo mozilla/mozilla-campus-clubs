@@ -118,7 +118,7 @@ nav.navbar {
 }
 
 nav a {
-    font-size: 1.2em;
+    font-size: 1.0em;
     text-transform: uppercase;
     margin-right: 25px;
     padding-top: 42px;
@@ -146,6 +146,38 @@ nav a:hover {
 .navbar-toggler {
     float: right;
     margin-top: 20px;
+}
+
+.dropdown-club-corner {
+    cursor: pointer;
+}
+
+.dropdown-content {
+    background-color: #3BBA99;
+    border-radius: 0px 0px 5px 5px;
+    cursor: pointer;
+    display: none;
+    font-weight: bold;
+    padding: 5px 0 5px 10px;
+    height: 170px;
+    margin-left: 96px;
+    position: absolute;
+    width: 180px;
+}
+
+.dropdown-item {
+    display: block;
+    margin-top: 5px;
+    padding: 0;
+    width: 100%;
+}
+
+.dropdown-item:hover {
+    background-color: black;
+    width: 100%;
+    display: block;
+    margin-top: 5px;
+    padding: 0;
 }
 
 @media all and (min-width: 992px) {
