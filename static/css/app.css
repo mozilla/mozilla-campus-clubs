@@ -117,10 +117,9 @@ nav.navbar {
     height: 70px;
 }
 
-nav a {
+.navmenu li a {
     font-size: 1.2em;
     text-transform: uppercase;
-    margin-right: 25px;
     padding-top: 42px;
     color: white !important;
 }
@@ -149,27 +148,34 @@ nav a:hover {
 }
 
 @media all and (min-width: 992px) {
-    .navbar-toggleable-md {
+    .navbar-toggleable-md .navmenu > li{
         display: inline-block !important;
+        margin-left: 42px;
+        
+      
+        
     }
+
+    
 }
 
 @media all and (max-width: 992px) {
     .navbar > .container {
         max-width: 100%;
+        
     }
 }
 
 @media all and (max-width: 992px) {
     .navbar .navbar-toggleable-md {
-        z-index: 99;
-        position: absolute;
+        z-index: 99; 
+        position: relative;
         right: 0;
         top: 70px;
-        width: 180px;
-        margin: 0;
         padding: 0;
         background-color: #3BBA99;
+        
+        
     }
 
     nav a.nav-link {
@@ -177,13 +183,51 @@ nav a:hover {
         background-color: #3BBA99;
         color: black !important;
         padding: 10px;
-        max-width: 160px;
+        margin-left: 42px;
+        
+        
     }
+
+
+    
 }
+.navmenu{
+    position: absolute;
+    text-align: left;
+    padding-left: 70px;
+
+}
+
+.navmenu li a:hover{
+    background-color: rgba(99, 165, 147);
+}
+
+.navmenu .dropdown{
+    position: absolute;
+}
+
+.navmenu .dropdown li{
+   display: none; 
+   background-color: #3BBA99;
+}
+
+.navmenu li:hover .dropdown li{
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
 
 #tabzilla {
     position:relative;
-    float:right
+    float:right;
 }
 
 #tabzilla a {
@@ -273,7 +317,7 @@ b > a:link {
     text-align: center;
 }
 
-@media screen and (max-width:992px;) {
+@media screen and (max-width:992px) {
     .action {
         margin-top: 30px;
     }
@@ -473,7 +517,7 @@ ul.nav-tabs {
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom:spacing-unit / 2;
 }
 
 .footer-col ul.links-join li.wrap:before,
@@ -563,8 +607,8 @@ ul.nav-tabs {
         list-style-type: none;
         position: relative;
         width: 6px;
-        float: left
-        margin: 0 auto;
+        float: left;
+        margin : auto;
         padding-top: 50px;
         background: #3BBA99;
     }
