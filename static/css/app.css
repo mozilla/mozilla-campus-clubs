@@ -174,10 +174,10 @@ nav a:hover {
 
 .dropdown-item:hover {
     background-color: black;
-    width: 100%;
     display: block;
     margin-top: 5px;
     padding: 0;
+    width: 100%;
 }
 
 @media all and (min-width: 992px) {
@@ -190,9 +190,23 @@ nav a:hover {
     .navbar > .container {
         max-width: 100%;
     }
-}
 
-@media all and (max-width: 992px) {
+    .dropdown-content {
+        border-radius: 0;
+        height: 165px;
+        margin: 0;
+        position: relative;
+    }
+
+    .dropdown-item {
+        color: black !important;
+    }
+
+    .dropdown-item:hover {
+        background-color: white;
+        color: black;
+    }
+
     .navbar .navbar-toggleable-md {
         z-index: 99;
         position: absolute;
