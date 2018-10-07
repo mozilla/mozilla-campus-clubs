@@ -117,11 +117,11 @@ nav.navbar {
     height: 70px;
 }
 
-nav a {
-    font-size: 1.2em;
+nav a, .nav-link{
+    font-size: 16px;
+    font-weight: bold;
     text-transform: uppercase;
     margin-right: 25px;
-    padding-top: 42px;
     color: white !important;
 }
 
@@ -148,6 +148,44 @@ nav a:hover {
     margin-top: 20px;
 }
 
+.navbar-dropdown {
+    display:inline-block;
+}
+
+.navbar-dropdown-content {
+    display:none;
+    background-color:#3BBA99;
+    position: absolute;
+    padding-left:10px;
+    z-index: 99;
+}
+
+.navbar-dropdown-content * {
+    font-size:16px;
+}
+
+.navbar-dropdown-content a {
+    padding-top:10px;
+}
+.navbar-dropdown-content ul {
+    list-style-type: none;
+    margin:0;
+}
+
+.navbar-dropdown:hover
+{
+    background-color:#3BBA99;
+    
+}
+.navbar-dropdown:hover .navbar-dropdown-content {
+    
+    display: block;
+}
+
+.navbar-toggleable-md {
+        padding-top:40px;
+}
+
 @media all and (min-width: 992px) {
     .navbar-toggleable-md {
         display: inline-block !important;
@@ -172,12 +210,16 @@ nav a:hover {
         background-color: #3BBA99;
     }
 
-    nav a.nav-link {
+    nav .nav-link {
         display: block;
         background-color: #3BBA99;
         color: black !important;
         padding: 10px;
         max-width: 160px;
+    }
+    .navbar-dropdown-content {
+        z-index: 0;
+        position: relative;
     }
 }
 
