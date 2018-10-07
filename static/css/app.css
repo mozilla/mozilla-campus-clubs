@@ -179,6 +179,36 @@ nav a:hover {
         padding: 10px;
         max-width: 160px;
     }
+
+    .dropdownmenu a{
+        color: black !important;
+    }
+}
+
+.mydropdown {
+    display: inline-block;
+}
+
+.mydropdownmenu {
+    display: none;
+    position: absolute;
+    background-color: #3BBA99;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.mydropdownmenu a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+}
+
+.mydropdownmenu a:hover {background-color: rgb(0, 255, 187)}
+
+.mydropdown:hover .mydropdownmenu {
+    display: block;
 }
 
 #tabzilla {
