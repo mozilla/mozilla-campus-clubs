@@ -148,6 +148,10 @@ nav a:hover {
     margin-top: 20px;
 }
 
+.dropdown-menu, .dropdown-item:hover {
+    background-color: #3BBA99;
+}
+
 @media all and (min-width: 992px) {
     .navbar-toggleable-md {
         display: inline-block !important;
