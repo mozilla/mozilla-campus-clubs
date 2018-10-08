@@ -1,26 +1,94 @@
 <header class="site-header">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+ 
+ <style>
+    .dropdown-menu{
+        background: #3BBA99;    
+    }
+    .dropdown-item:hover{
+        background-color: rgb(0, 128, 79);    
+    }
+  </style>
+    
+    
+  <script>
 
-  <nav class="navbar">
-    <div class="container">
-      <a class="navbar-brand" href="/"><img src="/static/img/clubs.svg" alt="{{ site.title | escape }}"></a>
+    //Event handler to either show new navigation bar or display a drop down menu when cursor is on the  Club's Corner link
+    function showClubCornerNavBar()
+    {
+        var isNavBarCollapsed = $("#navBarCollapseButton").is(":visible");
+	//Display dropdown menu
+        if(isNavBarCollapsed)
+        {
+          document.getElementById("clubCornerMenu").hidden=false;
+        }
+	//Display a new navigation bar
+        else
+        {
+          document.getElementById("clubCornerMenu").hidden=true;
+          document.getElementById("clubCornerNavig").innerHTML='<nav class="navbar" onmousout="mouseOutClubCornerNavBar()"> \
+              <div class="container"  > \
+                <div class="collapse navbar-toggleable-md" id="clubCorner_parent1Div"> \
+                  <a class="nav-link" href="/get-started/">Get Started</a> \
+                  <a class="nav-link" href="/resources/">Resources</a> \
+                  <a class="nav-link" href="/connect/">Connect</a> \
+                  <a class="nav-link" href="/report/#">Report</a> \
+                  <a class="nav-link" href="/faq/">FAQ</a> \
+                </div>  \
+              </div> \
+            </nav>';
+        }
+    }
 
-      <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar" aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
+    //Event handler when cursor moves away from the navigation bar below Club's Corner link
+    function mouseOutClubCornerNavBar(e)
+    {
+      var relTarg,relTargID, relTargName;
+      relTarg = e.toElement || e.relatedTarget;
+      relTargID=relTarg.id;
+      relTargName=relTarg.nodeName;
+      if(relTargID!="clubCorner_parent1Div" && relTargName!="A" )
+      {
+        hideClubCornerNavBar();
+      }
+    }
+
+    //Event handler to hide the navigation bar under Club's Corner link
+    function hideClubCornerNavBar()
+    {
+      document.getElementById("clubCornerNavig").innerHTML="";
+    }
+  </script>
+
+  <nav class="navbar" >
+    <div class="container" id="upperNavButton">
+      <a class="navbar-brand" href="/"><img src="/static/img/clubs.svg" alt="Mozilla Campus Clubs"></a>
+      <button id="navBarCollapseButton" class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar" aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
         &#9776;
       </button>
-      <div class="collapse navbar-toggleable-md" id="exCollapsingNavbar">
-        <a class="nav-link" href="/activities/">Activities</a>
-        <a class="nav-link" href="/about/">About Clubs</a>
-        <a class="nav-link" href="/get-started/">Get Started</a>
-        <a class="nav-link" href="/resources/">Resources</a>
-        <a class="nav-link" href="/connect/">Connect</a>
-        <a class="nav-link" href="/report/#">Report</a>
-        <a class="nav-link" href="/faq/">FAQ</a>
+      <div class="collapse navbar-toggleable-md" id="exCollapsingNavbar" >
+        <a class="nav-link" href="/activities/" onmouseover="hideClubCornerNavBar()">Activities</a>
+        <div class="nav-link dropdown">
+          <a  data-toggle="dropdown"  href="#" class="nav-link" onmouseover="showClubCornerNavBar()">Club's Corner</a>
+            <div hidden id="clubCornerMenu" class="dropdown-menu" aria-labelledby="clubCornerLink">
+              <a class="dropdown-item" href="/get-started/">Get Started</a>
+              <a class="dropdown-item" href="/resources/">Resources</a>
+              <a class="dropdown-item" href="/connect/">Connect</a>
+              <a class="dropdown-item" href="/report/">Report</a>
+              <a class="dropdown-item " href="/faq/">FAQ</a>
+            </div> 
+        </div>
+        <a class="nav-link" href="/about/" onmouseover="hideClubCornerNavBar()">About Clubs</a>
       </div>
-
       <div id="tabzilla" class="hidden-lg-down">
         <a href="https://www.mozilla.org/" data-link-type="nav" data-link-name="tabzilla">Mozilla</a>
       </div>
     </div>
   </nav>
 
+  <div id="clubCornerNavig" onmouseout="mouseOutClubCornerNavBar(event)"> 
+  </div>
+
 </header>
+
+
