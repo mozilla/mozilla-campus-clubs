@@ -1,10 +1,10 @@
 <div class="container">
   <div class="row">
     <div class="col-md-4">
-      <img src="/static/img/vr.gif" alt="VR" class="img-responsive">
+      <a href="/activities/#vr-activity"><img src="/static/img/vr.gif" alt="VR" class="img-responsive"></a>
     </div>
     <div class="col-md-8">
-      <h2 id="kings-college-london">Build a virtual version of your reality</h2>
+      <h2 id="kings-college-london">What a Club can do: Build a virtual version of your reality</h2>
       <p>
         Get your club together to build your own Virtual Reality experience with A-frame, in less than an hour.
       </p>
@@ -38,12 +38,12 @@
 <div class="container">
   <div class="action">
     <h2>How Can I Get Involved?</h2>
-    <p>To get involved, simply apply to be a part of your existing Campus Club or start a new Club at your school!</p>
+    <p>To get involved, simply apply to register your existing Open Source/Tech Campus Club or start a new Club at your school!</p>
     <p>
       <a href="/connect/">Check to see if your school has a Campus Club.</a>
     </p>
     <p>
-      <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfBlMnvOVn6xUMrvBgYWJaEg4npDLUFkhbusLorfZ4BqSJgJQ/viewform" role="button">Start a Club</a>
+      <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSdKYZV3xeaIkdHyeZaZNiddF0kpRMBb-Mjb70y0HShaTXc4cg/viewform" role="button">Apply to register a Club</a>
     </p>
   </div>
 </div>
