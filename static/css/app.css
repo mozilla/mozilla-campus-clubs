@@ -57,6 +57,24 @@ nav a {
     color: white !important;
 }
 
+nav li {
+     font-size: 1em;
+     list-style: none;
+     display: inline-block;
+ }
+
+ .dropdown-menu {
+     background-color: #3BBA99;
+     border-radius: 2px;
+ }
+ .dropdown-menu .dropdown-item:focus,.dropdown-menu  .dropdown-item:hover {
+     background-color: #36a085
+ }
+
+ .dropdown:hover .dropdown-menu{
+     display: block;
+ }
+
 nav a:link {
     font-weight: bold;
 }
