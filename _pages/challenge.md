@@ -81,7 +81,7 @@ The project maintainer of the project you are going to contribute to, and the Ca
       </li>
       <li>
         <div>
-          <b>October the 30th at 1pm UTC</b>: The results are announced!
+          <b>November the 5th at 1pm UTC</b>: The results are announced!
         </div>
       </li>
 
