@@ -25,7 +25,7 @@ Join us as we welcome the winners of our first-ever Mozilla Campus Coding challe
 
 <div class="row">
   <div class="col-md-3">
-    <img src="/static/img/muljayan.png" alt="Muljayan Jalangan" class="img-responsive">
+    <img src="/static/img/muljayan.jpg" alt="Muljayan Jalangan" class="img-responsive">
   </div>
 
   <div class="col-md-9">
