@@ -10,7 +10,7 @@ ref: about
 ### Winners Announcement
 &nbsp;
 {: .clear}
-Join us as we welcome the winners of our first-ever Mozilla Campus Coding challenge who contributed code to FixMe, an platform for surfacing meaningful contribution opportunities to students.
+Join us as we welcome the winners of our first-ever Mozilla Campus Coding challenge who contributed code to <a href="https://ossn.fixme.club">FixMe</a>, an platform for surfacing meaningful contribution opportunities to students.
 
 <div class="row">
   <div class="col-md-3">
