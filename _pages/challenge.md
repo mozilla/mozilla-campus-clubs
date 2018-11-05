@@ -5,6 +5,68 @@ permalink: /challenge
 ref: about
 ---
 
+
+{: .action}
+### Winners Announcement
+&nbsp;
+{: .clear}
+Join us as we welcome the winners of our first-ever Mozilla Campus Coding challenge who contributed code to FixMe, an platform for surfacing meaningful contribution opportunities to students.
+
+<div class="row">
+  <div class="col-md-3">
+    <img src="/static/img/himank.jpg" alt="Himank Pathak" class="img-responsive">
+  </div>
+
+  <div class="col-md-9">
+    <p><strong>Himank Pathak</strong></p>
+    <p>Himank is a "jack of all trades" from Indore, India who likes to make cool things with web technologies. In the Campus Clubs challenge he focused his efforts into fixing front-end UI/UX issues <a href="https://github.com/ossn/fixme/commits?author=himankpathak">solving numerous issues</a>.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-3">
+    <img src="/static/img/muljayan.png" alt="Muljayan Jalangan" class="img-responsive">
+  </div>
+
+  <div class="col-md-9">
+    <p><strong>Muljayan Jalangan</strong></p>
+    <p>Muljayan is an undergraduate student of Information Technology at the University of Moratuwa, in Sri Lanka. He is currently doing his intership as a software engineer in TWC Innovations and has been a active leader in major university clubs. In this challenge contributed by <a href="https://github.com/ossn/fixme/commits?author=Muljayan">adding missing information and fixing they styling of the website</a>.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-3">
+    <img src="/static/img/tabish.jpg" alt="Tabish Shaikh" class="img-responsive">
+  </div>
+
+  <div class="col-md-9">
+    <p><strong>Tabish Shaikh</strong></p>
+    <p>Tabish is a third year Undergraduate Student in the Computer Science and Engineering Department at IIT Jammu in India who loves Open Source, web development and is in love with machine learning. Fixing the sidebar and improving the website's security were <a href="https://github.com/ossn/fixme/commits?author=tabshaikh"> some of his contributions</a>.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-3">
+    <img src="/static/img/charles.jpg" alt="Charles Hopman" class="img-responsive">
+  </div>
+
+  <div class="col-md-9">
+    <p><strong>Charles Hopman</strong></p>
+    <p>Charles other than a regular SUMO contributor helped improving the projects view into the <a href="https://github.com/ossn/fixme/commits?author=CharlesHopman">FixMe tool</a>.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-3">
+    <img src="/static/img/musthaq.jpg" alt="Musthaq Ahamad" class="img-responsive">
+  </div>
+
+  <div class="col-md-9">
+    <p><strong>Musthaq Ahamad</strong></p>
+    <p>Musthhaq is a hobbyist Android, Node & Reach developer from Kerala, India. He help with the <a href="https://github.com/ossn/fixme/commits?author=haxzie">project's documentation and setup</a>.</p>
+  </div>
+</div>
+
 {: .action}
 ### Participate in our first-ever coding challenge!
 &nbsp;
