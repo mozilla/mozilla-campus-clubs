@@ -30,7 +30,7 @@ Join us as we welcome the winners of our first-ever Mozilla Campus Coding challe
 
   <div class="col-md-9">
     <p><strong>Muljayan Jalangan</strong></p>
-    <p>Muljayan is an undergraduate student of Information Technology at the University of Moratuwa, in Sri Lanka. He is currently doing his intership as a software engineer in TWC Innovations and has been a active leader in major university clubs. In this challenge contributed by <a href="https://github.com/ossn/fixme/commits?author=Muljayan">adding missing information and fixing they styling of the website</a>.</p>
+    <p>Muljayan is an undergraduate student of Information Technology at the University of Moratuwa, in Sri Lanka. He is currently doing his internship as a software engineer in TWC Innovations. In this challenge he contributed by <a href="https://github.com/ossn/fixme/commits?author=Muljayan">adding missing information and fixing the styling of the website</a>.</p>
   </div>
 </div>
 
