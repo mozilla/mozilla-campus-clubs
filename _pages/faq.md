@@ -23,16 +23,33 @@ ref: faq
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseZero">What are the requirements for registering a campus club with Mozilla?</a>
+                    </h4>
+                </div>
+                <div id="collapseZero" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                        <p>Each Club should meet the following:
+                            <li><b>Established</b>: For the meantime we want to focus on learning how we can support the groups who are already around. We love that you want to start a new group but we’ll ask that you get started first, then register with Mozilla.</li>
+                            <li><b>Hold Regular Meetings:</b> They can be in-person or virtual, but we want to support groups that have a regular cadence of getting together to coordinate, plan, and work.</li>
+                            <li><b>Contribute to Mozilla:</b> Obviously! You need to make regular contributions to projects that support Mozilla’s mission, whether it be localizing, coding, answering support questions, throwing events, or participating in campaigns.</li>
+                            <li><b>Have at Least 3 Members:</b> Hanging out with a few friends is great but in order to be registered Campus Clubs must have an active set of contributors 3+ members.</li>
+                            <li><b>Are Open and Welcoming:</b> Mozilla and it’s official groups welcome everyone who shares Mozilla’s goals and wants to contribute in a healthy and constructive manner to participate. Groups cannot restrict membership.</li>
+                            <li><b>Follow the <a href="https://www.mozilla.org/en-US/about/governance/policies/participation/">CPG</a>;</b> The heart of Mozilla is people as such we require all groups who participated to agree to adhere and uphold to the Community Participation Guidelines (CPG).</li>
+                            If your Club meets the previous criteria, you can apply to register with Mozilla here.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">I want to start a new Club in my College, what do I need to do?</a>
                     </h4>
                 </div>
-                <div id="collapseOne" class="panel-collapse collapse in">
+                <div id="collapseOne" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        This 2018, we are implementing a seasonal application for the clubs. It will happen in the months of February, June-July, and Sept-October.
-                        </p>
-                        <p>
-                        You can apply to start a club in your Campus by checking the <a href="https://campus.mozilla.community/get-started/" target="_blank">Get Started</a> page. As the Club Captain you have to fill the application form and it is highly advisable to have three executives who will help you to initialize/sustain the Club, identify the Club’s focus areas and help plan the future activities.
+                        Under the resources page you can find a lot and useful guides and tools for how to start a new club in your campus. The Mozilla Campus Clubs is just a network of established clubs that care about Open Source. Other than the availabe resources, we don't provide any further support for starting a new cluv in your campus. 
                         </p>
                     </div>
                 </div>
@@ -69,14 +86,7 @@ ref: faq
                 <div id="collapseThree" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        Thank you for applying! We have received your application and we invite you to go through the two following necessary steps in order to get your Club active and officially recognized:
-                        <ol>
-                            <li>Enroll and complete the <a href="https://mozilla.teachable.com/p/mozilla-campus-club-training" target="_blank">Orientation for Campus Club Leaders</a></li>
-                            <li>Follow the prompt to complete and submit your Year Plan</li>
-                            <li>As soon as you submit a year plan you will receive a confirmation email for being officially registered with us as a Club Captain!</li>
-                        </ol>
-                        </p>
-                        <p>If you have a question about the status of your application or your progress, please email campusclubs AT mozilla DOT com.
+                        Thank you for applying! You will receive an email with all the necessary information about access to resources and ways to connect with other clubs.
                         </p>
                     </div>
                 </div>
@@ -93,7 +103,7 @@ ref: faq
                         A Community Expert will help you establish an awesome club by providing you guidance, support and help you set your Club’s goals for the rest of the year.
                         In the Resources page in the website you can find all the relevant information on how to setup and successfully run your club.
                         Going through the available Resources will help you have a faster, meaningful, productive and more fun on-boarding process.
-                        After you successfully complete the onboarding process you will receive an email with instructions on how to connect with the Community Experts.
+                        Community Experts usually can be found on the communication channel which has been shared with you the moment you signed up. Please refer to the email verifying your registration with the network.
                         </p>
                     </div>
                 </div>
@@ -101,13 +111,13 @@ ref: faq
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">When is my Club officially recognized as a Mozilla Campus Club?</a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">When I register, is my Club recognized as a Mozilla Campus Club?</a>
                     </h4>
                 </div>
                 <div id="collapseFive" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        In order for a Club to be recognized as an official Mozilla Campus Club, the Club Captain should meet the requirements listed in the <a href="https://docs.google.com/document/u/1/d/1JE6966a8yc0CBh3Xa9Ce7McKZkxkHvdZg01o5mxUORU/pub" target="_blank">role description document</a></li> and the Club must demonstrate three months of regular activity, by running activities and submitting reports on a regular basis.
+                        No! Your club is recognized as an official member of the Mozilla Campus Clubs <b>Network</b>. The goal of this program is to create a network of Campus Clubs from around the world that care about Open Source. 
                         </p>
                     </div>
                 </div>
@@ -147,13 +157,13 @@ ref: faq
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight">Can we have multiple clubs per campus?</a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight">Can multiple clubs from the same campus register with the network?</a>
                     </h4>
                 </div>
                 <div id="collapseEight" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        You can have only one Mozilla Campus Club per Campus. Having more than one Mozilla Campus Clubs in the same campus will lead to competition for members and resources. If there is such conflict in your campus, please report by sending an email to campusclubs [at] mozilla [dot] com.
+                        Yes! Any Club tha focuses on Open Source can register with our network.
                         </p>
                     </div>
                 </div>

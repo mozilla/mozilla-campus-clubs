@@ -25,41 +25,6 @@ ref: about
   </div>
 </div>
 
-## Roles in Campus Clubs
-
-<div class="row activities-table">
-  <div class="col-md-4">
-    <p><b>Regional Coordinators</b></p>
-
-    <p>Regional Coordinator are people with strong leadership skills and proven experience with mentoring, especially on campuses. They work closely with staff to mentor and support Club Captains. A Regional Coordinator is responsible for making sure the campus program is successfully running in their local region.</p>
-
-    <p>You can read the full Roles & Responsibilities of a Regional Coordinator <a href="https://docs.google.com/document/d/1GypBGnffjxfyX174g7fiLAcZF8tSKC5Xo7Qd4gpC5yM/pub">here</a>.</p>
-  </div>
-
-  <div class="col-md-4">
-    <p><b>Club Captains</b></p>
-
-    <p>Club Captains are people with a passion for technology, leadership skills and an entrepreneurial spirit. With their team the Club Captain launches, builds and runs their Campus’ Mozilla Club.  The Club Captain is responsible for making sure their Club is running successfully on their Campus.</p>
-
-    <p class="ul">Campus Clubs registered with Mozilla will be:</p>
-    <ul>
-      <li>listed on the website</li>
-      <li>have access to special training and skills building opportunities</li>
-      <li>have access to a broad group of talented experts/professionals</li>
-    </ul>
-   <p>
-Read the full Roles & Responsibilities of a Club Captain <a href="https://docs.google.com/document/d/1JE6966a8yc0CBh3Xa9Ce7McKZkxkHvdZg01o5mxUORU/pub">here</a>.</p>
-  </div>
-
-  <div class="col-md-4">
-    <p><b>Members</b></p>
-
-    <p>What’s a Club with no participants? Members are the heart of Campus Clubs, they attend meetings, participate in activities and grow their skills and connect with others through the Campus Clubs framework.</p>
-
-    <p>Looking to join a club? Find your campus on the map <a href="https://campus.mozilla.community/connect/">here</a>.</p>
-  </div>
-</div>
-
 {: .clear}
 &nbsp;
 
