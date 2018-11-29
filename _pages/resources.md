@@ -17,7 +17,7 @@ ref: resources
 <div class="resources">
   <img src="/static/img/book.png" alt="">
   <div class="head-link">Register Your Club</div>
-  <span>Register your Club with Mozilla <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBlMnvOVn6xUMrvBgYWJaEg4npDLUFkhbusLorfZ4BqSJgJQ/viewform">here</a>.</span>
+  <span>Register your Club with Mozilla <a href="/get-started/">here</a>.</span>
 </div>
 
 {: .clear}
@@ -40,7 +40,7 @@ ref: resources
   <div class="head-link">Year Planning Guidance</div>
   <span>
     Create your own Year Planning document by using this <a href="/yearplanning/">guide</a> and filling in one of these templates:<br>
-     For <b>Club Captains</b> - <a href="/get-started/" target="_blank">Template</a>
+     For <b>Club Captains</b> - <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdKutKTmBhzOlNj-5NFC8noj3RisPsH50fvHKjTFZL3aDtAmQ/viewform" target="_blank">Template</a>
   </span>
 </div>
 
