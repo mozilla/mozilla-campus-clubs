@@ -30,7 +30,7 @@ ref: about
 
   </p>
 
-  <p>If you currently don't run a Club and you want to start one, please check the relevant information into our <a href="/faq">FAQ</a></p>
+  <p>If you currently don't run a Club and you want to start one, please check the relevant information into our <a href="/faq/">FAQ</a></p>
 
 
   <section class="timeline">

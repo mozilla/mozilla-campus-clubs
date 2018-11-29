@@ -42,7 +42,7 @@
       <a href="/connect/">Check to see if your school has a Campus Club.</a>
     </p>
     <p>
-      <a class="btn btn-primary btn-lg" href="/get-started" role="button">Apply to register a Club</a>
+      <a class="btn btn-primary btn-lg" href="/get-started/" role="button">Apply to register a Club</a>
     </p>
   </div>
 </div>
