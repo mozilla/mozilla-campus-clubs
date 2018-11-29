@@ -40,7 +40,7 @@ ref: resources
   <div class="head-link">Year Planning Guidance</div>
   <span>
     Create your own Year Planning document by using this <a href="/yearplanning/">guide</a> and filling in one of these templates:<br>
-     For <b>Club Captains</b> - <a href="https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdKutKTmBhzOlNj-5NFC8noj3RisPsH50fvHKjTFZL3aDtAmQ/viewform" target="_blank">Template</a>
+     For <b>Club Captains</b> - <a href="/get-started/" target="_blank">Template</a>
   </span>
 </div>
 
