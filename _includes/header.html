@@ -9,12 +9,19 @@
       </button>
       <div class="collapse navbar-toggleable-md" id="exCollapsingNavbar">
         <a class="nav-link" href="/activities/">Activities</a>
-        <a class="nav-link" href="/about/">About Clubs</a>
-        <a class="nav-link" href="/get-started/">Get Started</a>
-        <a class="nav-link" href="/resources/">Resources</a>
-        <a class="nav-link" href="/connect/">Connect</a>
-        <a class="nav-link" href="/report/#">Report</a>
-        <a class="nav-link" href="/faq/">FAQ</a>
+        <div class="nav-link dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="clubsCornerDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Club's Corner
+          </a>
+          <div class="dropdown-menu" aria-labelledby="clubsCornerDropdown" style="background-color: #3BBA99">
+            <a class="dropdown-item" href="/get-started/"><span style="color: black">Get Started</span></a>
+            <a class="dropdown-item" href="/resources/"><span style="color: black">Resources</span></a>
+            <a class="dropdown-item" href="/connect/"><span style="color: black">Connect</span></a>
+            <a class="dropdown-item" href="/report/#"><span style="color: black">Report</span></a>
+            <a class="dropdown-item" href="/faq/"><span style="color: black">FAQ</span></a>
+          </div>
+        </div>
+        <a class="nav-link" href="/about/">About</a>
       </div>
 
       <div id="tabzilla" class="hidden-lg-down">
