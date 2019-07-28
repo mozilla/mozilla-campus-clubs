@@ -117,8 +117,7 @@ nav.navbar {
     height: 70px;
 }
 
-nav a {
-    font-size: 1.2em;
+nav li a {
     text-transform: uppercase;
     margin-right: 25px;
     padding-top: 42px;
@@ -136,6 +135,24 @@ nav a.inactive {
 
 nav a:hover {
     color: white;
+}
+
+nav li {
+    font-size: 1em;
+    list-style: none;
+    display: inline-block;
+}
+
+.dropdown-menu {
+    background-color: #3BBA99;
+    border-radius: 2px;
+}
+.dropdown-menu .dropdown-item:focus,.dropdown-menu  .dropdown-item:hover {
+    background-color: #36a085
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
 }
 
 .navbar-brand > img {
