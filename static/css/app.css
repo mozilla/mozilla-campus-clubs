@@ -118,7 +118,6 @@ nav.navbar {
 }
 
 nav a {
-    font-size: 1.2em;
     text-transform: uppercase;
     margin-right: 25px;
     padding-top: 42px;
@@ -148,6 +147,34 @@ nav a:hover {
     margin-top: 20px;
 }
 
+.corner-menu {
+    display: none;
+    width: 180px;
+    height: 170px;
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 105px;
+    cursor: pointer;
+    padding: 5px 0 5px 10px;
+    border-radius: 0px 5px 5px 5px;
+    background-color: #ffffff;
+    font-weight: bold;
+}
+
+.corner-menu > a {
+    display: block;
+    margin-top: 5px;
+}
+
+.corner-link {
+    cursor: pointer;
+}
+
+.corner-menu > a {
+    padding: 0;
+    color: black !important;
+}
+
 @media all and (min-width: 992px) {
     .navbar-toggleable-md {
         display: inline-block !important;
@@ -158,9 +185,7 @@ nav a:hover {
     .navbar > .container {
         max-width: 100%;
     }
-}
 
-@media all and (max-width: 992px) {
     .navbar .navbar-toggleable-md {
         z-index: 99;
         position: absolute;
@@ -178,6 +203,12 @@ nav a:hover {
         color: black !important;
         padding: 10px;
         max-width: 160px;
+    }
+
+    .corner-menu {
+        position: relative;
+        margin: 0;
+        border-radius: 0;
     }
 }
 
@@ -273,7 +304,7 @@ b > a:link {
     text-align: center;
 }
 
-@media screen and (max-width:992px;) {
+@media screen and (max-width:992px) {
     .action {
         margin-top: 30px;
     }
@@ -473,7 +504,6 @@ ul.nav-tabs {
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
 }
 
 .footer-col ul.links-join li.wrap:before,
@@ -563,7 +593,7 @@ ul.nav-tabs {
         list-style-type: none;
         position: relative;
         width: 6px;
-        float: left
+        float: left;
         margin: 0 auto;
         padding-top: 50px;
         background: #3BBA99;
