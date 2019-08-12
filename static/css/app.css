@@ -638,3 +638,13 @@ a.btn-primary-activities {
 .headersleft h3 {
   text-align: left;
 }
+
+.dropdown-menu {
+    background: #3BBA99;
+}
+
+.nav-link.dropdown-item:hover {
+    background: #535353;
+}
+
+
