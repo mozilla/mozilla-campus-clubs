@@ -148,6 +148,31 @@ nav a:hover {
     margin-top: 20px;
 }
 
+a.dropdown-toggle {
+    font-size: inherit;
+}
+
+ul.dropdown-menu {
+    background-color: #3BBA99;
+    position: absolute;
+    margin-left: 26%;
+    text-align: center;
+    text-indent: 5%;
+}
+
+.header {
+    position: relative;
+    font-size: 1.2em;
+}
+
+@media all and (max-width: 992px) {
+    ul.dropdown-menu {
+        float: left;
+        margin-left: 0px;
+        position: relative;
+    }
+}
+
 @media all and (min-width: 992px) {
     .navbar-toggleable-md {
         display: inline-block !important;
