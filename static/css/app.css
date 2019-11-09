@@ -109,6 +109,13 @@ ul {
     margin-left: 30px;
 }
 
+.dropdown-header{
+    display: inline-block;  
+}
+.dropdown-header .dropdown-menu a{
+    text-decoration: none; 
+    color:#3bba99 !important;
+}
 nav.navbar {
     background-color: #3BBA99;
     color: white;
@@ -175,7 +182,7 @@ nav a:hover {
     nav a.nav-link {
         display: block;
         background-color: #3BBA99;
-        color: black !important;
+        color: white !important;
         padding: 10px;
         max-width: 160px;
     }
