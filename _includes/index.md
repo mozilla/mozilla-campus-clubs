@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-4">
-      <a href="/activities/#vr-activity"><img src="/static/img/vr.gif" alt="VR" class="img-responsive"></a>
+      <img src="/static/img/mcp.png" alt="VR" class="img-responsive">
     </div>
     <div class="col-md-8">
       <h2 id="kings-college-london">Mozilla Campus Clubs is moving to the new Community Portal</h2>
