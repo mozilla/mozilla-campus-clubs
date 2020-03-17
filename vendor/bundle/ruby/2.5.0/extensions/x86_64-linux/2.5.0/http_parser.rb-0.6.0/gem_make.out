@@ -1,0 +1,16 @@
+current directory: /media/crystalcbuddy/BEE27246E27202C7/EducationalStuff/Programming/Mozilla/mozilla-campus-clubs/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.5 -r ./siteconf20181002-10397-1by471m.rb extconf.rb
+creating Makefile
+
+current directory: /media/crystalcbuddy/BEE27246E27202C7/EducationalStuff/Programming/Mozilla/mozilla-campus-clubs/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /media/crystalcbuddy/BEE27246E27202C7/EducationalStuff/Programming/Mozilla/mozilla-campus-clubs/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /media/crystalcbuddy/BEE27246E27202C7/EducationalStuff/Programming/Mozilla/mozilla-campus-clubs/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20181002-10397-10s2xuz
