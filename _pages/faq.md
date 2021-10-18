@@ -49,7 +49,7 @@ ref: faq
                 <div id="collapseOne" class="panel-collapse collapse">
                     <div class="panel-body">
                         <p>
-                        Under the resources page you can find a lot and useful guides and tools for how to start a new club in your campus. The Mozilla Campus Clubs is just a network of established clubs that care about Open Source. Other than the availabe resources, we don't provide any further support for starting a new cluv in your campus. 
+                        Under the resources page you can find a lot and useful guides and tools for how to start a new club in your campus. The Mozilla Campus Clubs is just a network of established clubs that care about Open Source. Other than the availabe resources, we don't provide any further support for starting a new club in your campus. 
                         </p>
                     </div>
                 </div>
